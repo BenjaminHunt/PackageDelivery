@@ -5,6 +5,7 @@ class GUI:
     def __init__(self, root):
         root.title("Command Line Interface")
         root.geometry("800x450")
+        root.minsize(400, 200)
 
         Label(root, text=" Command: ").grid(row=1)
 
@@ -30,13 +31,13 @@ class GUI:
         if self.entry.get() != "":
             self.terminal_write(self.entry.get())
             self.entry.delete(0, 'end')
-            self.output.yview_moveto(1)
 
 
     def terminal_write(self, text):
         self.output.configure(state="normal")
         self.output.insert(index=END, chars=(text+'\n'))
         self.output.configure(state="disabled")
+        self.output.yview_moveto(1)
 
 root = Tk()
 gui = GUI(root)
