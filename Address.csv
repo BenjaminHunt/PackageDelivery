@@ -1,0 +1,1001 @@
+id,state,city,zip,street,streetNumber,aptNumber
+1,Texas,Houston,77080,Portage,96952,
+2,Oklahoma,Edmond,73034,Saint Paul,45763,
+3,California,Garden Grove,92844,Utah,988,18
+4,Alabama,Montgomery,36104,Westridge,353,5
+5,Maryland,Baltimore,21290,Bowman,6,6
+6,Pennsylvania,Pittsburgh,15235,Columbus,47910,
+7,West Virginia,Charleston,25336,Eastlawn,408,
+8,California,Santa Monica,90410,Tony,305,
+9,District of Columbia,Washington,20268,Hudson,4,08631
+10,Texas,Abilene,79605,Talisman,224,
+11,Texas,Houston,77260,Bayside,581,
+12,Kentucky,Louisville,40250,Maywood,727,
+13,Oklahoma,Edmond,73034,Gale,9988,
+14,District of Columbia,Washington,20046,Hintze,771,585
+15,Florida,Orlando,32854,Westend,4875,
+16,Texas,Fort Worth,76121,Mallard,5,
+17,Maryland,Silver Spring,20904,Lighthouse Bay,1,
+18,Ohio,Cincinnati,45213,Annamark,29535,232
+19,Indiana,Fort Wayne,46814,7th,0386,
+20,Texas,Abilene,79605,Lake View,941,
+21,New York,Rochester,14652,Hoepker,16413,
+22,Virginia,Arlington,22234,Eggendart,6,
+23,Montana,Missoula,59806,Commercial,6,
+24,Florida,Lakeland,33811,Rockefeller,43934,
+25,California,San Diego,92127,Bashford,689,
+26,New York,Rochester,14646,Bellgrove,228,
+27,California,Fullerton,92640,Bluestem,687,
+28,Louisiana,Shreveport,71166,Raven,6,
+29,Florida,Hialeah,33013,Anderson,53,
+30,Florida,Boca Raton,33499,Moland,1,
+31,Pennsylvania,Philadelphia,19136,Canary,5914,
+32,Louisiana,Baton Rouge,70894,Harper,58555,39722
+33,Texas,Galveston,77554,Heath,78541,
+34,Pennsylvania,Erie,16510,Lyons,42,133
+35,Georgia,Atlanta,31190,Knutson,157,
+36,New York,Brooklyn,11231,Waxwing,566,42619
+37,Pennsylvania,Harrisburg,17126,Farmco,83236,
+38,California,San Jose,95173,Oak Valley,05,
+39,Pennsylvania,Pittsburgh,15215,Kings,915,353
+40,Pennsylvania,New Castle,16107,Forest Run,3045,
+41,Virginia,Richmond,23272,Corben,14,
+42,Georgia,Marietta,30066,Evergreen,731,44
+43,Florida,Tampa,33680,Village,53046,
+44,Tennessee,Chattanooga,37410,Charing Cross,8,
+45,Colorado,Fort Collins,80525,Northview,41309,
+46,Texas,El Paso,79994,Cherokee,06,
+47,Texas,Houston,77281,Algoma,38576,847
+48,Nevada,North Las Vegas,89087,Old Gate,92,891
+49,Connecticut,Stamford,06922,Evergreen,44797,
+50,Florida,Bradenton,34205,Corben,71791,
+51,District of Columbia,Washington,20420,Ryan,61,
+52,Michigan,Midland,48670,Lien,8111,
+53,New Hampshire,Manchester,03105,Pennsylvania,1929,2
+54,Kansas,Kansas City,66112,Granby,6960,64
+55,Alabama,Birmingham,35285,Acker,5317,
+56,Texas,El Paso,79945,Corben,8,
+57,New York,New York City,10184,Fieldstone,05,14
+58,Washington,Seattle,98121,Vermont,84,
+59,Washington,Seattle,98185,Bartillon,00,
+60,South Carolina,Greenville,29615,Basil,5871,
+61,California,San Jose,95160,Killdeer,8,
+62,Missouri,Kansas City,64144,Pennsylvania,1,
+63,Florida,Orlando,32859,Tennyson,15,
+64,Texas,Pasadena,77505,Westerfield,1113,
+65,Florida,North Port,34290,Red Cloud,923,
+66,Virginia,Reston,22096,Superior,0683,
+67,Arizona,Phoenix,85045,Morrow,263,3871
+68,Texas,El Paso,88553,Lakewood,1,868
+69,California,South Lake Tahoe,96154,Rutledge,18760,02
+70,Nevada,Reno,89519,Schmedeman,65222,
+71,Texas,El Paso,79977,Valley Edge,98757,6
+72,Georgia,Atlanta,30336,Reinke,2749,
+73,Ohio,Columbus,43268,West,6,
+74,Tennessee,Memphis,38188,Butternut,79,38
+75,Tennessee,Chattanooga,37410,Schmedeman,8491,6234
+76,Tennessee,Memphis,38114,Westend,79,7073
+77,Oregon,Beaverton,97075,Crescent Oaks,09002,
+78,South Carolina,Columbia,29208,Village,3208,
+79,New Jersey,Trenton,08603,Green Ridge,919,
+80,Arizona,Phoenix,85005,Basil,60,4765
+81,Florida,Fort Lauderdale,33305,Sommers,5,
+82,Ohio,Cincinnati,45233,Rockefeller,64,
+83,Florida,Fort Pierce,34981,Pleasure,78,
+84,Texas,Dallas,75397,Laurel,37,1
+85,Florida,West Palm Beach,33421,Shopko,9,
+86,Oklahoma,Oklahoma City,73152,Eagan,4237,
+87,Michigan,Detroit,48206,Cambridge,3,
+88,Missouri,Springfield,65805,Lawn,509,
+89,North Carolina,Winston Salem,27110,Jenifer,04596,
+90,Ohio,Cincinnati,45264,Maple,9113,55
+91,Tennessee,Memphis,38197,Sycamore,7902,
+92,Minnesota,Saint Paul,55166,Union,593,
+93,Nevada,Las Vegas,89155,Bunting,1554,
+94,Texas,San Antonio,78296,Hooker,4,19
+95,District of Columbia,Washington,20546,Pierstorff,94,
+96,Alabama,Mobile,36641,East,017,
+97,Utah,Provo,84605,Oak Valley,2,700
+98,New Mexico,Albuquerque,87110,Morning,080,31358
+99,Arizona,Tucson,85732,Morning,53092,
+100,California,Inglewood,90305,Reindahl,96,
+101,Illinois,Peoria,61605,Valley Edge,4242,3
+102,Oklahoma,Oklahoma City,73152,Browning,4975,
+103,Colorado,Greeley,80638,Bartelt,1549,871
+104,Ohio,Cincinnati,45203,Orin,96,
+105,Arizona,Tucson,85748,Fieldstone,52245,
+106,California,Van Nuys,91499,La Follette,4186,
+107,New York,Albany,12222,Novick,11,
+108,California,Pasadena,91131,Brentwood,67,
+109,Massachusetts,Woburn,01813,Kenwood,7204,
+110,Florida,Orlando,32859,Manitowish,77,
+111,Colorado,Denver,80255,Shelley,90091,191
+112,Tennessee,Memphis,38150,Becker,18120,598
+113,Texas,Houston,77035,Sutteridge,71,4
+114,Georgia,Savannah,31405,Burrows,56140,
+115,Pennsylvania,Pittsburgh,15235,Memorial,37,931
+116,South Dakota,Sioux Falls,57105,Heffernan,4447,
+117,California,San Jose,95173,Graceland,7249,696
+118,Colorado,Littleton,80126,Donald,739,
+119,North Dakota,Bismarck,58505,Shopko,34,
+120,Illinois,Chicago,60697,Badeau,61,
+121,Kansas,Shawnee Mission,66286,Montana,4,
+122,Colorado,Colorado Springs,80905,Laurel,02699,
+123,California,Chico,95973,New Castle,0,
+124,Florida,Port Charlotte,33954,Summit,80,60
+125,Florida,Brooksville,34605,Shoshone,0,
+126,District of Columbia,Washington,20005,Warrior,451,
+127,California,Petaluma,94975,Mockingbird,7,
+128,California,Riverside,92519,Waywood,6056,9671
+129,Texas,El Paso,88584,Nova,5588,
+130,West Virginia,Charleston,25305,Atwood,03,
+131,Ohio,Akron,44321,Magdeline,06,
+132,North Carolina,Durham,27705,Columbus,8419,
+133,California,North Hollywood,91616,Loeprich,756,8
+134,Florida,Orlando,32854,Bowman,92,
+135,California,San Francisco,94137,Crownhardt,05,
+136,Indiana,Anderson,46015,Farmco,036,38587
+137,Nebraska,Lincoln,68531,Gateway,32,
+138,Alabama,Gadsden,35905,Blaine,933,4
+139,Indiana,Indianapolis,46247,Golf Course,5931,2
+140,California,Alhambra,91841,4th,7987,
+141,Virginia,Virginia Beach,23454,Victoria,515,
+142,Virginia,Roanoke,24009,Oneill,535,46
+143,Louisiana,Monroe,71213,Corscot,959,
+144,Texas,San Antonio,78285,Clove,12,
+145,Virginia,Arlington,22225,New Castle,5701,
+146,Virginia,Norfolk,23504,Butterfield,85509,
+147,Nebraska,Omaha,68134,Westend,732,
+148,Alabama,Birmingham,35279,Doe Crossing,79718,
+149,Ohio,Canton,44760,Upham,78,678
+150,Texas,Midland,79710,Mallard,95880,
+151,Georgia,Alpharetta,30022,Buell,41005,
+152,South Carolina,Florence,29505,Golf,8,
+153,Georgia,Savannah,31410,Park Meadow,14,
+154,Louisiana,Baton Rouge,70815,Pond,9442,
+155,California,Salinas,93907,Annamark,3,
+156,New Mexico,Albuquerque,87140,Tomscot,532,675
+157,Florida,Ocala,34479,Ludington,3,
+158,Florida,Miami,33124,Holy Cross,9,
+159,Iowa,Des Moines,50369,Kropf,771,
+160,Minnesota,Saint Cloud,56398,Susan,2308,
+161,Arizona,Peoria,85383,Brown,3,
+162,Washington,Seattle,98109,Dixon,02291,63665
+163,Wisconsin,Racine,53405,Hayes,76,
+164,Virginia,Richmond,23225,Hanover,492,
+165,New York,Albany,12222,Goodland,3014,
+166,District of Columbia,Washington,20268,Morrow,4535,
+167,Ohio,Cleveland,44185,Eastlawn,590,
+168,Michigan,Saginaw,48604,Ludington,52102,3728
+169,Kentucky,Louisville,40287,Rockefeller,37570,
+170,Texas,San Antonio,78255,Ridgeway,452,20555
+171,Illinois,Springfield,62756,Graceland,3,6410
+172,Texas,Houston,77299,Briar Crest,949,
+173,California,Sacramento,94291,Westport,54,
+174,Georgia,Atlanta,30375,Johnson,00601,5
+175,Texas,Houston,77271,Talisman,54287,
+176,California,Fresno,93721,Chive,3,7952
+177,Florida,Orlando,32859,Dottie,446,
+178,Texas,Houston,77080,Menomonie,71,
+179,Washington,Seattle,98175,Forest Run,6,
+180,California,Bakersfield,93386,Hanover,5,
+181,California,Chula Vista,91913,Bay,50538,75
+182,Indiana,Evansville,47719,Mallory,7152,
+183,Georgia,Norcross,30092,Sutherland,5,
+184,Texas,Houston,77281,Bashford,960,
+185,Michigan,Flint,48555,Rigney,336,
+186,California,Fresno,93704,Arizona,35184,
+187,Arizona,Phoenix,85005,Kipling,0395,
+188,Minnesota,Minneapolis,55441,Pond,4,
+189,North Carolina,Asheville,28815,Pankratz,00592,1
+190,New Mexico,Albuquerque,87201,Gina,49106,8740
+191,Massachusetts,Boston,02119,Barby,75,
+192,Kansas,Wichita,67236,Rieder,634,
+193,Florida,Fort Lauderdale,33345,Arrowood,77792,
+194,Washington,Tacoma,98442,3rd,3,
+195,California,San Jose,95108,Riverside,95,
+196,Colorado,Denver,80291,Melrose,103,0960
+197,Alabama,Birmingham,35285,Columbus,0089,27607
+198,South Carolina,Spartanburg,29305,Derek,27,
+199,Iowa,Sioux City,51110,Badeau,52162,
+200,North Carolina,Raleigh,27610,Laurel,2,
+201,Kansas,Topeka,66622,Schiller,2,
+202,Pennsylvania,Wilkes Barre,18763,Oak Valley,8,956
+203,Florida,Port Charlotte,33954,Paget,5,
+204,Ohio,Cleveland,44118,Springs,10,
+205,Delaware,Wilmington,19810,Victoria,2973,582
+206,Colorado,Denver,80204,Schmedeman,6565,
+207,Florida,Fort Lauderdale,33330,Reindahl,645,1727
+208,Texas,Denton,76205,Ohio,12324,
+209,Tennessee,Memphis,38197,Comanche,1719,
+210,Texas,Fort Worth,76110,Norway Maple,35,13
+211,Ohio,Canton,44760,Bowman,97,96
+212,Oklahoma,Tulsa,74126,Menomonie,64,
+213,Texas,Houston,77234,Nelson,98,
+214,Texas,Dallas,75241,Michigan,35,6356
+215,New York,Albany,12210,Monument,50,28
+216,Virginia,Arlington,22234,Summit,1,9
+217,California,Santa Barbara,93150,Magdeline,04,
+218,California,Oakland,94611,Melody,1,
+219,Wisconsin,Madison,53790,Manufacturers,7,29798
+220,Alabama,Birmingham,35225,Buhler,871,22
+221,Alabama,Tuscaloosa,35487,Jenifer,1,
+222,Florida,Orlando,32813,Haas,5616,
+223,District of Columbia,Washington,20436,Forest,04,
+224,Massachusetts,Brockton,02305,Banding,8,88
+225,Pennsylvania,Philadelphia,19104,Cherokee,7008,
+226,Florida,Punta Gorda,33982,Eliot,0929,
+227,Illinois,Rockford,61105,Haas,092,
+228,Arizona,Phoenix,85010,Stone Corner,7,
+229,Ohio,Lima,45807,Center,17,
+230,Pennsylvania,Harrisburg,17126,Sutherland,654,7
+231,North Carolina,Raleigh,27605,Grover,71146,
+232,Florida,Pensacola,32520,Huxley,045,
+233,West Virginia,Charleston,25389,Dovetail,7782,
+234,North Carolina,Asheville,28815,Leroy,50186,3
+235,Mississippi,Jackson,39282,Tennyson,03752,3869
+236,Florida,Punta Gorda,33982,Esch,3696,
+237,California,San Jose,95150,Carey,69120,
+238,New Jersey,Newark,07188,Lindbergh,92,
+239,Alaska,Anchorage,99507,Doe Crossing,62451,
+240,California,Bakersfield,93399,Artisan,18,224
+241,Delaware,Wilmington,19805,Karstens,8191,
+242,Georgia,Valdosta,31605,Clemons,682,202
+243,Alabama,Birmingham,35244,Pankratz,88,
+244,Wisconsin,Green Bay,54313,Miller,28,
+245,Tennessee,Nashville,37240,Anthes,594,
+246,Florida,Port Saint Lucie,34985,Harbort,91706,
+247,New York,New York City,10275,Bluejay,47,
+248,Illinois,Springfield,62718,Moulton,127,5553
+249,Texas,El Paso,88525,Banding,71,
+250,Texas,San Antonio,78296,Jenna,3,
+251,Texas,Austin,78703,Fairfield,1748,
+252,Texas,Irving,75037,Bunker Hill,4,
+253,California,Santa Barbara,93106,Lien,508,
+254,Ohio,Cincinnati,45218,Delaware,43,
+255,North Carolina,Charlotte,28284,Stuart,0,7923
+256,Texas,Dallas,75251,Jackson,36110,8605
+257,District of Columbia,Washington,20456,West,4614,
+258,California,San Francisco,94105,Jenna,443,
+259,Texas,Dallas,75265,Kropf,20673,2259
+260,California,Santa Monica,90410,Hagan,12,
+261,South Carolina,Columbia,29215,Golf View,66,
+262,Connecticut,Bridgeport,06673,Meadow Valley,0973,
+263,Michigan,Kalamazoo,49048,Oxford,36218,
+264,Michigan,Detroit,48275,Tennessee,2412,
+265,New York,New York City,10270,Fieldstone,33471,
+266,Missouri,Kansas City,64109,Lyons,03,
+267,Massachusetts,Boston,02124,Village,56312,
+268,Florida,Port Saint Lucie,34985,Vernon,78751,
+269,Louisiana,Lake Charles,70607,Village,52285,
+270,California,Brea,92822,Roxbury,91706,
+271,Texas,Tyler,75799,Texas,01,356
+272,Florida,Tampa,33673,Acker,72947,
+273,Louisiana,Monroe,71208,Eastlawn,11042,
+274,Virginia,Richmond,23289,Donald,43,
+275,Nebraska,Lincoln,68517,Eastwood,6090,
+276,Pennsylvania,Philadelphia,19115,Chive,96,2
+277,Georgia,Atlanta,31119,Raven,857,
+278,New Jersey,Paterson,07505,Fair Oaks,44,
+279,California,Anaheim,92825,Canary,41947,
+280,Minnesota,Monticello,55585,Hoffman,64,
+281,Louisiana,Monroe,71213,Mesta,331,
+282,California,Berkeley,94705,Reinke,111,
+283,Texas,Houston,77085,Homewood,967,
+284,Texas,El Paso,88579,Elka,6,
+285,Ohio,Youngstown,44505,Mayfield,38014,5
+286,California,Lancaster,93584,Spohn,6582,
+287,Texas,Amarillo,79165,Northview,8,
+288,Florida,Pompano Beach,33069,Basil,2,
+289,Texas,Dallas,75246,Lighthouse Bay,6596,
+290,West Virginia,Huntington,25721,Dahle,46,
+291,Texas,Dallas,75379,Hoard,04846,49140
+292,Arizona,Phoenix,85035,Melvin,618,
+293,Louisiana,New Orleans,70154,School,1742,135
+294,Minnesota,Minneapolis,55470,Onsgard,952,
+295,Georgia,Savannah,31405,Sachtjen,339,
+296,Texas,Huntsville,77343,Superior,074,
+297,Georgia,Marietta,30061,Menomonie,6,
+298,Washington,Seattle,98195,Village,237,
+299,Pennsylvania,Erie,16550,Truax,708,
+300,Texas,El Paso,88584,Dwight,054,
+301,Connecticut,New Haven,06520,Armistice,45770,
+302,Pennsylvania,Scranton,18505,Ridge Oak,48,
+303,Colorado,Littleton,80126,Lunder,56432,6662
+304,Indiana,South Bend,46699,Lake View,7707,09151
+305,Illinois,Chicago,60630,Buena Vista,7,
+306,Virginia,Roanoke,24014,Vahlen,3756,
+307,Florida,Clearwater,33758,Manley,408,
+308,New York,Buffalo,14225,Mitchell,78205,0
+309,Maryland,Hyattsville,20784,Gateway,31560,
+310,Michigan,Flint,48550,Redwing,02,
+311,Texas,Dallas,75310,Hallows,62,
+312,Utah,Salt Lake City,84189,Old Gate,9,
+313,Kansas,Shawnee Mission,66210,Hollow Ridge,709,
+314,Texas,El Paso,79905,South,274,
+315,Washington,Seattle,98158,Northwestern,81256,
+316,Pennsylvania,Harrisburg,17110,Loeprich,24,
+317,Idaho,Boise,83727,Jenifer,61538,
+318,Indiana,Bloomington,47405,Dryden,81,028
+319,California,San Francisco,94126,Blue Bill Park,05,9
+320,Texas,Arlington,76016,Dapin,902,
+321,Ohio,Akron,44305,Reindahl,17,3
+322,Georgia,Lawrenceville,30245,Almo,2198,
+323,California,Los Angeles,90015,Wayridge,8696,
+324,District of Columbia,Washington,20580,Porter,91332,
+325,Texas,Abilene,79699,Marcy,91118,
+326,Texas,Dallas,75367,Northfield,036,
+327,Louisiana,Baton Rouge,70883,Fordem,55192,
+328,Texas,Fort Worth,76162,Crowley,4894,
+329,Pennsylvania,Philadelphia,19104,Chive,3,
+330,Kentucky,Louisville,40220,Main,2,
+331,Virginia,Norfolk,23551,Loftsgordon,67,
+332,Arizona,Phoenix,85030,Melrose,99,44
+333,Indiana,South Bend,46699,Debra,958,
+334,Indiana,Bloomington,47405,Vahlen,5,
+335,Tennessee,Murfreesboro,37131,Maywood,444,9
+336,South Dakota,Sioux Falls,57188,Glacier Hill,11205,
+337,Rhode Island,Providence,02912,School,97360,
+338,Massachusetts,Springfield,01114,Manitowish,03809,45
+339,Texas,Dallas,75358,Magdeline,92885,
+340,Washington,Kent,98042,Macpherson,41,
+341,North Carolina,Raleigh,27615,Mitchell,2458,
+342,Illinois,Springfield,62705,Springview,976,
+343,New York,New Hyde Park,11044,Trailsway,33,
+344,California,Santa Barbara,93150,Ilene,332,
+345,District of Columbia,Washington,20062,Schurz,48868,
+346,Florida,Pinellas Park,34665,Bluestem,103,
+347,Pennsylvania,Philadelphia,19146,Sheridan,0450,99932
+348,New York,Rochester,14619,Daystar,703,
+349,Idaho,Idaho Falls,83405,Hayes,7,
+350,Maryland,Baltimore,21282,Elgar,35205,
+351,District of Columbia,Washington,20231,Northview,0779,
+352,Nevada,North Las Vegas,89087,Maple,126,3192
+353,Indiana,Evansville,47747,Esch,85,
+354,North Carolina,Raleigh,27658,Northport,95311,
+355,California,Fresno,93726,Holmberg,28712,
+356,North Carolina,Winston Salem,27116,Crowley,7287,6617
+357,New York,Bronx,10454,Talisman,4,
+358,Illinois,Chicago,60641,Eagle Crest,0324,1
+359,Michigan,Kalamazoo,49006,Northport,915,
+360,Connecticut,Waterbury,06726,Farmco,9270,
+361,California,Fresno,93704,Del Mar,9,
+362,Ohio,Dayton,45470,Thompson,22811,82101
+363,California,Sacramento,94291,Hollow Ridge,21736,
+364,Indiana,Indianapolis,46254,Parkside,4921,3
+365,Colorado,Englewood,80150,Memorial,75,
+366,California,San Diego,92191,John Wall,6050,
+367,Tennessee,Memphis,38126,Bunting,808,
+368,Florida,Hollywood,33028,Scofield,55223,
+369,Connecticut,Danbury,06816,Surrey,11729,
+370,Florida,Ocala,34474,Eliot,8798,
+371,Florida,Largo,33777,Glacier Hill,46317,
+372,Alabama,Montgomery,36119,Dahle,9283,
+373,Arizona,Tucson,85754,Roth,60,
+374,New York,Flushing,11355,Rowland,3718,3641
+375,Missouri,Kansas City,64114,Maryland,935,
+376,District of Columbia,Washington,20370,Dovetail,48857,
+377,Colorado,Denver,80262,Pierstorff,6494,
+378,District of Columbia,Washington,20073,Pawling,70,
+379,Florida,Gainesville,32627,Mallard,49,
+380,Texas,Fort Worth,76110,Merry,44,8473
+381,New York,Great Neck,11024,Brickson Park,1,282
+382,Minnesota,Minneapolis,55407,Marquette,98689,
+383,Colorado,Denver,80209,Lakewood,0,
+384,Washington,Seattle,98166,Onsgard,9,
+385,Florida,Orlando,32859,Towne,2,
+386,District of Columbia,Washington,20205,Morningstar,4423,46698
+387,Colorado,Denver,80217,Alpine,094,
+388,Texas,Katy,77493,Butterfield,2625,
+389,Illinois,Bloomington,61709,Fair Oaks,7,
+390,Nevada,Las Vegas,89115,Saint Paul,68591,
+391,New York,Buffalo,14205,Vera,966,5025
+392,California,San Diego,92165,Comanche,28741,
+393,Montana,Helena,59623,Anniversary,8,
+394,New York,Utica,13505,Hallows,52360,
+395,Texas,Fort Worth,76147,Melody,741,
+396,Texas,Fort Worth,76115,Ridgeway,855,
+397,Tennessee,Memphis,38188,Helena,643,
+398,Alabama,Mobile,36616,Ridge Oak,2,
+399,Iowa,Sioux City,51105,Autumn Leaf,89,
+400,Massachusetts,Boston,02104,Maple Wood,635,
+401,Oklahoma,Oklahoma City,73119,Fairview,61192,
+402,California,Sacramento,94263,Rigney,925,5506
+403,New York,Jamaica,11470,Anzinger,57,0225
+404,California,Fresno,93750,Melby,95,
+405,North Carolina,Greensboro,27409,1st,4745,
+406,Colorado,Denver,80228,Cascade,09131,
+407,Texas,El Paso,88535,Carberry,33573,
+408,New York,Bronx,10459,Golf View,788,
+409,District of Columbia,Washington,20215,Lakewood,15,
+410,Georgia,Atlanta,31106,Vermont,77,
+411,Illinois,Chicago,60641,Fisk,9,49
+412,New Mexico,Las Cruces,88006,Orin,0688,
+413,Georgia,Savannah,31405,Dakota,6170,
+414,California,San Diego,92132,Maryland,685,
+415,New York,Bronx,10464,Laurel,3,
+416,Georgia,Macon,31210,Dixon,8,
+417,Florida,North Port,34290,Ramsey,5464,
+418,Washington,Spokane,99215,Columbus,38,
+419,Missouri,Saint Louis,63116,Nobel,88,
+420,Hawaii,Honolulu,96845,Fremont,297,
+421,Washington,Olympia,98516,Sage,11,2538
+422,California,Riverside,92513,Mcbride,94441,
+423,New York,Jamaica,11480,Clove,8,
+424,Florida,Clearwater,34629,Anhalt,3,
+425,Illinois,Chicago,60652,Dexter,22519,
+426,Georgia,Norcross,30092,Spenser,5630,
+427,Pennsylvania,Harrisburg,17121,Oak Valley,33541,590
+428,New York,White Plains,10606,Mockingbird,64,551
+429,Maryland,Hagerstown,21747,Scofield,14,
+430,Texas,Longview,75605,Marquette,593,
+431,California,Palo Alto,94302,Wayridge,82385,
+432,Illinois,Chicago,60686,Erie,40,
+433,Washington,Seattle,98121,Arizona,70,
+434,Texas,Waco,76711,Browning,4734,
+435,Indiana,Evansville,47725,Florence,7088,
+436,Kentucky,Louisville,40280,Arapahoe,5,
+437,Ohio,Dayton,45454,Sundown,7,
+438,Florida,Bradenton,34210,Erie,96,
+439,Idaho,Idaho Falls,83405,Michigan,67209,
+440,Georgia,Savannah,31410,Barnett,361,
+441,Florida,Tallahassee,32314,Meadow Ridge,32454,09
+442,Texas,Corpus Christi,78470,Fisk,3,
+443,Indiana,Evansville,47737,Monterey,4204,8760
+444,Nebraska,Omaha,68197,Karstens,07,2492
+445,California,Orange,92668,Hayes,58116,
+446,Florida,Orlando,32813,Main,1,
+447,Kansas,Shawnee Mission,66220,Surrey,5,
+448,Indiana,Fort Wayne,46825,Miller,14,
+449,Florida,Clearwater,33763,New Castle,355,
+450,Alabama,Montgomery,36104,Carey,3,4145
+451,Maryland,Hagerstown,21747,Morningstar,79,
+452,Florida,Pinellas Park,34665,Bultman,1893,
+453,New York,Rochester,14614,Beilfuss,03171,
+454,Missouri,Saint Louis,63150,Crest Line,35,
+455,Texas,Dallas,75310,Welch,5895,47
+456,Virginia,Alexandria,22301,Eastlawn,883,
+457,Texas,Houston,77005,Carey,73,
+458,Massachusetts,Boston,02104,Clyde Gallagher,1211,501
+459,Ohio,Dayton,45426,American Ash,97710,
+460,New York,New York City,10131,Eggendart,3753,
+461,Indiana,Evansville,47712,Caliangt,3190,557
+462,Arkansas,North Little Rock,72199,Mallory,740,3
+463,Connecticut,Waterbury,06721,Tony,52238,
+464,Louisiana,New Orleans,70116,Bashford,725,
+465,Alaska,Anchorage,99599,Mayfield,0378,
+466,Florida,Jacksonville,32277,Esker,7,3687
+467,California,Orange,92862,Karstens,229,0887
+468,District of Columbia,Washington,20005,Pepper Wood,410,
+469,Tennessee,Knoxville,37995,Beilfuss,04,
+470,New York,Brooklyn,11215,Shelley,35878,
+471,Florida,Miami,33185,Ridgeway,4,
+472,California,Pasadena,91117,Rieder,99835,
+473,Ohio,Canton,44720,Evergreen,61747,
+474,North Carolina,Charlotte,28247,Badeau,53,76265
+475,New York,New York City,10160,Helena,8199,
+476,California,Los Angeles,90094,Rieder,20738,
+477,Connecticut,Danbury,06816,International,970,966
+478,Florida,Kissimmee,34745,Union,863,8331
+479,Florida,Lake Worth,33462,Ryan,969,
+480,Mississippi,Meridian,39305,Warner,74549,
+481,District of Columbia,Washington,20220,Brentwood,6,54257
+482,Colorado,Boulder,80305,Merchant,04756,
+483,New York,Brooklyn,11210,Forest Dale,3,
+484,California,Van Nuys,91406,Oriole,9,
+485,Minnesota,Saint Paul,55103,Moose,1,
+486,North Carolina,Greensboro,27455,Garrison,02,
+487,California,Burbank,91520,Vera,0,
+488,New Mexico,Albuquerque,87110,Express,6,
+489,Pennsylvania,Reading,19605,Forest Run,9,
+490,Florida,Miami,33175,Center,6,
+491,Virginia,Reston,20195,Mosinee,7,26810
+492,Texas,Dallas,75265,Fallview,50,
+493,Colorado,Denver,80204,Acker,3,
+494,California,Stockton,95298,Loomis,736,
+495,Arkansas,North Little Rock,72118,Crownhardt,507,4555
+496,Florida,Orlando,32830,Granby,582,
+497,Virginia,Chesapeake,23324,Manitowish,468,276
+498,California,Los Angeles,90087,Sachs,94,804
+499,Connecticut,Stamford,06912,Coolidge,4,
+500,District of Columbia,Washington,20210,Florence,04224,
+501,Missouri,Saint Louis,63104,Grayhawk,332,
+502,Idaho,Boise,83727,Mockingbird,790,
+503,Louisiana,New Orleans,70160,Hallows,3,
+504,Ohio,Akron,44305,Old Shore,599,4
+505,District of Columbia,Washington,20051,Eggendart,7,
+506,Georgia,Atlanta,30336,Crescent Oaks,87789,28294
+507,Kansas,Wichita,67205,Lien,0894,
+508,Wisconsin,Racine,53405,Mesta,7440,
+509,Michigan,Detroit,48206,Blue Bill Park,8,
+510,Tennessee,Memphis,38114,Packers,838,
+511,West Virginia,Charleston,25326,Farmco,99,
+512,Maryland,Bethesda,20892,Carey,0,1
+513,Virginia,Alexandria,22313,Carey,14782,
+514,Florida,Tampa,33694,Caliangt,72942,
+515,Nevada,Las Vegas,89125,Leroy,359,
+516,Alabama,Montgomery,36125,Prairie Rose,9,39
+517,Florida,Saint Petersburg,33705,Logan,32441,
+518,Iowa,Des Moines,50320,Transport,6470,96
+519,California,Anaheim,92825,Eliot,109,
+520,Illinois,Chicago,60624,Arrowood,97,
+521,Louisiana,New Orleans,70160,Muir,079,
+522,Tennessee,Nashville,37215,Oak Valley,15324,
+523,Florida,Miami,33164,Morning,358,15
+524,California,Fresno,93794,Ludington,56348,
+525,New Mexico,Albuquerque,87115,Dunning,0090,
+526,Pennsylvania,Philadelphia,19160,Steensland,77,
+527,Texas,El Paso,79923,Elka,7,
+528,Florida,Miami,33134,Basil,66160,
+529,Michigan,Detroit,48217,Onsgard,99676,
+530,West Virginia,Huntington,25721,Prentice,799,
+531,West Virginia,Huntington,25770,Leroy,89154,
+532,California,Santa Barbara,93150,Springs,9801,
+533,Massachusetts,Boston,02109,Dahle,7410,
+534,Illinois,Springfield,62705,Trailsway,1570,
+535,California,Irvine,92619,5th,0,
+536,Washington,Seattle,98140,Sloan,1490,
+537,North Carolina,Winston Salem,27157,Hovde,25398,
+538,Virginia,Richmond,23242,6th,2269,07
+539,Oregon,Beaverton,97075,Laurel,376,
+540,Louisiana,Baton Rouge,70883,Susan,486,
+541,Florida,West Palm Beach,33405,Chive,6283,
+542,Missouri,Saint Joseph,64504,Quincy,5,
+543,Washington,Seattle,98115,Holmberg,03101,2806
+544,Mississippi,Meridian,39305,Carey,757,
+545,Texas,Huntsville,77343,Warner,81,
+546,Florida,Bradenton,34282,Transport,147,
+547,North Carolina,Charlotte,28210,Haas,54147,
+548,New York,Brooklyn,11236,Carioca,869,016
+549,Illinois,Champaign,61825,Linden,2,6
+550,Kentucky,Louisville,40256,Tennessee,05353,
+551,Texas,Houston,77255,Gina,3,9674
+552,New York,Albany,12262,Northwestern,6038,
+553,Maryland,Baltimore,21281,Rowland,37,43236
+554,Texas,Houston,77025,Nobel,9,
+555,Texas,Dallas,75397,Veith,5,
+556,District of Columbia,Washington,20557,Division,9,
+557,Pennsylvania,Philadelphia,19104,Brown,96,
+558,California,Santa Monica,90405,Loomis,3,
+559,California,Oakland,94605,Dottie,1471,
+560,District of Columbia,Washington,20337,John Wall,470,
+561,Colorado,Denver,80291,Merchant,122,
+562,Florida,Tallahassee,32314,Dottie,09,
+563,Tennessee,Nashville,37235,Crescent Oaks,594,
+564,Washington,Bellevue,98008,Schlimgen,1150,70929
+565,Virginia,Alexandria,22313,Stuart,4,1
+566,Alaska,Anchorage,99599,Mockingbird,47459,
+567,Georgia,Macon,31217,Kings,053,
+568,New Jersey,Jersey City,07310,Kensington,11,924
+569,Florida,Lake Worth,33462,Lakewood,1,
+570,California,San Luis Obispo,93407,Brentwood,0065,
+571,Texas,Corpus Christi,78465,Nelson,2,3
+572,Florida,Jacksonville,32215,Northwestern,29,6047
+573,Texas,Houston,77271,Oak Valley,81614,
+574,Pennsylvania,Pittsburgh,15210,Nobel,1858,
+575,Maryland,Hagerstown,21747,Waubesa,97,
+576,Alabama,Birmingham,35231,Kropf,1713,
+577,Michigan,Detroit,48258,Prentice,9,430
+578,Louisiana,Monroe,71208,Scofield,1167,
+579,New York,New York City,10150,Summit,0821,
+580,Minnesota,Saint Paul,55115,Chinook,2227,
+581,District of Columbia,Washington,20210,Coleman,2716,
+582,New York,Brooklyn,11231,Dixon,5592,1717
+583,Arizona,Tempe,85284,Bunting,264,
+584,Ohio,Cincinnati,45999,Golf View,37,
+585,Arkansas,Little Rock,72204,Rockefeller,51,0
+586,California,Irvine,92710,Birchwood,096,
+587,California,San Jose,95113,North,0,
+588,Idaho,Boise,83705,Hanover,78234,
+589,West Virginia,Huntington,25770,Springview,2103,609
+590,Texas,El Paso,79994,Goodland,6,
+591,Colorado,Denver,80241,Gina,6,
+592,District of Columbia,Washington,20036,Hansons,89,77
+593,Missouri,Kansas City,64153,Dahle,8,
+594,District of Columbia,Washington,20022,Loomis,6413,
+595,Ohio,Cleveland,44177,Namekagon,3298,13779
+596,California,San Luis Obispo,93407,Independence,93,78
+597,New York,Jamaica,11470,Ruskin,8,
+598,Illinois,Bloomington,61709,Pearson,44,
+599,California,Los Angeles,90040,Lindbergh,8,
+600,West Virginia,Huntington,25705,Calypso,854,
+601,New York,Jamaica,11480,Jana,094,6
+602,California,San Francisco,94132,Gulseth,6,
+603,Missouri,Kansas City,64190,Crownhardt,30889,
+604,California,Los Angeles,90076,Spenser,3,
+605,Arizona,Tucson,85720,Schmedeman,38,
+606,Tennessee,Murfreesboro,37131,Dorton,02953,
+607,New Jersey,Trenton,08695,Redwing,5650,267
+608,Texas,San Antonio,78225,Saint Paul,61964,14
+609,New York,Buffalo,14225,Randy,98141,
+610,Texas,Houston,77250,Crescent Oaks,16068,
+611,Oregon,Portland,97286,Oakridge,3392,6
+612,Alabama,Birmingham,35279,School,97,
+613,Utah,Salt Lake City,84199,International,34058,
+614,Kansas,Shawnee Mission,66205,Fairfield,3,
+615,California,Irvine,92710,Stone Corner,5496,
+616,Colorado,Boulder,80305,Center,4535,
+617,Ohio,Lima,45807,Coolidge,9485,
+618,Ohio,Canton,44760,Evergreen,6865,29
+619,California,San Diego,92115,Bunting,9951,
+620,New York,New York City,10004,Texas,8,
+621,Louisiana,New Orleans,70129,Hayes,55416,
+622,Iowa,Des Moines,50936,Cardinal,88738,
+623,Illinois,Peoria,61635,Eliot,09,
+624,South Dakota,Sioux Falls,57198,Independence,6,
+625,Colorado,Colorado Springs,80905,Warner,275,283
+626,Texas,Dallas,75231,Spaight,43713,6
+627,Maryland,Silver Spring,20918,Glendale,5,
+628,Georgia,Lawrenceville,30045,Shelley,73497,
+629,Georgia,Savannah,31410,Norway Maple,643,
+630,Minnesota,Saint Paul,55115,Jackson,4172,
+631,Texas,Lubbock,79405,Daystar,62,
+632,District of Columbia,Washington,20380,1st,27,
+633,Delaware,Wilmington,19810,Westridge,01073,
+634,Missouri,Saint Louis,63180,Susan,3809,
+635,New York,New York City,10249,Buena Vista,3819,
+636,Texas,Austin,78769,Prentice,83812,
+637,Texas,Houston,77271,Sheridan,1037,808
+638,Florida,Pensacola,32575,Glacier Hill,2909,
+639,Oregon,Portland,97211,Waxwing,42,
+640,Colorado,Colorado Springs,80920,Farmco,7797,5503
+641,Washington,Yakima,98907,Northridge,66895,
+642,Kansas,Kansas City,66105,Hoard,4203,
+643,Kansas,Wichita,67210,Cottonwood,141,
+644,Oregon,Salem,97312,Lillian,272,
+645,Virginia,Reston,22096,Fremont,4988,
+646,Minnesota,Saint Cloud,56398,Toban,7664,
+647,Virginia,Sterling,20167,Knutson,24,
+648,New York,Brooklyn,11215,Butterfield,061,1
+649,Indiana,Fort Wayne,46896,Continental,4857,
+650,Colorado,Denver,80270,Golden Leaf,02561,
+651,California,Glendale,91205,Center,4,32997
+652,Texas,Dallas,75310,Columbus,9209,
+653,California,San Diego,92132,Raven,6,5
+654,Alabama,Birmingham,35263,New Castle,632,95788
+655,Florida,Jacksonville,32204,Marcy,8330,
+656,Florida,Orlando,32803,Sachtjen,7,
+657,Nebraska,Omaha,68197,Spenser,8562,
+658,New York,New York City,10275,Londonderry,2,
+659,Hawaii,Honolulu,96850,Summer Ridge,87,09
+660,Florida,Miami,33164,Del Mar,23,
+661,Florida,Seminole,34642,Sherman,215,
+662,California,San Jose,95194,Mayfield,9,
+663,Washington,Vancouver,98687,Fair Oaks,611,
+664,Florida,Naples,34114,Larry,88671,
+665,Iowa,Sioux City,51110,Jay,8,
+666,Ohio,Columbus,43226,Havey,8040,
+667,Maryland,Baltimore,21290,Pleasure,918,
+668,Minnesota,Saint Cloud,56398,Eagle Crest,5086,649
+669,California,Sacramento,94263,Sunfield,0841,
+670,Missouri,Saint Louis,63110,Hagan,0,
+671,Nebraska,Omaha,68179,Rutledge,716,97748
+672,Florida,Miami,33111,Buell,609,
+673,Michigan,Flint,48555,Rusk,7,
+674,California,San Diego,92153,Toban,629,
+675,Montana,Billings,59105,Orin,48184,
+676,Ohio,Canton,44705,Moose,69449,
+677,Minnesota,Minneapolis,55446,Pankratz,552,831
+678,Alabama,Mobile,36641,Ronald Regan,19244,71829
+679,Texas,Dallas,75246,Redwing,57859,
+680,District of Columbia,Washington,20392,Warrior,5,37
+681,Alabama,Mobile,36605,Thierer,296,
+682,Ohio,Dayton,45470,Pearson,536,0
+683,Illinois,Bloomington,61709,Eagle Crest,4,
+684,North Carolina,Greensboro,27409,Shasta,4,
+685,Florida,Jacksonville,32220,Stephen,4,
+686,Texas,Houston,77050,Vera,3,
+687,New York,Schenectady,12305,Sauthoff,300,
+688,New Jersey,Trenton,08695,Grover,06135,98368
+689,Hawaii,Honolulu,96835,Steensland,50621,37002
+690,New York,Buffalo,14205,Garrison,94327,
+691,Ohio,Cincinnati,45228,Basil,337,
+692,Hawaii,Honolulu,96840,Warbler,85411,
+693,Oklahoma,Tulsa,74103,Drewry,592,465
+694,California,North Hollywood,91616,Hudson,9404,
+695,Alabama,Birmingham,35225,Lien,716,
+696,Virginia,Ashburn,22093,Bay,2,
+697,Florida,Saint Petersburg,33710,Meadow Valley,00822,
+698,Illinois,Chicago,60609,Village,58864,
+699,Kansas,Topeka,66622,Hollow Ridge,16,
+700,New York,Syracuse,13210,Old Gate,5,846
+701,California,Modesto,95354,Towne,3,
+702,Alabama,Birmingham,35244,Hagan,16,
+703,Louisiana,Metairie,70033,Lakewood,382,
+704,Ohio,Columbus,43215,Union,23,
+705,California,Santa Monica,90405,Sugar,9535,
+706,Texas,Texarkana,75507,Norway Maple,2,
+707,Wisconsin,Milwaukee,53215,Marquette,3,
+708,Texas,El Paso,79905,Kennedy,7946,
+709,Florida,Palm Bay,32909,Golf Course,2,
+710,California,Palmdale,93591,Golf View,8338,
+711,Colorado,Littleton,80161,New Castle,80374,
+712,Washington,Tacoma,98442,Bartillon,78050,
+713,North Carolina,Raleigh,27621,Oriole,493,
+714,Colorado,Colorado Springs,80915,Del Mar,62,
+715,California,San Diego,92127,Grim,5,
+716,California,Glendale,91205,Fulton,8,
+717,North Carolina,Charlotte,28225,Walton,743,93018
+718,Colorado,Denver,80279,South,4,
+719,Texas,Fort Worth,76121,Vermont,97,
+720,Louisiana,Lafayette,70593,Myrtle,94,
+721,Texas,Dallas,75221,Towne,22,7676
+722,Missouri,Kansas City,64101,Maple,84721,
+723,California,Riverside,92513,Springview,96,9311
+724,West Virginia,Huntington,25711,Pankratz,32,
+725,Texas,Dallas,75246,Mesta,28,
+726,Oklahoma,Edmond,73034,Saint Paul,1,
+727,California,Riverside,92505,Buhler,0,
+728,Iowa,Des Moines,50320,Utah,85,
+729,Texas,Houston,77030,Duke,4431,
+730,Nebraska,Omaha,68124,4th,4358,0466
+731,North Carolina,Charlotte,28205,Little Fleur,58135,
+732,Kentucky,Louisville,40293,Linden,17,75337
+733,Minnesota,Minneapolis,55436,Rusk,1,3725
+734,New York,New York City,10120,Northwestern,384,
+735,California,Fresno,93715,Morrow,763,
+736,Michigan,Saginaw,48609,Rusk,368,
+737,Missouri,Saint Louis,63104,Dorton,78,
+738,District of Columbia,Washington,20238,Grover,1,
+739,New Jersey,Jersey City,07310,Waubesa,21618,61644
+740,Washington,Seattle,98148,Iowa,98,
+741,Ohio,Dayton,45454,Katie,9,1
+742,Pennsylvania,Harrisburg,17140,Debra,70265,
+743,Texas,Abilene,79699,Pearson,6,
+744,New York,Jamaica,11431,Darwin,9688,
+745,Florida,Saint Petersburg,33710,Blue Bill Park,77,52
+746,Tennessee,Memphis,38150,Hoffman,96,
+747,California,Oakland,94611,Meadow Valley,60,
+748,South Carolina,Charleston,29403,Scott,248,
+749,New Jersey,Paterson,07505,Manufacturers,13,7918
+750,District of Columbia,Washington,20420,Hallows,7,
+751,Kansas,Topeka,66667,Lighthouse Bay,969,04
+752,Ohio,Cleveland,44177,Armistice,5063,
+753,Florida,Bonita Springs,34135,Truax,2,712
+754,Missouri,Springfield,65810,Corben,784,
+755,New York,Syracuse,13205,Harbort,24727,
+756,New York,New York City,10115,Grayhawk,27,
+757,Nebraska,Omaha,68144,Towne,47,
+758,Massachusetts,Boston,02119,Hintze,210,
+759,California,Long Beach,90847,Autumn Leaf,1,
+760,New Mexico,Las Cruces,88006,Amoth,708,
+761,Florida,Largo,34643,Pennsylvania,9,
+762,California,San Diego,92121,Stuart,21184,
+763,Oklahoma,Oklahoma City,73124,Vermont,78511,791
+764,Louisiana,Baton Rouge,70894,Sutteridge,98045,
+765,Minnesota,Rochester,55905,Cottonwood,5614,
+766,Utah,Salt Lake City,84105,Harper,90296,
+767,District of Columbia,Washington,20540,Bobwhite,2060,
+768,Florida,Orlando,32830,International,1290,
+769,Texas,Conroe,77305,Fairview,84,
+770,Florida,Saint Petersburg,33715,Huxley,21321,
+771,Michigan,Muskegon,49444,Caliangt,706,0813
+772,District of Columbia,Washington,20599,Schlimgen,0124,
+773,Indiana,Indianapolis,46239,Sullivan,7916,82511
+774,Alabama,Montgomery,36119,Chinook,42,3
+775,Ohio,Dayton,45419,Arizona,99148,
+776,Florida,Orlando,32868,Rusk,7,
+777,Florida,Tampa,33620,Arkansas,49118,
+778,Georgia,Macon,31210,Corscot,01,
+779,California,Long Beach,90840,Transport,38906,
+780,Texas,Round Rock,78682,Kinsman,8549,
+781,North Carolina,Charlotte,28289,Lyons,45596,
+782,District of Columbia,Washington,20022,Park Meadow,1771,
+783,Louisiana,Shreveport,71130,Laurel,078,
+784,Texas,Houston,77255,Surrey,680,
+785,Texas,San Antonio,78205,Shasta,1,
+786,Washington,Vancouver,98664,Rowland,04977,383
+787,District of Columbia,Washington,20099,Ridgeview,6581,
+788,Ohio,Toledo,43656,Swallow,4194,
+789,West Virginia,Charleston,25362,Oneill,7745,
+790,New York,Brooklyn,11236,Canary,46724,643
+791,Arizona,Scottsdale,85260,Lake View,19430,
+792,Connecticut,New Haven,06510,Clemons,378,
+793,Oregon,Salem,97312,Hooker,788,
+794,Texas,Austin,78754,Jackson,6,44
+795,West Virginia,Huntington,25726,Stephen,79,
+796,Oklahoma,Oklahoma City,73147,Meadow Vale,81,
+797,New York,Albany,12205,Sutteridge,5281,
+798,Florida,Saint Petersburg,33742,Manley,56,82
+799,Florida,West Palm Beach,33405,Continental,28,
+800,Louisiana,Shreveport,71137,Continental,461,6287
+801,New York,Brooklyn,11254,Barnett,06,
+802,Illinois,Chicago,60624,Pierstorff,2,
+803,North Carolina,Raleigh,27635,Superior,85,
+804,West Virginia,Charleston,25313,Talisman,699,
+805,Florida,Panama City,32405,Holmberg,4661,54706
+806,District of Columbia,Washington,20022,Oriole,1,
+807,Maryland,Bethesda,20816,Kensington,50924,6
+808,Alabama,Mobile,36622,Towne,780,9
+809,Texas,Abilene,79605,Linden,61,
+810,Virginia,Richmond,23272,Fisk,00943,
+811,California,San Jose,95128,Pine View,3,
+812,Arkansas,North Little Rock,72118,Loeprich,3,37102
+813,Tennessee,Chattanooga,37450,Wayridge,1725,
+814,District of Columbia,Washington,20051,Hanover,8747,789
+815,Arizona,Phoenix,85083,Steensland,05,
+816,Indiana,Fort Wayne,46814,Lake View,462,
+817,Connecticut,Waterbury,06705,Annamark,2523,
+818,Arizona,Phoenix,85035,Springview,2622,
+819,Alabama,Birmingham,35231,Pierstorff,6,
+820,New York,Syracuse,13251,Cottonwood,15,
+821,District of Columbia,Washington,20073,Thackeray,6039,
+822,New York,Brooklyn,11247,Hansons,4,
+823,Virginia,Ashburn,22093,Prairieview,589,
+824,Florida,Orlando,32868,Melrose,325,
+825,New York,New York City,10034,Red Cloud,6,
+826,West Virginia,Huntington,25770,Havey,94,
+827,New Mexico,Albuquerque,87105,Menomonie,0095,
+828,Missouri,Saint Louis,63136,Sunbrook,42411,62391
+829,Texas,Dallas,75387,Pawling,02,
+830,Louisiana,New Orleans,70160,Laurel,079,
+831,California,Redwood City,94064,Longview,97,528
+832,Washington,Vancouver,98664,5th,3,
+833,California,Oakland,94616,Rieder,7533,
+834,Louisiana,New Orleans,70154,Forest Run,6954,
+835,California,Santa Barbara,93150,Reinke,440,
+836,Louisiana,Baton Rouge,70805,David,927,7
+837,Georgia,Athens,30605,Michigan,6,1596
+838,New York,White Plains,10606,Moland,504,
+839,California,Los Angeles,90101,Village,350,
+840,Iowa,Sioux City,51105,Hoard,7,128
+841,Missouri,Independence,64054,Bultman,365,293
+842,New Jersey,Paterson,07544,Eastwood,0248,
+843,Michigan,Lansing,48930,Ruskin,858,
+844,South Carolina,Charleston,29416,Goodland,857,
+845,Florida,Melbourne,32919,Nancy,9407,8590
+846,South Carolina,Columbia,29203,Merrick,72182,
+847,Oklahoma,Tulsa,74141,Dryden,49167,3693
+848,North Carolina,Raleigh,27615,Graceland,00,69
+849,California,Sacramento,95828,Cottonwood,5065,
+850,Alabama,Birmingham,35225,Pawling,22885,
+851,Georgia,Atlanta,31106,Schurz,120,
+852,Alabama,Mobile,36670,Marcy,9,
+853,Texas,San Antonio,78245,Kenwood,8,
+854,Ohio,Columbus,43231,Twin Pines,1103,
+855,California,Los Angeles,90101,Scott,685,
+856,Pennsylvania,Harrisburg,17140,Bartillon,713,
+857,Kentucky,Migrate,41905,Heffernan,608,0
+858,Virginia,Norfolk,23514,Hanover,5857,
+859,Georgia,Norcross,30092,Park Meadow,813,3
+860,Indiana,Evansville,47725,Granby,40496,348
+861,Minnesota,Minneapolis,55423,Hallows,564,
+862,Florida,Pensacola,32590,Miller,16,
+863,California,Bakersfield,93386,Talisman,0,
+864,West Virginia,Huntington,25775,Hagan,19948,
+865,New York,Rochester,14652,Garrison,6303,95897
+866,Massachusetts,Springfield,01114,Fuller,92508,
+867,Massachusetts,Watertown,02472,Brown,0,
+868,Arizona,Phoenix,85025,Golden Leaf,23006,342
+869,Missouri,Jefferson City,65110,Memorial,8,
+870,California,San Bernardino,92405,Kingsford,27715,
+871,Texas,Fort Worth,76105,Colorado,41874,
+872,Missouri,Columbia,65218,Rockefeller,682,
+873,Indiana,Indianapolis,46254,Trailsway,54037,032
+874,Tennessee,Nashville,37250,Toban,94138,
+875,California,Santa Ana,92705,Swallow,7147,848
+876,New Hampshire,Portsmouth,00214,North,805,0
+877,Tennessee,Knoxville,37995,Katie,247,
+878,Minnesota,Saint Paul,55188,Independence,42487,
+879,Oregon,Portland,97232,Main,8,8445
+880,Kentucky,Lexington,40596,Duke,1,
+881,California,San Bernardino,92424,New Castle,3,
+882,Louisiana,New Orleans,70160,Cascade,022,06218
+883,Massachusetts,Lynn,01905,Menomonie,94464,030
+884,Louisiana,Baton Rouge,70810,Gale,4,
+885,South Carolina,Beaufort,29905,Mallory,88456,
+886,West Virginia,Huntington,25770,Maywood,68966,
+887,New York,Jamaica,11431,Norway Maple,9364,
+888,Georgia,Augusta,30919,Porter,06245,
+889,Michigan,Muskegon,49444,Towne,2,
+890,California,Santa Rosa,95405,Texas,81,4656
+891,Washington,Seattle,98140,Talmadge,43683,97208
+892,Massachusetts,Boston,02119,Esch,79762,
+893,New York,New York City,10090,Buhler,89,
+894,Texas,Austin,78754,Morrow,2161,
+895,Texas,El Paso,79994,Rieder,6222,
+896,Florida,Orlando,32825,Hollow Ridge,2,
+897,Colorado,Aurora,80015,Brown,135,553
+898,New York,Bronx,10474,Valley Edge,35464,
+899,Ohio,Dayton,45490,Grayhawk,02,
+900,Minnesota,Young America,55573,Granby,1,5616
+901,Minnesota,Minneapolis,55458,Gateway,1,
+902,Florida,West Palm Beach,33416,Westport,938,
+903,Michigan,Grand Rapids,49510,Dayton,97687,
+904,Washington,Seattle,98109,Arkansas,6188,
+905,California,Los Angeles,90065,Novick,481,
+906,Texas,Spring,77386,Westridge,1822,
+907,Kansas,Wichita,67215,Declaration,9,
+908,Michigan,Farmington,48335,Little Fleur,30206,
+909,Connecticut,Hartford,06140,Moose,29,
+910,Ohio,Dayton,45408,Scott,06820,4
+911,Indiana,Evansville,47747,Hagan,33264,
+912,Louisiana,Baton Rouge,70894,Katie,4,6393
+913,Virginia,Ashburn,22093,Vahlen,3100,
+914,Indiana,Evansville,47725,Rieder,19754,
+915,Massachusetts,Brockton,02305,Northridge,6,
+916,Michigan,Detroit,48206,Cascade,65,872
+917,Alabama,Huntsville,35895,Becker,93,
+918,Colorado,Fort Collins,80525,Westerfield,144,
+919,Florida,Boca Raton,33499,Lyons,3,
+920,Utah,Sandy,84093,Sunbrook,85674,
+921,Pennsylvania,Philadelphia,19125,Crownhardt,1,
+922,Pennsylvania,Philadelphia,19191,Cardinal,5192,
+923,Texas,Dallas,75353,4th,601,
+924,North Carolina,Winston Salem,27150,Prairieview,6,32855
+925,Missouri,Jefferson City,65105,Summit,64253,
+926,Missouri,Saint Louis,63136,Summer Ridge,69964,
+927,California,Santa Ana,92705,Barnett,55,
+928,New York,Hicksville,11854,Macpherson,6,
+929,Texas,Houston,77080,Meadow Valley,5734,
+930,New York,Albany,12255,Karstens,08,4870
+931,Wisconsin,Green Bay,54305,Porter,805,5
+932,California,Torrance,90505,East,620,619
+933,Washington,Olympia,98506,Westerfield,59,
+934,Alabama,Montgomery,36125,Kim,89652,
+935,Illinois,Chicago,60652,Pennsylvania,8915,7023
+936,New York,White Plains,10606,Express,0,
+937,Tennessee,Nashville,37215,Oak Valley,5,
+938,New York,Rochester,14652,Troy,9571,
+939,Florida,Fort Lauderdale,33315,Barby,5,
+940,New York,New York City,10170,Waxwing,883,
+941,Alabama,Mobile,36670,Old Shore,5614,
+942,Arizona,Peoria,85383,Bay,68,48591
+943,Washington,Seattle,98121,Roth,1674,
+944,Texas,Abilene,79605,Fieldstone,163,
+945,California,Garden Grove,92645,Petterle,8,
+946,Michigan,Southfield,48076,Bonner,5,
+947,Wisconsin,Milwaukee,53210,Merrick,108,
+948,Mississippi,Gulfport,39505,Hermina,976,
+949,Texas,Austin,78789,Muir,33,
+950,Texas,El Paso,88569,Bunting,6061,206
+951,Texas,Austin,78769,Badeau,20,41023
+952,Oregon,Portland,97216,Laurel,21865,
+953,Florida,Tampa,33680,Judy,394,
+954,Michigan,Midland,48670,Vera,0682,
+955,Indiana,Gary,46406,Northfield,65766,
+956,Virginia,Virginia Beach,23464,Ohio,7,
+957,New Jersey,New Brunswick,08922,Meadow Ridge,5,
+958,Massachusetts,Lynn,01905,Grim,3,
+959,Oklahoma,Oklahoma City,73109,Clove,272,
+960,Indiana,South Bend,46620,Manitowish,27,
+961,Kansas,Wichita,67220,Briar Crest,750,
+962,California,Santa Rosa,95405,Graedel,9550,
+963,Oregon,Portland,97271,Southridge,98,
+964,Florida,Port Charlotte,33954,Lunder,9082,
+965,Oregon,Portland,97221,Farragut,97,
+966,District of Columbia,Washington,20220,Hazelcrest,66537,
+967,Colorado,Denver,80228,Northfield,58,
+968,New York,Brooklyn,11241,Laurel,2,
+969,Nebraska,Omaha,68164,Elgar,92,3
+970,Utah,Salt Lake City,84170,Paget,788,
+971,Texas,Corpus Christi,78475,Mallory,60042,
+972,Maryland,Bethesda,20892,Johnson,0591,
+973,California,Garden Grove,92844,Acker,6,
+974,Virginia,Reston,22096,Elgar,97,
+975,California,Van Nuys,91411,Porter,1298,
+976,Michigan,Saginaw,48609,Monica,98302,
+977,Kentucky,Louisville,40266,Goodland,2550,
+978,District of Columbia,Washington,20430,Nancy,475,3162
+979,Idaho,Boise,83732,Katie,494,
+980,Delaware,Newark,19725,Northland,2805,
+981,Louisiana,Shreveport,71115,Esch,40,
+982,New York,Buffalo,14263,Bay,5,
+983,Pennsylvania,Harrisburg,17105,Loeprich,5148,
+984,Pennsylvania,Pittsburgh,15286,7th,8,
+985,Pennsylvania,Philadelphia,19109,Calypso,05,
+986,Florida,Miami,33190,Mifflin,88937,54646
+987,Texas,San Antonio,78278,Hanover,0321,
+988,Texas,Arlington,76096,Graedel,6,532
+989,Ohio,Canton,44720,Marcy,387,
+990,Nevada,Las Vegas,89130,Monica,29,
+991,North Dakota,Fargo,58106,Eliot,30,
+992,Louisiana,Baton Rouge,70894,Golf View,50,
+993,Ohio,Cleveland,44177,Ridgeview,13976,39
+994,Georgia,Valdosta,31605,Chinook,733,
+995,California,Stockton,95210,Commercial,4307,2
+996,Arizona,Phoenix,85099,Hooker,7,
+997,Florida,Tampa,33680,Londonderry,74,66371
+998,Ohio,Akron,44315,Shelley,54,
+999,Texas,San Antonio,78250,Stang,48,
+1000,Florida,Fort Lauderdale,33355,Moulton,079,79
