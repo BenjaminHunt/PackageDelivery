@@ -32,9 +32,10 @@ def main():
 
 
 def parse_and_execute(text):
+    response = "RESPONSE"
     array = text.split()
     print(array)
-    text
+    response
 
 
 main()
