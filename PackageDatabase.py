@@ -31,11 +31,34 @@ def main():
     connection.close()
 
 
-def parse_and_execute(text):
+def parse_and_execute(role, text):
     response = "RESPONSE"
     array = text.split()
     print(array)
-    response
+
+    if role == "admin":
+        response = admin_PAE(array)
+    elif role == "customer":
+        response = cust_PAE(array)
+    elif role == "employee":
+        response = employee_PAE(array)
+
+    return response
+
+
+def admin_PAE(array):
+    response = ""
+    return response
+
+
+def cust_PAE(array):
+    response = ""
+    return response
+
+
+def employee_PAE(array):
+    response = ""
+    return response
 
 
 main()
