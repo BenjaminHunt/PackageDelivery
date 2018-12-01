@@ -8,11 +8,11 @@ Description: This is the backend for the sql server that will be inserting the d
 
 import psycopg2 as post
 import csv
-
+connection = post.connect(host="reddwarf.cs.rit.edu", dbname = 'nwv4110', user = 'nwv4110', password = 'weix8shahcah6aiVee2A')
+cursor = connection.cursor()
 
 def main():
-    connection = post.connect(host="reddwarf.cs.rit.edu", dbname = 'nwv4110', user = 'nwv4110', password = 'weix8shahcah6aiVee2A')
-    cursor = connection.cursor()
+
 
     with open("Person.csv") as line:
         writer = csv.reader(line)
@@ -29,6 +29,10 @@ def main():
     connection.commit()
     cursor.close()
     connection.close()
+
+
+def execute_command(command):
+    cursor.execute(command)
 
 
 def parse_and_execute(role, text):
