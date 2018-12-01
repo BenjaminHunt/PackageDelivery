@@ -32,7 +32,7 @@ def main():
 
 
 def execute_command(command):
-    cursor.execute(command)
+    return cursor.execute(command)
 
 
 def parse_and_execute(role, text):
