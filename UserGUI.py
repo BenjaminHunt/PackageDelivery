@@ -3,6 +3,8 @@ import PackageDatabase as db
 
 
 class GUI:
+    role_defined = False
+    role = ""
 
     def __init__(self, root):
         root.title("Command Line Interface")
@@ -29,12 +31,28 @@ class GUI:
 
         root.bind('<Return>', lambda _: self.submit())
 
-    def submit(self):
-        if self.entry.get() != "":
-            db.parse_and_execute(self.entry.get())
-            self.terminal_write(self.entry.get())
-            self.entry.delete(0, 'end')
+        self.terminal_write("Welcome to the Package Delivery System Interface\nWhat is your role?")
 
+
+    def submit(self):
+        input = self.entry.get()
+        self.terminal_write("> " + input)
+        if self.role_defined:
+            if input != "":
+                db.parse_and_execute(self.role, input)
+        else:
+            input = input.lower()
+            if input == "admin" or input == "customer" or input == "employee":
+                self.role = input
+                response = "You are successfully recognized as a"
+                if self.role == "customer":
+                    response += " "
+                else:
+                    response += "n "
+                self.terminal_write(response + self.role())
+            else:
+                self.terminal_write("'input'" + " is not a valid role.\nWhat is your role? (admin/customer/employee)")
+        self.entry.delete(0, 'end')
 
     def terminal_write(self, text):
         self.output.configure(state="normal")
