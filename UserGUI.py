@@ -1,4 +1,6 @@
 from tkinter import *
+import PackageDatabase as db
+
 
 class GUI:
 
@@ -29,6 +31,7 @@ class GUI:
 
     def submit(self):
         if self.entry.get() != "":
+            db.parse_and_execute(self.entry.get())
             self.terminal_write(self.entry.get())
             self.entry.delete(0, 'end')
 
@@ -38,6 +41,7 @@ class GUI:
         self.output.insert(index=END, chars=(text+'\n'))
         self.output.configure(state="disabled")
         self.output.yview_moveto(1)
+
 
 root = Tk()
 gui = GUI(root)
