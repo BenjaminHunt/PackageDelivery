@@ -44,14 +44,15 @@ class GUI:
             input = input.lower()
             if input == "admin" or input == "customer" or input == "employee":
                 self.role = input
+                self.role_defined = True
                 response = "You are successfully recognized as a"
                 if self.role == "customer":
                     response += " "
                 else:
                     response += "n "
-                self.terminal_write(response + self.role())
+                self.terminal_write(response + self.role)
             else:
-                self.terminal_write("'input'" + " is not a valid role.\nWhat is your role? (admin/customer/employee)")
+                self.terminal_write("'{}' is not a valid role.\nWhat is your role? (admin/customer/employee)".format(input))
         self.entry.delete(0, 'end')
 
     def terminal_write(self, text):
