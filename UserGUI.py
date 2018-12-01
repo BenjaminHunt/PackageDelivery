@@ -5,6 +5,7 @@ import PackageDatabase as db
 class GUI:
     role_defined = False
     role = ""
+    id = ""
 
     def __init__(self, root):
         root.title("Command Line Interface")
