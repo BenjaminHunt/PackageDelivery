@@ -31,6 +31,7 @@ def main():
     cursor.close()
     connection.close()
 
+
 # TODO: validate login ID
 def login(id):
     return True
