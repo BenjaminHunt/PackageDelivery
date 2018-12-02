@@ -31,11 +31,13 @@ def main():
     cursor.close()
     connection.close()
 
-
+# TODO: validate login ID
 def login(id):
     return True
 
 
+# TODO: New user login
+# Should determine role of new user
 def new():
     return 12345
 
