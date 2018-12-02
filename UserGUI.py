@@ -32,28 +32,26 @@ class GUI:
 
         root.bind('<Return>', lambda _: self.submit())
 
-        self.terminal_write("Welcome to the Package Delivery System Interface\nWhat is your role?")
+        self.terminal_write("Welcome to the Package Delivery System Interface.")
+        self.terminal_write("Please enter your ID, or \"new\" if you are a new user.")
 
 
     def submit(self):
         input = self.entry.get()
         self.terminal_write("> " + input)
-        if self.role_defined:
+
+        if self.id != "":
             if input != "":
                 db.parse_and_execute(self.role, input)
         else:
-            input = input.lower()
-            if input == "admin" or input == "customer" or input == "employee":
-                self.role = input
-                self.role_defined = True
-                response = "You are successfully recognized as a"
-                if self.role == "customer":
-                    response += " "
-                else:
-                    response += "n "
-                self.terminal_write(response + self.role)
+            if input=="new":
+                id = db.new()
+                self.terminal_write("Your account has been created. Your ID is {}.".format(id))
+            elif db.login(input):
+                self.terminal_write("You have successfully been logged in.")
             else:
-                self.terminal_write("'{}' is not a valid role.\nWhat is your role? (admin/customer/employee)".format(input))
+                self.terminal_write("'{}' is not a valid ID.".format(input))
+                self.terminal_write("Please enter your ID, or \"new\" if you are a new user.")
         self.entry.delete(0, 'end')
 
     def terminal_write(self, text):

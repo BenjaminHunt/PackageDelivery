@@ -11,6 +11,7 @@ import csv
 connection = post.connect(host="reddwarf.cs.rit.edu", dbname = 'nwv4110', user = 'nwv4110', password = 'weix8shahcah6aiVee2A')
 cursor = connection.cursor()
 
+
 def main():
 
 
@@ -29,6 +30,14 @@ def main():
     connection.commit()
     cursor.close()
     connection.close()
+
+
+def login(id):
+    return True
+
+
+def new():
+    return 12345
 
 
 def execute_command(command):
