@@ -67,20 +67,23 @@ def parse_and_execute(text, id, role):
 
 
 def admin_PAE(id, array):
-    response = "\"{}\" is not a valid command.".format(array[0])
+    response = "\"{}\" is not a supported command.".format(array[0])
     return response
 
 
 def cust_PAE(id, array):
-    response = "\"{}\" is not a valid command".format(array[0])
+    response = "\"{}\" is not a supported command.".format(array[0])
     if array[0] == "placeorder":  # placeorder <type> <weight> <source_add> <destination_add>
-        cost = customer.place_order(array[1], array[2], array[3], array[4])  # TODO: INVALID SYNTAX/PARAMETERS RESPONSE
-        response = "Order placed. The cost is {}.".format(cost)
+        valid, cost = customer.place_order(array[1], array[2], array[3], array[4])  # TODO: INVALID SYNTAX/PARAMETERS RESPONSE
+        if valid:
+            response = "Order placed. The cost is ${}.".format(cost)
+        else:
+            response = "Invalid syntax. No order placed."
     return response
 
 
 def employee_PAE(id, array):
-    response = "\"{}\" is not a valid command.".format(array[0])
+    response = "\"{}\" is not a supported command.".format(array[0])
     return response
 
 
