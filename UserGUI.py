@@ -52,7 +52,6 @@ class GUI:
             else:
                 self.terminal_write("\"{}\" is not a valid role.".format(input))
                 self.terminal_write("What is your role?")
-                self.new = False
         else:
             if input == "new":
                 self.new = True
