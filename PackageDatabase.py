@@ -26,7 +26,6 @@ def main():
             balance = 44.00
             #cursor.execute("INSERT INTO person VALUES (%s, %s, %s, %s, %s, %s)", (i, FirstName, MiddleName, LastName, payment, balance))
 
-
     connection.commit()
     cursor.close()
     connection.close()
