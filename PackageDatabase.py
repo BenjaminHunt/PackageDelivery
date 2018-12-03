@@ -18,7 +18,6 @@ cursor = connection.cursor()
 
 def main():
 
-    print(new("customer"))
     #with open("Person.csv") as line:
         #writer = csv.reader(line)
         #for row in writer:
@@ -39,12 +38,13 @@ def main():
 
 def login(id):
     value = execute_command(("SELECT * FROM person WHERE ID={}".format(id)))
-    if value:
+    if value and value != "Invalid SQL":
         return True
     else:
         return False
 
 # TODO: Generate new user with role, and other required information
+
 def new(role):
     if role == "customer":
         last_id = execute_command("SELECT MAX(Id) FROM person")
