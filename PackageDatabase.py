@@ -16,49 +16,51 @@ cursor = connection.cursor()
 
 def main():
 
-
-    with open("Person.csv") as line:
-        writer = csv.reader(line)
-        for row in writer:
-            i = row[0].strip()
-            FirstName = row[1].strip()
-            MiddleName = row[2].strip()
-            LastName = row[3].strip()
-            payment = "paypal"
-            balance = 44.00
-            #cursor.execute("INSERT INTO person VALUES (%s, %s, %s, %s, %s, %s)", (i, FirstName, MiddleName, LastName, payment, balance))
+    print(new("customer"))
+    #with open("Person.csv") as line:
+        #writer = csv.reader(line)
+        #for row in writer:
+            #i = row[0].strip()
+            #FirstName = row[1].strip()
+            #MiddleName = row[2].strip()
+            #LastName = row[3].strip()
+            #payment = "paypal"
+            #balance = 44.00
+            #cursor.execute("SELECT * FROM person WHERE id=%s",i)
+            #value = cursor.fetchall()
+            #print(value)
 
     connection.commit()
     cursor.close()
     connection.close()
 
 
-# TODO: validate login ID, return ROLE of user
 def login(id):
-    return False
-
+    value = execute_command(("SELECT * FROM person WHERE ID={}".format(id)))
+    if value:
+        return True
+    else:
+        return False
 
 # TODO: Generate new user with role, and other required information
 def new(role):
     if role == "customer":
-        return 10000            # RETURN NEW CUSTOMER
+        last_id = execute_command("SELECT MAX(Id) FROM person")
+        return last_id[0][0] + 1            # RETURN NEW CUSTOMER
     elif role == "employee":
         return 10001            # RETURN NEW EMPLOYEE
     return 12345                # RETURN NEW ADMIN
 
 
 def execute_command(command):
-    return cursor.execute(command)
+    cursor.execute(command)
+    value = cursor.fetchall()
+    return value
 
 
 def parse_and_execute(text, id, role):
     response = "RESPONSE"
-    array = text.split(",")
-    i = 0
-    while i < len(array):
-        array[i] = array[i].strip()
-        i += 1
-
+    array = text.split()
     print(array)
 
     if role == "admin":
@@ -79,7 +81,7 @@ def admin_PAE(id, array):
 def cust_PAE(id, array):
     response = "\"{}\" is not a supported command.".format(array[0])
     if array[0] == "placeorder":  # placeorder <type> <weight> <source_add> <destination_add>
-        valid, cost = customer.place_order(array[1], array[2], array[3], array[4])  # TODO: INVALID SYNTAX/PARAMETERS RESPONSE
+        valid, cost = customer.place_order(id, array[1], array[2], array[3], array[4])  # TODO: INVALID SYNTAX/PARAMETERS RESPONSE
         if valid:
             response = "Order placed. The cost is ${}.".format(cost)
         else:
@@ -92,4 +94,5 @@ def employee_PAE(id, array):
     return response
 
 
-main()
+if __name__ == "__main__":
+    main()
