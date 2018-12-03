@@ -10,7 +10,7 @@ import psycopg2 as post
 import csv
 import Customer_Commands as customer
 
-connection = post.connect(host="reddwarf.cs.rit.edu", dbname = 'nwv4110', user = 'nwv4110', password = 'weix8shahcah6aiVee2A')
+connection = post.connect(host="reddwarf.cs.rit.edu", dbname='nwv4110', user='nwv4110', password='weix8shahcah6aiVee2A')
 cursor = connection.cursor()
 
 
