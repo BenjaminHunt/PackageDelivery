@@ -53,7 +53,8 @@ def execute_command(command):
 
 def parse_and_execute(text, id, role):
     response = "RESPONSE"
-    array = text.split()
+    array = text.split(",")
+
     print(array)
 
     if role == "admin":
