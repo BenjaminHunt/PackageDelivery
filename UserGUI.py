@@ -4,6 +4,7 @@ import PackageDatabase as db
 
 class GUI:
     role_defined = False
+    new = False
     role = ""
     id = ""
 
@@ -43,12 +44,22 @@ class GUI:
         if self.id != "":
             if input != "":
                 db.parse_and_execute(self.role, input)
+        elif self.new:
+            if input == "customer" or input == "employee" or input == "admin":
+                self.role = input
+                self.id = db.new(self.role)
+                self.terminal_write("Your account has been created. You are logged in with the ID: {}.".format(self.id))
+            else:
+                self.terminal_write("\"{}\" is not a valid role.".format(input))
+                self.terminal_write("What is your role?")
+                self.new = False
         else:
-            if input=="new":
-                id = db.new()
-                self.terminal_write("Your account has been created. Your ID is {}.".format(id))
+            if input == "new":
+                self.new = True
+                self.terminal_write("What is your role? (customer/employee/admin)")
             elif db.login(input):
                 self.terminal_write("You have successfully been logged in.")
+                self.id = input
             else:
                 self.terminal_write("'{}' is not a valid ID.".format(input))
                 self.terminal_write("Please enter your ID, or \"new\" if you are a new user.")

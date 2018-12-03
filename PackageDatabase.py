@@ -37,9 +37,8 @@ def login(id):
     return True
 
 
-# TODO: New user login
-# Should determine role of new user
-def new():
+# TODO: Generate new user with role, and other required information
+def new(role):
     return 12345
 
 
