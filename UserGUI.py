@@ -36,7 +36,6 @@ class GUI:
         self.terminal_write("Welcome to the Package Delivery System Interface.")
         self.terminal_write("Please enter your ID, or \"new\" if you are a new user.")
 
-
     def submit(self):
         input = self.entry.get()
         self.terminal_write("> " + input)
