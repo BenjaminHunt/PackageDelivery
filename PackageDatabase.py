@@ -54,6 +54,10 @@ def execute_command(command):
 def parse_and_execute(text, id, role):
     response = "RESPONSE"
     array = text.split(",")
+    i = 0
+    while i < len(array):
+        array[i] = array[i].strip()
+        i += 1
 
     print(array)
 
