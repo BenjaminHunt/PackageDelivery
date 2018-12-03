@@ -1,13 +1,13 @@
-import PackageDatabase as pd
+# import PackageDatabase as pd
 
 
 active_charge = 0
 
 
-def place_order(type, weight, source_addr, destination_addr):
-    cost_for_delivery = (weight*51)/100
-    active_charge = cost_for_delivery
-    pd.execute_command("")
+def place_order(type, weight, source_addr, destination_addr): # TODO: Address needs to be standardized somehow.
+    cost_for_delivery = 20 # (weight*51)/100
+    # active_charge = cost_for_delivery
+    # pd.execute_command("")
     return cost_for_delivery
 
 

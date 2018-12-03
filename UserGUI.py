@@ -42,7 +42,8 @@ class GUI:
 
         if self.id != "":
             if input != "":
-                db.parse_and_execute(self.role, input)
+                response = db.parse_and_execute(input, self.id, self.role)
+                self.terminal_write(response)
         elif self.new:
             if input == "customer" or input == "employee" or input == "admin":
                 self.role = input
