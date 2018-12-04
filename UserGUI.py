@@ -41,7 +41,12 @@ class GUI:
 
         if self.id != "":
             if input != "":
-                if input == "logout" or input == "log out":
+                if input == "role" or input == "myrole" or input == "getrole":
+                    if self.role == "admin" or self.role == "employee":
+                        self.terminal_write("You are an {}.".format(self.role))
+                    else:
+                        self.terminal_write("You are a {}.".format(self.role))
+                elif input == "logout" or input == "log out":
                     self.id = ""
                     self.role = ""
                     self.terminal_write("You have been successfully logged out.")
