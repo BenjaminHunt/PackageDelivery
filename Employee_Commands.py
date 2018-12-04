@@ -2,7 +2,8 @@ import PackageDatabase as pd
 
 
 def list_packages():
-    return pd.execute_command("SELECT * FROM package")
+    valid = True
+    return valid, pd.execute_command("SELECT * FROM package")
 
 
 def update_hold_loc(package, location):
