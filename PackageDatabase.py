@@ -76,7 +76,7 @@ def parse_and_execute(text, id, role):
 
 
 def admin_PAE(text):
-    return admin.execute_admin_command(text)
+    return format(admin.execute_admin_command(text))
 
 
 def cust_PAE(id, array):
