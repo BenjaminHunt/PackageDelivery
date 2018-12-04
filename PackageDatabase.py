@@ -43,8 +43,10 @@ def login(id):
     else:
         return False
 
-# TODO: Generate new user with role, and other required information
+def get_role(id):
+    return "customer"
 
+# TODO: Generate new user with role, and other required information
 def new(role):
     if role == "customer":
         last_id = execute_command("SELECT MAX(Id) FROM person")
