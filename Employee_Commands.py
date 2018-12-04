@@ -19,7 +19,7 @@ def update_hold_loc(package, location):
 
 def mark_in_transit(package, vehicle):
     valid = True
-    result = pd.execute_command("")
+    result = pd.execute_command("UPDATE package SET vehicle={} WHERE id={}".format(vehicle, package))
     if result == "Invalid SQL":
         valid = False
     return valid
@@ -27,7 +27,7 @@ def mark_in_transit(package, vehicle):
 
 def mark_as_delivered(package):
     valid = True
-    result = pd.execute_command("")
+    result = pd.execute_command("UPDATE package SET delivered=TRUE WHERE id={}".format(package))
     if result == "Invalid SQL":
         valid = False
     return valid
@@ -35,7 +35,7 @@ def mark_as_delivered(package):
 
 def change_expected_delivery(package, date):
     valid = True
-    result = pd.execute_command("")
+    result = pd.execute_command("UPDATE package SET expected_delivery={} WHERE id={}".format(date, package))
     if result == "Invalid SQL":
         valid = False
     return valid
