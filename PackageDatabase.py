@@ -98,6 +98,14 @@ def cust_PAE(id, array):
             response = "Order placed. The cost is ${}.".format(cost)
         else:
             response = "Invalid syntax. No order placed."
+    if array[1] == "acceptcharge":
+        pass
+    if array[2] == "listorders":
+        pass
+    if array[3] == "trackpackage":
+        pass
+    if array[4] == "billstatus":
+        pass
     return response
 
 

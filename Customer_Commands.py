@@ -14,7 +14,6 @@ def place_order(id, type, weight, source_addr, destination_addr): # TODO: Addres
 
 
 def accept_charge(payment_type):
-    pd.execute_command("")
     return "Charge of " + str(active_charge) + " accepted"
 
 
