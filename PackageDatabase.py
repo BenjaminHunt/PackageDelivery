@@ -55,9 +55,12 @@ def new(role):
 
 
 def execute_command(command):
-    cursor.execute(command)
-    value = cursor.fetchall()
-    return value
+    try:
+        cursor.execute(command)
+        value = cursor.fetchall()
+        return value
+    except:
+        return "Invalid SQL"
 
 
 def parse_and_execute(text, id, role):
