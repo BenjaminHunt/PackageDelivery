@@ -17,7 +17,6 @@ cursor = connection.cursor()
 
 
 def main():
-
     #with open("Person.csv") as line:
         #writer = csv.reader(line)
         #for row in writer:
@@ -46,17 +45,26 @@ def login(id):
 
 # TODO: Determine role of user
 def get_role(id):
+    if int(id) == 0:
+        return "admin"
+    elif int(id) > 9000:
+        return "employee"
     return "customer"
 
 
 # TODO: Generate new user with role, and other required information
 def new(role):
     if role == "customer":
-        last_id = execute_command("SELECT MAX(Id) FROM person")
+        last_id = execute_command("SELECT MAX(Id) FROM person WHERE id<9000")
         return last_id[0][0] + 1            # RETURN NEW CUSTOMER
     elif role == "employee":
-        return 10001            # RETURN NEW EMPLOYEE
-    return 12345                # RETURN NEW ADMIN
+        last_id = execute_command("Select MAX(id) FROM person WHERE id > 8999")
+        if last_id:
+            last_id = 9000
+            return last_id
+        return last_id[0][0] + 1             # RETURN NEW EMPLOYEE
+    else:
+        return 0   # RETURN NEW ADMIN
 
 
 def execute_command(command):
