@@ -44,6 +44,11 @@ def login(id):
     else:
         return False
 
+
+def get_role(id):
+    return "customer"
+
+
 # TODO: Generate new user with role, and other required information
 def new(role):
     if role == "customer":

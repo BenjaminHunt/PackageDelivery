@@ -57,6 +57,7 @@ class GUI:
                 self.new = True
                 self.terminal_write("What is your role? (customer/employee/admin)")
             elif db.login(input):
+                self.role = db.get_role(id)
                 self.terminal_write("You have successfully been logged in.")
                 self.id = input
             else:
