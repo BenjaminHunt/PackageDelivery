@@ -8,7 +8,7 @@ def place_order(id, type, weight, source_addr, destination_addr): # TODO: Addres
     valid = True # Was this command valid/successful?
     cost_for_delivery = weight * 51/100
     last_id = pd.execute_command("SELECT MAX(id) FROM package")
-    pd.execute_command(("INSERT INTO package VALUES (%s, %s, %s, %s, %s, %s, %s, %, %s, %s)",
+    pd.execute_command(("INSERT INTO package VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)",
                        (last_id[0][0]+1, id, None, cost_for_delivery, type, "medium", "false", "false", weight, 2)))
     return valid, cost_for_delivery
 
