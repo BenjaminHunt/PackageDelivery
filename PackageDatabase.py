@@ -106,23 +106,28 @@ def cust_PAE(id, array):
         else:
             response = "Invalid syntax. No order placed."
     elif array[0] == "acceptcharge":
+        valid, charge = customer.accept_charge(id)
         if valid:
-            response = "Order placed. The cost is ${}.".format(cost)
+            response = "{}".format(charge)
         else:
             response = "Invalid syntax. No order placed."
     elif array[0] == "listorders":
+        valid, packagesOut, packagesIn = customer.list_orders(id)
         if valid:
-            response = "Order placed. The cost is ${}.".format(cost)
+            response = "Packages Out:\n{}".format(packagesOut)
+            response += "\nPackages In:\n{}".format(packagesIn)
         else:
             response = "Invalid syntax. No order placed."
     elif array[0] == "trackpackage":
+        valid, location = customer.track_package(array[1])
         if valid:
-            response = "Order placed. The cost is ${}.".format(cost)
+            response = "Location of package is {}".format(location)
         else:
             response = "Invalid syntax. No order placed."
     elif array[0] == "billstatus":
+        valid, total = customer.bill_status(array[1])
         if valid:
-            response = "Order placed. The cost is ${}.".format(cost)
+            response = "{}".format(total)
         else:
             response = "Invalid syntax. No order placed."
     return response

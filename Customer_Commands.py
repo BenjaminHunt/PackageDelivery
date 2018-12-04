@@ -13,9 +13,11 @@ def place_order(id, type, weight, source_addr, destination_addr): # TODO: Addres
     return valid, cost_for_delivery
 
 
-def accept_charge(payment_type):
+def accept_charge(id):
     valid = True # Was this command valid/successful?
-    return valid, "Charge of " + str(active_charge) + " accepted"
+    #  TODO: need query here to get users payment type
+    payment_type = pd.execute_command("")
+    return valid, "Charge of " + str(active_charge) + " accepted using payment type" + payment_type
 
 
 def list_orders(id):
