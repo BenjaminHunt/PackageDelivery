@@ -78,7 +78,6 @@ def execute_command(command):
         return "Invalid SQL"
 
 
-
 def parse_and_execute(text, id, role):
     response = "RESPONSE"
     array = text.split()
@@ -106,13 +105,13 @@ def cust_PAE(id, array):
             response = "Order placed. The cost is ${}.".format(cost)
         else:
             response = "Invalid syntax. No order placed."
-    if array[1] == "acceptcharge":
+    elif array[0] == "acceptcharge":
         pass
-    if array[2] == "listorders":
+    elif array[0] == "listorders":
         pass
-    if array[3] == "trackpackage":
+    elif array[0] == "trackpackage":
         pass
-    if array[4] == "billstatus":
+    elif array[0] == "billstatus":
         pass
     return response
 
