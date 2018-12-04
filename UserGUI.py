@@ -41,8 +41,14 @@ class GUI:
 
         if self.id != "":
             if input != "":
-                response = db.parse_and_execute(input, self.id, self.role)
-                self.terminal_write(response)
+                if input == "logout" or input == "log out":
+                    self.id = ""
+                    self.role = ""
+                    self.terminal_write("You have been successfully logged out.")
+                    self.terminal_write("To log in, please enter your ID, or \"new\" if you are a new user.")
+                else:
+                    response = db.parse_and_execute(input, self.id, self.role)
+                    self.terminal_write(response)
         elif self.new:
             if input == "customer" or input == "employee" or input == "admin":
                 self.role = input
