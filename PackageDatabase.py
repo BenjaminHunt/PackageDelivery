@@ -60,7 +60,7 @@ def new(role):
 
 
 def execute_command(command):
-    print(command)
+    print("db file: " + command)
     try:
         cursor.execute(command)
         value = cursor.fetchall()
