@@ -9,6 +9,8 @@ Description: This is the backend for the sql server that will be inserting the d
 import psycopg2 as post
 import csv
 import Customer_Commands as customer
+import Admin_Commands as admin
+import Employee_Commands as employee
 
 connection = post.connect(host="reddwarf.cs.rit.edu", dbname='nwv4110', user='nwv4110', password='weix8shahcah6aiVee2A')
 cursor = connection.cursor()
@@ -64,7 +66,7 @@ def parse_and_execute(text, id, role):
     print(array)
 
     if role == "admin":
-        response = admin_PAE(id, array)
+        response = admin_PAE(text)
     elif role == "customer":
         response = cust_PAE(id, array)
     elif role == "employee":
@@ -73,9 +75,8 @@ def parse_and_execute(text, id, role):
     return response
 
 
-def admin_PAE(id, array):
-    response = "\"{}\" is not a supported command.".format(array[0])
-    return response
+def admin_PAE(text):
+    return admin.execute_admin_command(text)
 
 
 def cust_PAE(id, array):
