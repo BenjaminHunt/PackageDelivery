@@ -18,7 +18,7 @@ def place_order(id, type, weight, source_addr, destination_addr): # TODO: Addres
 def accept_charge(id):
     valid = True # Was this command valid/successful?
     #  TODO: need query here to get users payment type
-    payment_type = pd.execute_command("")
+    payment_type = pd.execute_command("SELECT payment_type FROM customers WHERE id={}".format(id))
     if payment_type == "Invalid SQL":
         valid = False
     if active_c != 0:
