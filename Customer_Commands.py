@@ -1,7 +1,7 @@
 import PackageDatabase as pd
 
 
-active_charge = 0
+active_c = 0
 
 
 def place_order(id, type, weight, source_addr, destination_addr): # TODO: Address needs to be standardized somehow.
@@ -17,7 +17,10 @@ def accept_charge(id):
     valid = True # Was this command valid/successful?
     #  TODO: need query here to get users payment type
     payment_type = pd.execute_command("")
-    return valid, "Charge of " + str(active_charge) + " accepted using payment type" + payment_type
+    if active_c != 0:
+        return valid, "Charge of " + str(active_c) + " accepted using payment type" + payment_type
+    else:
+        return valid, "No, active charge."
 
 
 def list_orders(id):

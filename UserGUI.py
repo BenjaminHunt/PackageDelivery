@@ -58,7 +58,8 @@ class GUI:
             if input == "customer" or input == "employee" or input == "admin":
                 self.role = input
                 self.id = db.new(self.role)
-                self.terminal_write("Your account has been created. You are logged in with the ID: {}.".format(self.id))
+                self.terminal_write("Your account has been created. You are logged in with the ID: {}. "
+                                    "Use \"help\" for available commands".format(self.id))
             else:
                 self.terminal_write("\"{}\" is not a valid role.".format(input))
                 self.terminal_write("What is your role?")
@@ -69,7 +70,7 @@ class GUI:
             elif db.login(input):
                 self.id = input
                 self.role = db.get_role(self.id)
-                self.terminal_write("You have successfully been logged in.")
+                self.terminal_write("You have successfully been logged in. Use \"help\" for available commands")
             else:
                 self.terminal_write("'{}' is not a valid ID.".format(input))
                 self.terminal_write("Please enter your ID, or \"new\" if you are a new user.")

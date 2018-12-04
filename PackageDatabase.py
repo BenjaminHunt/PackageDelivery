@@ -130,6 +130,14 @@ def cust_PAE(id, array):
             response = "{}".format(total)
         else:
             response = "Invalid syntax. No order placed."
+    elif array[0] == "help":
+        print("Available commands:\n\t"
+              "placeorder <type> <weight> <source_add> <destination_add>: place an order\n\t"
+              "acceptcharge: accept the charge associated with package, using your payment method\n\t"
+              "listorders: list active packages, in and out going\n\t"
+              "trackpackage <tracking_number>: track location of package by tracking number\n\t"
+              "billstatus <packageID>: get the status of your bill\n\t"
+              "help: this menu")
     return response
 
 
