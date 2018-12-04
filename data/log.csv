@@ -1,0 +1,3001 @@
+log_id,timestamp,event,status,location_id
+1,"1/12/2018,11:22:27",picked up,in transit,52
+2,"2/21/2016,9:20:17",picked up,in transit,24
+3,"9/16/2002,10:33:22",picked up,in transit,183
+4,"9/5/2005,12:16:36",picked up,in transit,12
+5,"1/25/2009,9:21:51",picked up,in transit,54
+6,"5/6/2004,16:05:57",picked up,in transit,200
+7,"5/30/2002,8:27:58",picked up,in transit,5
+8,"4/21/2018,8:20:46",picked up,in transit,43
+9,"3/27/2016,15:58:15",picked up,in transit,18
+10,"5/12/2015,13:48:45",picked up,in transit,101
+11,"11/10/2016,14:12:09",picked up,in transit,21
+12,"8/28/2002,13:54:21",picked up,in transit,42
+13,"8/26/2017,13:02:42",picked up,in transit,182
+14,"4/10/2013,9:51:02",picked up,in transit,7
+15,"3/11/2017,11:15:41",picked up,in transit,51
+16,"2/3/2013,12:58:39",picked up,in transit,108
+17,"5/20/2009,15:42:12",picked up,in transit,45
+18,"1/14/2016,8:07:13",picked up,in transit,195
+19,"11/3/2001,9:08:03",picked up,in transit,44
+20,"1/9/2003,14:39:26",picked up,in transit,91
+21,"12/19/2003,16:28:06",picked up,in transit,134
+22,"12/8/2017,14:58:02",picked up,in transit,54
+23,"12/23/2002,14:03:30",picked up,in transit,117
+24,"9/1/2009,9:25:28",picked up,in transit,149
+25,"5/6/2014,12:08:47",picked up,in transit,78
+26,"10/8/2010,16:20:32",picked up,in transit,145
+27,"1/15/2015,14:25:05",picked up,in transit,160
+28,"9/23/2006,14:19:05",picked up,in transit,189
+29,"5/21/2017,13:39:42",picked up,in transit,188
+30,"12/15/2014,12:48:08",picked up,in transit,172
+31,"3/14/2014,11:17:49",picked up,in transit,18
+32,"3/7/2007,16:10:20",picked up,in transit,55
+33,"12/22/2017,14:19:31",picked up,in transit,128
+34,"10/22/2006,13:57:13",picked up,in transit,7
+35,"12/8/2003,13:36:42",picked up,in transit,134
+36,"9/7/2001,9:53:35",picked up,in transit,166
+37,"6/21/2015,16:01:57",picked up,in transit,56
+38,"8/28/2007,10:11:41",picked up,in transit,52
+39,"4/2/2008,9:20:19",picked up,in transit,20
+40,"11/13/2014,12:36:12",picked up,in transit,140
+41,"5/3/2014,13:15:05",picked up,in transit,87
+42,"5/23/2010,11:02:51",picked up,in transit,164
+43,"7/2/2004,13:46:00",picked up,in transit,52
+44,"3/8/2010,11:55:26",picked up,in transit,138
+45,"11/13/2006,15:19:36",picked up,in transit,25
+46,"3/11/2011,10:49:47",picked up,in transit,121
+47,"6/19/2015,16:05:14",picked up,in transit,62
+48,"11/13/2008,13:23:41",picked up,in transit,12
+49,"2/21/2017,9:51:04",picked up,in transit,158
+50,"5/27/2001,8:29:23",picked up,in transit,162
+51,"12/29/2010,16:18:27",picked up,in transit,46
+52,"9/9/2002,15:58:15",picked up,in transit,134
+53,"10/26/2015,9:32:13",picked up,in transit,100
+54,"4/25/2014,15:01:33",picked up,in transit,111
+55,"7/9/2005,10:45:24",picked up,in transit,168
+56,"5/9/2006,15:23:19",picked up,in transit,149
+57,"6/30/2016,14:02:01",picked up,in transit,79
+58,"9/25/2007,15:22:16",picked up,in transit,58
+59,"10/27/2001,11:39:37",picked up,in transit,17
+60,"9/2/2011,13:28:15",picked up,in transit,140
+61,"4/14/2007,9:06:11",picked up,in transit,67
+62,"12/31/2012,15:04:19",picked up,in transit,111
+63,"5/13/2008,14:17:57",picked up,in transit,157
+64,"1/13/2008,11:16:13",picked up,in transit,185
+65,"6/8/2012,13:16:43",picked up,in transit,67
+66,"4/25/2004,13:24:33",picked up,in transit,70
+67,"9/7/2009,14:49:33",picked up,in transit,168
+68,"12/31/2008,12:21:42",picked up,in transit,119
+69,"3/8/2007,16:08:55",picked up,in transit,84
+70,"3/6/2011,11:48:42",picked up,in transit,157
+71,"6/5/2009,9:16:28",picked up,in transit,82
+72,"10/27/2012,11:30:49",picked up,in transit,74
+73,"11/30/2011,8:20:12",picked up,in transit,147
+74,"1/23/2003,12:17:21",picked up,in transit,10
+75,"10/26/2009,12:34:22",picked up,in transit,91
+76,"9/7/2001,16:19:08",picked up,in transit,174
+77,"12/8/2009,8:14:13",picked up,in transit,8
+78,"11/3/2018,10:55:53",picked up,in transit,134
+79,"12/16/2006,11:07:19",picked up,in transit,17
+80,"1/22/2002,8:31:25",picked up,in transit,196
+81,"6/6/2018,16:40:33",picked up,in transit,14
+82,"6/23/2015,16:00:05",picked up,in transit,88
+83,"3/20/2012,14:43:16",picked up,in transit,137
+84,"9/16/2017,9:15:34",picked up,in transit,79
+85,"8/25/2007,15:12:09",picked up,in transit,101
+86,"11/19/2016,11:46:35",picked up,in transit,155
+87,"7/11/2017,8:07:25",picked up,in transit,16
+88,"10/23/2012,12:53:44",picked up,in transit,40
+89,"12/28/2011,9:11:14",picked up,in transit,144
+90,"12/20/2013,10:04:04",picked up,in transit,48
+91,"10/31/2003,13:06:12",picked up,in transit,47
+92,"11/2/2008,16:40:50",picked up,in transit,108
+93,"12/27/2011,8:31:17",picked up,in transit,128
+94,"5/16/2010,8:51:14",picked up,in transit,52
+95,"8/12/2004,15:03:25",picked up,in transit,107
+96,"8/13/2005,12:36:37",picked up,in transit,11
+97,"5/14/2015,14:20:20",picked up,in transit,17
+98,"1/19/2015,9:30:43",picked up,in transit,189
+99,"3/8/2003,16:30:15",picked up,in transit,159
+100,"3/22/2004,14:38:22",picked up,in transit,21
+101,"9/22/2001,9:54:37",picked up,in transit,172
+102,"4/15/2015,12:05:00",picked up,in transit,81
+103,"10/4/2012,15:52:54",picked up,in transit,43
+104,"9/14/2015,9:55:06",picked up,in transit,45
+105,"8/19/2018,12:41:14",picked up,in transit,191
+106,"4/20/2001,8:44:58",picked up,in transit,70
+107,"7/29/2012,13:34:49",picked up,in transit,74
+108,"4/3/2007,12:11:53",picked up,in transit,94
+109,"1/7/2011,8:57:23",picked up,in transit,22
+110,"1/26/2012,12:30:20",picked up,in transit,17
+111,"9/26/2008,16:38:32",picked up,in transit,100
+112,"2/2/2016,8:16:24",picked up,in transit,131
+113,"2/13/2015,13:36:00",picked up,in transit,132
+114,"4/2/2008,11:46:57",picked up,in transit,188
+115,"4/7/2018,10:20:09",picked up,in transit,15
+116,"9/25/2003,10:55:41",picked up,in transit,4
+117,"10/25/2003,16:33:10",picked up,in transit,18
+118,"5/8/2004,13:55:16",picked up,in transit,72
+119,"7/23/2011,9:11:15",picked up,in transit,76
+120,"12/1/2003,11:58:49",picked up,in transit,138
+121,"6/9/2005,13:40:57",picked up,in transit,91
+122,"12/2/2015,15:40:55",picked up,in transit,81
+123,"8/20/2012,13:40:44",picked up,in transit,69
+124,"3/12/2004,15:45:25",picked up,in transit,86
+125,"10/20/2006,15:32:08",picked up,in transit,56
+126,"11/10/2004,16:14:14",picked up,in transit,87
+127,"3/24/2006,16:57:54",picked up,in transit,185
+128,"8/13/2017,16:53:03",picked up,in transit,69
+129,"1/20/2013,12:22:23",picked up,in transit,87
+130,"4/28/2003,12:44:53",picked up,in transit,7
+131,"11/29/2014,11:00:04",picked up,in transit,118
+132,"12/11/2002,12:06:46",picked up,in transit,67
+133,"9/9/2003,10:54:53",picked up,in transit,166
+134,"8/20/2005,13:14:08",picked up,in transit,68
+135,"6/17/2003,12:04:02",picked up,in transit,45
+136,"4/9/2007,11:32:14",picked up,in transit,130
+137,"8/19/2006,14:55:15",picked up,in transit,173
+138,"8/31/2015,15:37:20",picked up,in transit,154
+139,"3/15/2009,15:45:51",picked up,in transit,129
+140,"3/14/2006,12:54:55",picked up,in transit,147
+141,"9/21/2018,9:28:24",picked up,in transit,103
+142,"7/28/2012,15:44:13",picked up,in transit,38
+143,"8/7/2008,16:08:06",picked up,in transit,39
+144,"6/6/2017,13:14:30",picked up,in transit,144
+145,"11/9/2018,8:41:59",picked up,in transit,88
+146,"7/13/2011,9:15:53",picked up,in transit,141
+147,"10/25/2001,15:49:40",picked up,in transit,57
+148,"2/19/2007,9:07:30",picked up,in transit,65
+149,"8/28/2007,14:43:47",picked up,in transit,181
+150,"10/8/2010,8:15:12",picked up,in transit,7
+151,"5/29/2011,15:44:21",picked up,in transit,191
+152,"7/2/2007,11:12:12",picked up,in transit,11
+153,"10/22/2008,12:50:16",picked up,in transit,189
+154,"3/24/2012,15:30:20",picked up,in transit,104
+155,"9/13/2008,8:20:37",picked up,in transit,98
+156,"1/26/2007,8:37:00",picked up,in transit,89
+157,"11/10/2018,16:10:33",picked up,in transit,110
+158,"12/24/2012,12:39:02",picked up,in transit,73
+159,"12/26/2013,15:03:05",picked up,in transit,36
+160,"2/22/2004,14:06:52",picked up,in transit,5
+161,"5/31/2018,14:20:42",picked up,in transit,88
+162,"8/8/2012,13:41:02",picked up,in transit,108
+163,"10/28/2010,11:56:20",picked up,in transit,187
+164,"10/8/2014,14:35:01",picked up,in transit,140
+165,"8/1/2001,12:00:13",picked up,in transit,179
+166,"2/10/2017,12:41:57",picked up,in transit,177
+167,"2/4/2009,11:53:28",picked up,in transit,127
+168,"4/24/2009,11:24:40",picked up,in transit,191
+169,"2/21/2012,8:40:21",picked up,in transit,37
+170,"3/19/2017,13:45:14",picked up,in transit,163
+171,"11/5/2006,8:06:40",picked up,in transit,91
+172,"11/12/2009,12:20:49",picked up,in transit,142
+173,"12/25/2006,13:57:12",picked up,in transit,172
+174,"9/12/2010,16:51:18",picked up,in transit,151
+175,"1/20/2016,12:41:52",picked up,in transit,162
+176,"9/30/2016,10:59:18",picked up,in transit,119
+177,"5/3/2006,15:02:34",picked up,in transit,87
+178,"1/21/2011,9:33:02",picked up,in transit,76
+179,"5/11/2006,14:40:38",picked up,in transit,64
+180,"2/13/2005,13:01:47",picked up,in transit,48
+181,"6/4/2010,11:31:14",picked up,in transit,135
+182,"11/19/2015,10:15:55",picked up,in transit,99
+183,"11/15/2007,11:28:51",picked up,in transit,176
+184,"8/13/2017,10:37:57",picked up,in transit,33
+185,"2/20/2016,13:59:09",picked up,in transit,146
+186,"7/9/2015,11:56:26",picked up,in transit,177
+187,"6/19/2006,14:56:36",picked up,in transit,161
+188,"3/17/2016,14:24:00",picked up,in transit,196
+189,"5/24/2018,14:11:46",picked up,in transit,149
+190,"6/29/2018,14:31:25",picked up,in transit,58
+191,"4/4/2001,13:28:22",picked up,in transit,75
+192,"10/5/2007,12:38:03",picked up,in transit,5
+193,"5/2/2012,12:54:15",picked up,in transit,24
+194,"5/23/2012,11:05:17",picked up,in transit,76
+195,"2/21/2018,16:51:18",picked up,in transit,183
+196,"1/9/2011,11:57:29",picked up,in transit,151
+197,"7/6/2014,14:12:05",picked up,in transit,134
+198,"10/23/2007,16:15:58",picked up,in transit,62
+199,"3/12/2010,14:39:20",picked up,in transit,83
+200,"7/21/2014,8:59:51",picked up,in transit,59
+201,"8/25/2005,16:46:44",picked up,in transit,131
+202,"6/16/2017,13:48:40",picked up,in transit,15
+203,"12/11/2014,11:52:47",picked up,in transit,3
+204,"9/28/2011,16:07:22",picked up,in transit,173
+205,"2/18/2014,10:55:08",picked up,in transit,52
+206,"6/6/2011,9:12:30",picked up,in transit,71
+207,"8/19/2011,8:50:25",picked up,in transit,80
+208,"4/26/2016,16:16:44",picked up,in transit,54
+209,"10/16/2014,8:18:49",picked up,in transit,61
+210,"11/6/2003,12:12:49",picked up,in transit,103
+211,"3/31/2011,12:26:22",picked up,in transit,59
+212,"2/3/2007,13:31:12",picked up,in transit,77
+213,"11/15/2002,10:51:13",picked up,in transit,123
+214,"2/2/2005,11:40:35",picked up,in transit,34
+215,"2/2/2011,13:29:36",picked up,in transit,172
+216,"6/22/2013,12:59:09",picked up,in transit,111
+217,"12/28/2004,13:43:21",picked up,in transit,27
+218,"1/29/2006,10:30:25",picked up,in transit,153
+219,"10/22/2005,11:33:05",picked up,in transit,10
+220,"12/23/2013,15:45:02",picked up,in transit,131
+221,"5/7/2006,11:06:13",picked up,in transit,188
+222,"9/9/2003,14:47:56",picked up,in transit,100
+223,"5/21/2009,14:51:44",picked up,in transit,88
+224,"8/31/2011,9:12:51",picked up,in transit,92
+225,"11/26/2001,14:26:08",picked up,in transit,156
+226,"5/18/2007,12:28:30",picked up,in transit,2
+227,"11/12/2008,12:12:41",picked up,in transit,51
+228,"3/6/2011,9:57:18",picked up,in transit,99
+229,"10/14/2016,13:57:41",picked up,in transit,23
+230,"7/15/2012,10:28:21",picked up,in transit,89
+231,"2/17/2008,14:36:51",picked up,in transit,3
+232,"9/14/2011,13:41:20",picked up,in transit,123
+233,"5/1/2009,9:43:30",picked up,in transit,145
+234,"11/10/2007,11:35:29",picked up,in transit,135
+235,"9/8/2005,12:27:11",picked up,in transit,143
+236,"5/14/2006,15:35:00",picked up,in transit,82
+237,"2/19/2017,11:24:22",picked up,in transit,85
+238,"1/7/2009,16:59:57",picked up,in transit,112
+239,"9/9/2017,15:04:41",picked up,in transit,32
+240,"5/18/2014,16:37:25",picked up,in transit,47
+241,"3/6/2012,11:43:10",picked up,in transit,192
+242,"3/30/2015,12:56:03",picked up,in transit,147
+243,"5/1/2014,12:06:51",picked up,in transit,82
+244,"4/15/2010,16:20:32",picked up,in transit,21
+245,"12/15/2005,16:17:32",picked up,in transit,27
+246,"2/10/2006,12:50:33",picked up,in transit,136
+247,"7/22/2001,15:52:19",picked up,in transit,63
+248,"10/23/2005,13:09:38",picked up,in transit,15
+249,"11/24/2006,11:43:01",picked up,in transit,179
+250,"1/11/2005,16:58:48",picked up,in transit,5
+251,"6/25/2005,14:32:42",picked up,in transit,125
+252,"9/2/2011,13:06:26",picked up,in transit,147
+253,"2/2/2009,13:49:57",picked up,in transit,135
+254,"11/7/2003,8:42:27",picked up,in transit,37
+255,"8/13/2003,10:00:34",picked up,in transit,15
+256,"6/24/2006,11:01:19",picked up,in transit,98
+257,"4/13/2007,13:10:45",picked up,in transit,160
+258,"10/7/2008,13:08:33",picked up,in transit,72
+259,"5/22/2017,15:04:16",picked up,in transit,159
+260,"5/25/2016,9:15:16",picked up,in transit,10
+261,"2/21/2002,12:38:33",picked up,in transit,139
+262,"7/1/2004,16:30:56",picked up,in transit,21
+263,"7/16/2017,8:27:59",picked up,in transit,32
+264,"6/1/2004,14:43:00",picked up,in transit,158
+265,"10/13/2016,12:55:51",picked up,in transit,118
+266,"3/20/2013,11:30:00",picked up,in transit,106
+267,"9/3/2018,14:17:11",picked up,in transit,9
+268,"11/23/2013,12:38:28",picked up,in transit,150
+269,"1/22/2007,14:09:01",picked up,in transit,107
+270,"1/15/2007,10:34:37",picked up,in transit,95
+271,"3/4/2002,12:29:12",picked up,in transit,151
+272,"12/27/2008,8:36:32",picked up,in transit,196
+273,"9/20/2015,14:10:03",picked up,in transit,59
+274,"5/30/2008,8:11:08",picked up,in transit,35
+275,"12/3/2010,10:27:30",picked up,in transit,43
+276,"4/15/2008,8:25:39",picked up,in transit,22
+277,"9/14/2014,14:05:00",picked up,in transit,6
+278,"2/17/2004,13:04:58",picked up,in transit,159
+279,"1/29/2003,14:55:17",picked up,in transit,186
+280,"9/5/2010,9:05:07",picked up,in transit,66
+281,"2/23/2009,14:31:09",picked up,in transit,19
+282,"1/21/2010,11:21:15",picked up,in transit,54
+283,"9/3/2015,8:39:18",picked up,in transit,43
+284,"1/16/2015,9:44:07",picked up,in transit,96
+285,"11/22/2001,14:37:35",picked up,in transit,4
+286,"12/12/2007,14:09:04",picked up,in transit,66
+287,"10/11/2005,8:20:33",picked up,in transit,24
+288,"6/8/2016,10:59:21",picked up,in transit,95
+289,"6/26/2011,10:14:49",picked up,in transit,24
+290,"8/1/2003,8:42:25",picked up,in transit,192
+291,"7/2/2001,8:49:02",picked up,in transit,8
+292,"6/27/2003,9:02:35",picked up,in transit,111
+293,"1/16/2009,14:19:27",picked up,in transit,159
+294,"12/24/2013,15:14:00",picked up,in transit,181
+295,"6/28/2018,11:58:31",picked up,in transit,163
+296,"12/19/2010,11:04:18",picked up,in transit,161
+297,"2/25/2015,13:00:08",picked up,in transit,145
+298,"12/8/2004,10:24:37",picked up,in transit,139
+299,"12/30/2006,16:07:52",picked up,in transit,2
+300,"6/24/2002,16:54:56",picked up,in transit,124
+301,"6/6/2009,15:50:50",picked up,in transit,95
+302,"5/31/2017,14:02:25",picked up,in transit,82
+303,"4/15/2002,14:10:14",picked up,in transit,152
+304,"12/16/2005,9:48:12",picked up,in transit,12
+305,"11/20/2014,9:24:42",picked up,in transit,195
+306,"3/1/2002,10:51:08",picked up,in transit,46
+307,"9/8/2015,8:28:43",picked up,in transit,97
+308,"6/27/2001,16:32:10",picked up,in transit,111
+309,"3/16/2010,9:54:03",picked up,in transit,124
+310,"11/3/2008,8:26:40",picked up,in transit,166
+311,"11/30/2016,14:28:56",picked up,in transit,160
+312,"10/21/2016,12:33:16",picked up,in transit,42
+313,"2/28/2002,10:37:48",picked up,in transit,195
+314,"11/17/2002,12:22:37",picked up,in transit,105
+315,"11/6/2009,15:39:11",picked up,in transit,35
+316,"1/5/2011,12:50:53",picked up,in transit,62
+317,"5/3/2015,16:51:15",picked up,in transit,159
+318,"7/25/2011,13:04:12",picked up,in transit,40
+319,"1/2/2013,14:45:09",picked up,in transit,144
+320,"6/18/2003,15:29:47",picked up,in transit,122
+321,"2/12/2018,9:04:52",picked up,in transit,27
+322,"4/19/2011,12:55:48",picked up,in transit,36
+323,"10/8/2014,10:30:10",picked up,in transit,185
+324,"5/19/2011,9:22:49",picked up,in transit,133
+325,"8/5/2016,16:50:43",picked up,in transit,73
+326,"3/29/2011,8:34:12",picked up,in transit,51
+327,"6/17/2018,10:10:04",picked up,in transit,184
+328,"10/18/2008,16:28:04",picked up,in transit,49
+329,"4/8/2002,8:28:10",picked up,in transit,104
+330,"5/2/2018,9:14:26",picked up,in transit,89
+331,"7/19/2010,9:41:19",picked up,in transit,13
+332,"7/5/2007,10:20:57",picked up,in transit,75
+333,"1/23/2013,8:13:41",picked up,in transit,82
+334,"3/13/2007,15:17:48",picked up,in transit,118
+335,"6/23/2004,15:17:19",picked up,in transit,57
+336,"1/5/2010,16:12:52",picked up,in transit,119
+337,"8/17/2015,13:47:59",picked up,in transit,173
+338,"4/28/2006,12:53:00",picked up,in transit,156
+339,"8/25/2017,8:31:04",picked up,in transit,97
+340,"10/4/2017,15:50:18",picked up,in transit,125
+341,"5/4/2009,8:20:38",picked up,in transit,121
+342,"4/26/2007,16:35:15",picked up,in transit,179
+343,"8/20/2011,14:27:19",picked up,in transit,16
+344,"7/12/2012,9:08:15",picked up,in transit,13
+345,"3/30/2014,13:50:50",picked up,in transit,15
+346,"6/1/2014,8:09:37",picked up,in transit,120
+347,"11/27/2007,16:26:14",picked up,in transit,17
+348,"12/16/2009,15:24:34",picked up,in transit,32
+349,"11/3/2002,11:15:23",picked up,in transit,74
+350,"7/11/2007,12:08:06",picked up,in transit,116
+351,"4/1/2010,9:01:00",picked up,in transit,113
+352,"4/5/2018,13:23:00",picked up,in transit,86
+353,"5/6/2016,12:46:23",picked up,in transit,20
+354,"7/3/2004,15:23:24",picked up,in transit,154
+355,"7/23/2011,10:57:28",picked up,in transit,127
+356,"12/18/2012,10:48:25",picked up,in transit,105
+357,"8/13/2010,16:20:14",picked up,in transit,105
+358,"8/10/2007,10:48:30",picked up,in transit,36
+359,"5/19/2016,11:29:53",picked up,in transit,122
+360,"5/5/2007,14:09:04",picked up,in transit,124
+361,"3/21/2003,16:19:07",picked up,in transit,152
+362,"1/2/2016,10:36:11",picked up,in transit,188
+363,"11/30/2006,8:45:19",picked up,in transit,122
+364,"7/10/2006,10:03:55",picked up,in transit,171
+365,"2/17/2008,12:34:44",picked up,in transit,113
+366,"5/19/2017,10:44:24",picked up,in transit,137
+367,"4/2/2008,10:36:03",picked up,in transit,94
+368,"11/15/2018,8:55:21",picked up,in transit,53
+369,"12/14/2001,15:00:21",picked up,in transit,68
+370,"1/9/2016,16:25:42",picked up,in transit,134
+371,"3/13/2003,11:02:57",picked up,in transit,119
+372,"8/23/2014,8:20:20",picked up,in transit,71
+373,"1/2/2009,13:36:35",picked up,in transit,178
+374,"10/18/2003,15:17:06",picked up,in transit,133
+375,"6/13/2011,12:58:14",picked up,in transit,92
+376,"9/15/2010,12:09:02",picked up,in transit,127
+377,"4/10/2008,12:13:53",picked up,in transit,168
+378,"4/2/2015,13:06:23",picked up,in transit,178
+379,"6/1/2012,8:08:42",picked up,in transit,48
+380,"2/8/2013,14:28:32",picked up,in transit,63
+381,"10/31/2018,11:20:22",picked up,in transit,161
+382,"4/27/2001,8:40:42",picked up,in transit,57
+383,"5/26/2005,11:34:02",picked up,in transit,147
+384,"4/27/2009,11:38:49",picked up,in transit,59
+385,"10/16/2011,16:52:57",picked up,in transit,173
+386,"9/27/2001,8:44:19",picked up,in transit,74
+387,"4/25/2012,15:29:10",picked up,in transit,190
+388,"4/24/2015,16:43:16",picked up,in transit,46
+389,"5/20/2011,10:53:42",picked up,in transit,160
+390,"8/15/2005,15:22:17",picked up,in transit,99
+391,"11/26/2009,9:40:46",picked up,in transit,98
+392,"2/25/2013,10:08:12",picked up,in transit,113
+393,"11/3/2010,12:33:33",picked up,in transit,122
+394,"6/15/2007,8:28:37",picked up,in transit,59
+395,"5/8/2002,15:54:31",picked up,in transit,166
+396,"2/9/2008,13:52:03",picked up,in transit,100
+397,"6/14/2017,12:58:35",picked up,in transit,105
+398,"4/11/2012,13:05:11",picked up,in transit,55
+399,"11/27/2010,8:41:22",picked up,in transit,5
+400,"2/19/2012,8:56:26",picked up,in transit,197
+401,"10/21/2018,9:53:03",picked up,in transit,70
+402,"1/6/2008,8:20:53",picked up,in transit,15
+403,"7/23/2003,10:06:54",picked up,in transit,3
+404,"11/19/2002,8:30:33",picked up,in transit,58
+405,"10/20/2017,15:55:06",picked up,in transit,192
+406,"3/20/2002,15:47:33",picked up,in transit,3
+407,"5/14/2012,15:56:14",picked up,in transit,12
+408,"1/26/2017,15:27:11",picked up,in transit,18
+409,"11/13/2015,16:20:56",picked up,in transit,190
+410,"10/5/2008,11:07:36",picked up,in transit,182
+411,"11/9/2003,16:32:54",picked up,in transit,104
+412,"12/6/2009,8:51:29",picked up,in transit,24
+413,"6/21/2014,11:11:02",picked up,in transit,85
+414,"4/27/2008,8:16:06",picked up,in transit,5
+415,"12/13/2013,8:56:47",picked up,in transit,106
+416,"5/12/2009,16:49:51",picked up,in transit,190
+417,"4/19/2017,9:05:11",picked up,in transit,81
+418,"5/15/2002,9:56:34",picked up,in transit,54
+419,"3/14/2015,12:52:10",picked up,in transit,47
+420,"8/26/2012,8:33:35",picked up,in transit,194
+421,"12/18/2011,16:54:17",picked up,in transit,125
+422,"1/18/2003,11:00:54",picked up,in transit,64
+423,"12/4/2004,12:33:00",picked up,in transit,109
+424,"10/8/2001,12:39:53",picked up,in transit,92
+425,"9/19/2012,10:27:51",picked up,in transit,155
+426,"9/25/2003,10:20:10",picked up,in transit,184
+427,"8/1/2018,14:59:53",picked up,in transit,118
+428,"7/7/2007,13:45:56",picked up,in transit,190
+429,"5/4/2014,8:16:32",picked up,in transit,101
+430,"11/5/2017,10:03:10",picked up,in transit,52
+431,"12/19/2007,15:26:00",picked up,in transit,30
+432,"9/29/2008,16:26:23",picked up,in transit,128
+433,"12/12/2003,16:27:16",picked up,in transit,72
+434,"2/5/2014,13:46:10",picked up,in transit,14
+435,"11/19/2006,14:32:20",picked up,in transit,41
+436,"11/19/2005,10:24:14",picked up,in transit,17
+437,"9/11/2001,10:26:27",picked up,in transit,27
+438,"11/16/2018,13:47:00",picked up,in transit,43
+439,"8/21/2003,16:49:51",picked up,in transit,67
+440,"6/7/2010,14:40:02",picked up,in transit,89
+441,"1/11/2013,15:28:34",picked up,in transit,18
+442,"1/14/2016,14:44:51",picked up,in transit,110
+443,"4/12/2014,14:02:42",picked up,in transit,111
+444,"10/27/2002,12:54:32",picked up,in transit,152
+445,"12/16/2013,9:37:20",picked up,in transit,136
+446,"1/16/2008,12:47:43",picked up,in transit,148
+447,"3/4/2006,13:54:46",picked up,in transit,88
+448,"8/29/2016,14:50:28",picked up,in transit,199
+449,"10/5/2018,9:26:15",picked up,in transit,32
+450,"7/26/2010,10:09:56",picked up,in transit,195
+451,"8/30/2014,12:11:29",picked up,in transit,31
+452,"8/25/2001,8:43:48",picked up,in transit,51
+453,"8/1/2016,13:38:12",picked up,in transit,174
+454,"7/22/2017,13:38:07",picked up,in transit,60
+455,"2/21/2018,8:17:22",picked up,in transit,188
+456,"5/25/2018,15:37:37",picked up,in transit,109
+457,"12/26/2008,16:36:32",picked up,in transit,77
+458,"3/3/2005,13:37:12",picked up,in transit,59
+459,"2/11/2013,9:28:13",picked up,in transit,5
+460,"10/24/2016,10:05:38",picked up,in transit,85
+461,"4/18/2004,15:56:50",picked up,in transit,57
+462,"11/13/2001,12:36:07",picked up,in transit,172
+463,"8/22/2005,13:33:01",picked up,in transit,65
+464,"5/18/2005,10:00:54",picked up,in transit,107
+465,"3/23/2004,14:53:24",picked up,in transit,176
+466,"10/13/2009,14:52:10",picked up,in transit,172
+467,"1/28/2005,16:15:53",picked up,in transit,139
+468,"9/2/2009,14:50:55",picked up,in transit,42
+469,"4/14/2004,16:40:39",picked up,in transit,131
+470,"10/5/2009,15:03:08",picked up,in transit,131
+471,"1/2/2002,14:29:31",picked up,in transit,14
+472,"5/9/2008,14:47:54",picked up,in transit,124
+473,"11/9/2013,10:04:47",picked up,in transit,136
+474,"10/16/2011,14:10:41",picked up,in transit,49
+475,"12/4/2017,10:56:39",picked up,in transit,110
+476,"5/10/2016,12:39:24",picked up,in transit,113
+477,"7/31/2009,16:20:42",picked up,in transit,105
+478,"4/2/2017,12:18:10",picked up,in transit,53
+479,"6/5/2002,8:15:16",picked up,in transit,29
+480,"10/7/2013,16:53:49",picked up,in transit,2
+481,"2/21/2018,12:50:49",picked up,in transit,117
+482,"3/6/2015,12:46:06",picked up,in transit,200
+483,"10/25/2009,8:12:53",picked up,in transit,175
+484,"3/7/2009,9:44:16",picked up,in transit,148
+485,"7/24/2013,12:50:43",picked up,in transit,73
+486,"1/16/2016,12:25:13",picked up,in transit,28
+487,"8/2/2009,13:38:04",picked up,in transit,161
+488,"12/10/2010,16:00:21",picked up,in transit,200
+489,"5/9/2012,13:12:59",picked up,in transit,77
+490,"1/18/2001,9:08:56",picked up,in transit,140
+491,"11/15/2005,15:35:19",picked up,in transit,189
+492,"1/24/2006,9:08:32",picked up,in transit,195
+493,"5/18/2004,9:03:31",picked up,in transit,143
+494,"5/24/2009,9:42:44",picked up,in transit,98
+495,"6/22/2015,15:30:50",picked up,in transit,72
+496,"10/25/2018,16:24:29",picked up,in transit,130
+497,"4/22/2006,8:15:26",picked up,in transit,108
+498,"8/21/2016,8:51:07",picked up,in transit,167
+499,"11/26/2008,9:05:03",picked up,in transit,37
+500,"6/10/2010,14:08:09",picked up,in transit,164
+501,"3/19/2014,15:41:37",picked up,in transit,19
+502,"7/7/2015,13:19:29",picked up,in transit,32
+503,"2/1/2005,14:20:15",picked up,in transit,117
+504,"9/21/2016,11:49:46",picked up,in transit,136
+505,"5/23/2018,9:06:13",picked up,in transit,124
+506,"4/16/2013,10:35:03",picked up,in transit,71
+507,"6/7/2016,10:48:29",picked up,in transit,167
+508,"6/20/2002,8:33:13",picked up,in transit,144
+509,"8/9/2002,11:32:59",picked up,in transit,181
+510,"9/17/2012,11:04:01",picked up,in transit,163
+511,"2/10/2015,13:21:55",picked up,in transit,3
+512,"12/25/2005,16:51:50",picked up,in transit,68
+513,"4/13/2006,16:09:56",picked up,in transit,56
+514,"9/5/2016,11:47:14",picked up,in transit,91
+515,"4/26/2003,11:52:47",picked up,in transit,93
+516,"5/17/2003,15:32:19",picked up,in transit,159
+517,"6/30/2011,11:05:42",picked up,in transit,187
+518,"2/9/2018,14:21:49",picked up,in transit,119
+519,"11/30/2005,8:59:10",picked up,in transit,58
+520,"4/28/2014,15:12:55",picked up,in transit,129
+521,"9/19/2008,10:26:10",picked up,in transit,60
+522,"8/24/2003,9:07:47",picked up,in transit,64
+523,"8/22/2002,13:50:51",picked up,in transit,34
+524,"2/9/2008,9:30:01",picked up,in transit,185
+525,"8/16/2012,8:38:07",picked up,in transit,34
+526,"12/31/2007,16:43:31",picked up,in transit,88
+527,"10/25/2001,13:03:09",picked up,in transit,128
+528,"11/6/2018,15:29:53",picked up,in transit,138
+529,"12/25/2000,15:22:43",picked up,in transit,134
+530,"6/12/2003,16:25:01",picked up,in transit,190
+531,"10/10/2013,12:27:53",picked up,in transit,85
+532,"6/13/2016,12:06:30",picked up,in transit,24
+533,"3/10/2008,16:00:10",picked up,in transit,23
+534,"5/25/2008,16:38:16",picked up,in transit,137
+535,"5/27/2014,15:52:46",picked up,in transit,32
+536,"10/12/2016,8:13:24",picked up,in transit,181
+537,"10/12/2010,15:48:22",picked up,in transit,127
+538,"7/11/2017,12:23:57",picked up,in transit,181
+539,"4/5/2002,16:41:59",picked up,in transit,175
+540,"6/13/2014,13:58:01",picked up,in transit,188
+541,"4/6/2006,13:36:52",picked up,in transit,129
+542,"9/25/2003,9:04:51",picked up,in transit,43
+543,"1/1/2005,10:13:46",picked up,in transit,31
+544,"10/18/2017,8:46:08",picked up,in transit,18
+545,"11/17/2015,13:15:46",picked up,in transit,140
+546,"9/17/2013,12:35:55",picked up,in transit,20
+547,"4/4/2003,14:12:12",picked up,in transit,109
+548,"10/13/2004,15:37:16",picked up,in transit,175
+549,"7/22/2006,14:51:21",picked up,in transit,29
+550,"5/2/2009,11:59:56",picked up,in transit,189
+551,"9/13/2009,9:01:42",picked up,in transit,135
+552,"6/19/2010,10:33:46",picked up,in transit,149
+553,"6/13/2005,9:59:14",picked up,in transit,160
+554,"11/24/2003,11:36:08",picked up,in transit,63
+555,"12/16/2008,16:01:59",picked up,in transit,20
+556,"9/2/2007,16:10:42",picked up,in transit,130
+557,"11/3/2001,15:18:55",picked up,in transit,45
+558,"9/20/2005,10:27:39",picked up,in transit,105
+559,"10/3/2010,16:17:33",picked up,in transit,47
+560,"11/17/2018,16:57:36",picked up,in transit,103
+561,"4/26/2015,16:11:09",picked up,in transit,145
+562,"1/23/2010,13:17:32",picked up,in transit,5
+563,"1/25/2005,12:34:40",picked up,in transit,107
+564,"6/9/2017,12:03:30",picked up,in transit,106
+565,"4/27/2006,11:52:55",picked up,in transit,124
+566,"5/2/2017,8:14:40",picked up,in transit,116
+567,"12/7/2002,10:05:45",picked up,in transit,178
+568,"8/15/2017,10:52:04",picked up,in transit,143
+569,"10/22/2016,11:16:50",picked up,in transit,130
+570,"2/21/2007,12:26:39",picked up,in transit,69
+571,"11/8/2009,10:47:15",picked up,in transit,160
+572,"6/17/2003,16:51:56",picked up,in transit,113
+573,"8/1/2018,12:44:16",picked up,in transit,3
+574,"5/29/2004,15:40:04",picked up,in transit,63
+575,"8/26/2007,10:45:00",picked up,in transit,184
+576,"1/27/2016,10:25:27",picked up,in transit,147
+577,"10/20/2017,9:24:37",picked up,in transit,188
+578,"1/5/2012,12:06:01",picked up,in transit,194
+579,"5/18/2016,15:31:36",picked up,in transit,83
+580,"3/31/2006,10:51:07",picked up,in transit,97
+581,"4/13/2015,12:11:30",picked up,in transit,190
+582,"4/4/2010,11:19:54",picked up,in transit,151
+583,"6/24/2006,10:41:58",picked up,in transit,128
+584,"7/7/2011,8:41:50",picked up,in transit,29
+585,"10/2/2003,9:44:59",picked up,in transit,195
+586,"12/25/2003,16:58:23",picked up,in transit,62
+587,"3/12/2016,15:23:54",picked up,in transit,41
+588,"12/10/2001,13:11:15",picked up,in transit,147
+589,"12/18/2001,9:14:34",picked up,in transit,153
+590,"10/25/2006,15:00:33",picked up,in transit,154
+591,"6/24/2009,14:00:45",picked up,in transit,199
+592,"3/9/2013,10:23:37",picked up,in transit,152
+593,"12/11/2012,11:53:32",picked up,in transit,25
+594,"2/14/2018,9:08:40",picked up,in transit,9
+595,"12/29/2006,10:29:56",picked up,in transit,52
+596,"8/5/2003,11:05:35",picked up,in transit,33
+597,"4/25/2012,16:30:47",picked up,in transit,198
+598,"7/1/2008,10:30:49",picked up,in transit,72
+599,"10/28/2004,8:39:15",picked up,in transit,136
+600,"12/25/2000,15:44:13",picked up,in transit,118
+601,"3/4/2001,9:14:44",picked up,in transit,183
+602,"6/24/2008,11:26:50",picked up,in transit,122
+603,"12/16/2005,12:36:49",picked up,in transit,160
+604,"4/2/2002,14:31:57",picked up,in transit,183
+605,"9/13/2001,12:49:41",picked up,in transit,9
+606,"3/12/2008,15:43:16",picked up,in transit,102
+607,"11/17/2010,11:52:44",picked up,in transit,190
+608,"11/10/2004,8:23:02",picked up,in transit,184
+609,"12/17/2004,8:14:53",picked up,in transit,133
+610,"3/17/2012,11:34:13",picked up,in transit,141
+611,"1/13/2011,16:28:28",picked up,in transit,51
+612,"10/10/2004,13:31:27",picked up,in transit,16
+613,"1/31/2010,16:41:48",picked up,in transit,193
+614,"6/19/2012,10:05:31",picked up,in transit,109
+615,"10/2/2006,8:14:01",picked up,in transit,100
+616,"10/10/2012,9:45:05",picked up,in transit,200
+617,"6/29/2013,13:35:06",picked up,in transit,113
+618,"12/7/2012,11:47:47",picked up,in transit,86
+619,"6/2/2001,10:15:28",picked up,in transit,125
+620,"4/19/2015,15:34:05",picked up,in transit,175
+621,"1/14/2001,16:29:01",picked up,in transit,99
+622,"11/4/2004,9:07:36",picked up,in transit,118
+623,"6/10/2008,16:38:20",picked up,in transit,3
+624,"3/14/2011,11:17:58",picked up,in transit,27
+625,"12/23/2016,9:41:40",picked up,in transit,28
+626,"2/21/2001,9:07:20",picked up,in transit,10
+627,"2/7/2014,11:05:40",picked up,in transit,50
+628,"11/7/2004,8:27:01",picked up,in transit,105
+629,"5/29/2001,8:07:26",picked up,in transit,78
+630,"11/29/2004,12:16:40",picked up,in transit,2
+631,"10/26/2003,10:45:31",picked up,in transit,131
+632,"2/25/2012,10:56:16",picked up,in transit,17
+633,"5/8/2017,8:20:56",picked up,in transit,32
+634,"12/12/2008,10:10:17",picked up,in transit,56
+635,"1/25/2018,16:30:43",picked up,in transit,183
+636,"2/12/2017,9:17:57",picked up,in transit,44
+637,"8/10/2009,8:45:15",picked up,in transit,63
+638,"5/28/2018,10:55:43",picked up,in transit,13
+639,"1/18/2005,12:09:38",picked up,in transit,165
+640,"1/22/2018,15:09:56",picked up,in transit,82
+641,"12/24/2000,13:18:34",picked up,in transit,31
+642,"3/28/2004,9:34:47",picked up,in transit,29
+643,"6/21/2005,16:45:59",picked up,in transit,132
+644,"1/5/2009,16:23:33",picked up,in transit,108
+645,"6/2/2006,12:19:57",picked up,in transit,84
+646,"9/17/2005,14:31:24",picked up,in transit,84
+647,"9/14/2002,15:00:39",picked up,in transit,48
+648,"7/19/2018,14:11:52",picked up,in transit,114
+649,"7/31/2009,15:50:55",picked up,in transit,105
+650,"6/2/2005,10:58:46",picked up,in transit,5
+651,"8/30/2006,11:47:17",picked up,in transit,129
+652,"9/26/2004,13:57:00",picked up,in transit,159
+653,"6/4/2004,12:40:27",picked up,in transit,48
+654,"5/19/2014,15:33:40",picked up,in transit,34
+655,"6/12/2016,10:24:03",picked up,in transit,188
+656,"1/1/2011,12:12:54",picked up,in transit,46
+657,"11/23/2016,9:02:40",picked up,in transit,71
+658,"5/17/2007,8:38:30",picked up,in transit,105
+659,"12/24/2000,14:28:03",picked up,in transit,108
+660,"6/16/2001,9:48:38",picked up,in transit,171
+661,"6/25/2015,10:54:18",picked up,in transit,60
+662,"2/2/2015,16:00:25",picked up,in transit,60
+663,"6/17/2002,12:43:52",picked up,in transit,94
+664,"8/4/2016,13:12:00",picked up,in transit,56
+665,"9/16/2015,16:39:40",picked up,in transit,15
+666,"4/5/2005,10:38:58",picked up,in transit,85
+667,"7/28/2011,8:22:10",picked up,in transit,97
+668,"5/14/2011,15:43:57",picked up,in transit,81
+669,"4/8/2001,8:11:57",picked up,in transit,141
+670,"10/11/2007,10:13:36",picked up,in transit,135
+671,"1/28/2016,13:16:36",picked up,in transit,29
+672,"3/10/2002,8:22:48",picked up,in transit,195
+673,"1/23/2008,10:22:25",picked up,in transit,80
+674,"2/17/2018,16:37:22",picked up,in transit,164
+675,"12/15/2006,16:32:49",picked up,in transit,143
+676,"3/31/2014,16:44:42",picked up,in transit,189
+677,"1/10/2008,11:34:57",picked up,in transit,193
+678,"10/30/2008,9:55:44",picked up,in transit,164
+679,"4/20/2012,10:13:33",picked up,in transit,78
+680,"4/17/2009,15:28:13",picked up,in transit,161
+681,"10/29/2003,12:46:17",picked up,in transit,80
+682,"1/7/2016,11:18:55",picked up,in transit,21
+683,"3/29/2008,14:58:13",picked up,in transit,51
+684,"12/24/2017,11:46:02",picked up,in transit,31
+685,"6/26/2017,11:24:21",picked up,in transit,38
+686,"2/2/2003,8:53:35",picked up,in transit,106
+687,"1/2/2006,9:39:43",picked up,in transit,176
+688,"12/7/2014,10:31:49",picked up,in transit,192
+689,"6/9/2011,9:22:55",picked up,in transit,75
+690,"4/25/2008,11:41:31",picked up,in transit,117
+691,"2/4/2002,10:50:08",picked up,in transit,59
+692,"8/29/2012,12:12:13",picked up,in transit,169
+693,"5/5/2007,14:53:46",picked up,in transit,117
+694,"9/6/2014,8:14:12",picked up,in transit,107
+695,"8/11/2009,9:37:35",picked up,in transit,60
+696,"12/19/2008,9:07:27",picked up,in transit,127
+697,"7/26/2014,11:38:17",picked up,in transit,96
+698,"3/20/2003,8:12:19",picked up,in transit,119
+699,"11/27/2017,15:37:23",picked up,in transit,53
+700,"12/16/2014,11:53:30",picked up,in transit,178
+701,"8/25/2014,12:25:08",picked up,in transit,173
+702,"2/16/2006,13:29:17",picked up,in transit,171
+703,"8/21/2006,8:21:26",picked up,in transit,57
+704,"4/9/2012,10:54:33",picked up,in transit,43
+705,"10/27/2012,9:49:30",picked up,in transit,105
+706,"8/27/2010,9:30:41",picked up,in transit,24
+707,"7/26/2013,14:26:07",picked up,in transit,168
+708,"10/19/2016,12:09:42",picked up,in transit,48
+709,"10/27/2011,9:13:17",picked up,in transit,178
+710,"9/20/2011,16:02:34",picked up,in transit,133
+711,"12/15/2002,12:15:47",picked up,in transit,62
+712,"12/18/2004,8:32:35",picked up,in transit,157
+713,"2/3/2011,11:15:41",picked up,in transit,176
+714,"12/25/2004,13:23:25",picked up,in transit,4
+715,"8/5/2018,15:46:22",picked up,in transit,1
+716,"6/10/2018,15:15:45",picked up,in transit,118
+717,"7/24/2016,15:47:16",picked up,in transit,127
+718,"1/18/2009,10:45:29",picked up,in transit,141
+719,"11/26/2003,16:51:39",picked up,in transit,98
+720,"11/30/2004,14:29:29",picked up,in transit,42
+721,"9/28/2017,16:51:53",picked up,in transit,21
+722,"10/8/2006,9:19:12",picked up,in transit,122
+723,"7/23/2001,15:43:49",picked up,in transit,154
+724,"6/2/2013,15:33:05",picked up,in transit,123
+725,"7/21/2001,12:34:20",picked up,in transit,34
+726,"1/4/2001,10:20:44",picked up,in transit,113
+727,"4/1/2001,11:52:30",picked up,in transit,125
+728,"12/13/2014,14:01:11",picked up,in transit,21
+729,"9/8/2013,12:52:53",picked up,in transit,145
+730,"5/30/2002,14:20:36",picked up,in transit,102
+731,"12/14/2013,10:37:18",picked up,in transit,177
+732,"1/1/2003,8:32:38",picked up,in transit,183
+733,"9/26/2008,13:11:55",picked up,in transit,21
+734,"3/18/2008,16:06:17",picked up,in transit,165
+735,"10/1/2013,8:33:00",picked up,in transit,7
+736,"5/15/2007,13:56:42",picked up,in transit,106
+737,"1/28/2016,10:01:23",picked up,in transit,6
+738,"7/8/2014,14:00:02",picked up,in transit,134
+739,"12/13/2016,12:34:35",picked up,in transit,184
+740,"2/19/2009,9:14:47",picked up,in transit,185
+741,"12/26/2009,9:31:26",picked up,in transit,77
+742,"4/13/2008,9:33:56",picked up,in transit,52
+743,"9/4/2002,8:02:16",picked up,in transit,96
+744,"11/22/2003,10:08:28",picked up,in transit,36
+745,"9/21/2006,10:41:46",picked up,in transit,95
+746,"4/4/2017,8:06:25",picked up,in transit,89
+747,"6/25/2012,15:33:18",picked up,in transit,91
+748,"12/14/2002,9:48:04",picked up,in transit,122
+749,"3/3/2001,9:21:07",picked up,in transit,102
+750,"10/5/2002,16:54:12",picked up,in transit,48
+751,"1/3/2005,13:46:13",picked up,in transit,8
+752,"1/4/2010,14:26:10",picked up,in transit,144
+753,"2/27/2010,16:30:25",picked up,in transit,141
+754,"6/21/2007,14:38:52",picked up,in transit,30
+755,"10/10/2006,11:34:18",picked up,in transit,166
+756,"1/8/2015,14:02:04",picked up,in transit,46
+757,"11/9/2012,10:33:39",picked up,in transit,19
+758,"8/3/2016,10:21:51",picked up,in transit,79
+759,"11/6/2004,12:30:44",picked up,in transit,95
+760,"7/4/2011,12:48:15",picked up,in transit,145
+761,"1/22/2007,15:02:56",picked up,in transit,46
+762,"3/3/2002,13:16:26",picked up,in transit,125
+763,"5/7/2007,10:13:20",picked up,in transit,23
+764,"10/13/2002,16:29:04",picked up,in transit,133
+765,"5/29/2007,9:18:38",picked up,in transit,57
+766,"5/25/2018,12:57:27",picked up,in transit,164
+767,"5/4/2001,12:19:47",picked up,in transit,185
+768,"3/19/2001,9:16:23",picked up,in transit,149
+769,"2/8/2013,13:14:46",picked up,in transit,32
+770,"3/20/2009,12:42:05",picked up,in transit,57
+771,"9/1/2006,13:16:16",picked up,in transit,148
+772,"2/1/2004,9:38:53",picked up,in transit,92
+773,"9/3/2002,12:10:37",picked up,in transit,131
+774,"6/7/2008,13:51:41",picked up,in transit,16
+775,"11/12/2007,12:23:35",picked up,in transit,85
+776,"3/11/2004,13:49:44",picked up,in transit,54
+777,"10/27/2007,12:27:44",picked up,in transit,164
+778,"4/25/2015,11:24:30",picked up,in transit,80
+779,"2/18/2002,14:39:00",picked up,in transit,170
+780,"12/12/2008,16:49:40",picked up,in transit,191
+781,"9/16/2003,9:57:37",picked up,in transit,88
+782,"6/20/2011,12:53:30",picked up,in transit,79
+783,"11/30/2011,14:33:17",picked up,in transit,60
+784,"9/19/2006,9:34:22",picked up,in transit,85
+785,"8/4/2014,13:15:49",picked up,in transit,131
+786,"6/19/2003,14:42:06",picked up,in transit,138
+787,"7/22/2017,14:34:55",picked up,in transit,14
+788,"10/24/2001,12:47:09",picked up,in transit,116
+789,"10/10/2008,14:50:03",picked up,in transit,80
+790,"11/4/2002,9:43:30",picked up,in transit,74
+791,"2/19/2011,14:27:19",picked up,in transit,173
+792,"8/27/2002,10:57:02",picked up,in transit,100
+793,"5/1/2009,9:22:27",picked up,in transit,57
+794,"4/6/2015,12:22:45",picked up,in transit,24
+795,"2/28/2001,8:51:59",picked up,in transit,17
+796,"5/4/2009,9:40:24",picked up,in transit,143
+797,"2/17/2003,12:28:30",picked up,in transit,83
+798,"1/5/2006,15:20:11",picked up,in transit,7
+799,"11/6/2010,12:52:43",picked up,in transit,165
+800,"5/7/2008,11:26:02",picked up,in transit,87
+801,"2/24/2001,14:26:02",picked up,in transit,65
+802,"10/27/2010,11:53:58",picked up,in transit,169
+803,"12/31/2013,10:24:27",picked up,in transit,171
+804,"8/8/2014,14:34:42",picked up,in transit,114
+805,"7/27/2014,9:55:03",picked up,in transit,143
+806,"7/7/2005,9:14:07",picked up,in transit,186
+807,"6/17/2001,10:12:25",picked up,in transit,132
+808,"10/27/2003,15:28:30",picked up,in transit,25
+809,"3/26/2015,15:08:05",picked up,in transit,73
+810,"3/15/2003,14:22:47",picked up,in transit,143
+811,"4/10/2012,9:44:51",picked up,in transit,33
+812,"4/23/2012,10:43:10",picked up,in transit,128
+813,"7/12/2003,9:15:50",picked up,in transit,91
+814,"2/24/2017,9:36:38",picked up,in transit,83
+815,"2/19/2010,16:13:47",picked up,in transit,68
+816,"1/6/2012,8:28:18",picked up,in transit,161
+817,"4/14/2010,15:32:18",picked up,in transit,91
+818,"4/16/2012,11:14:32",picked up,in transit,127
+819,"3/15/2017,13:44:39",picked up,in transit,24
+820,"10/5/2013,10:56:42",picked up,in transit,192
+821,"4/24/2007,8:14:26",picked up,in transit,172
+822,"12/27/2004,16:19:45",picked up,in transit,175
+823,"8/26/2015,15:27:25",picked up,in transit,68
+824,"2/23/2014,13:55:54",picked up,in transit,66
+825,"7/9/2010,9:22:00",picked up,in transit,61
+826,"5/13/2002,12:36:39",picked up,in transit,113
+827,"4/29/2008,8:44:57",picked up,in transit,64
+828,"12/27/2003,9:38:39",picked up,in transit,188
+829,"1/4/2013,13:17:39",picked up,in transit,102
+830,"9/9/2006,14:16:50",picked up,in transit,184
+831,"4/1/2012,9:51:43",picked up,in transit,4
+832,"7/5/2008,15:52:35",picked up,in transit,29
+833,"7/6/2007,14:42:05",picked up,in transit,88
+834,"2/4/2009,9:21:16",picked up,in transit,79
+835,"5/3/2015,15:30:14",picked up,in transit,193
+836,"3/20/2014,15:38:49",picked up,in transit,90
+837,"4/29/2010,11:21:39",picked up,in transit,178
+838,"1/3/2008,15:18:28",picked up,in transit,146
+839,"6/8/2006,12:43:46",picked up,in transit,49
+840,"11/15/2005,10:06:46",picked up,in transit,114
+841,"9/26/2016,10:08:49",picked up,in transit,154
+842,"5/24/2008,10:25:09",picked up,in transit,140
+843,"7/27/2006,11:17:43",picked up,in transit,52
+844,"8/14/2005,8:36:37",picked up,in transit,188
+845,"9/22/2013,16:42:21",picked up,in transit,177
+846,"5/29/2006,14:57:55",picked up,in transit,50
+847,"6/4/2001,9:45:18",picked up,in transit,17
+848,"1/2/2008,16:55:15",picked up,in transit,152
+849,"12/10/2004,8:00:54",picked up,in transit,70
+850,"2/19/2001,10:32:52",picked up,in transit,79
+851,"12/1/2016,10:17:19",picked up,in transit,200
+852,"5/2/2009,11:40:14",picked up,in transit,2
+853,"9/14/2008,11:18:29",picked up,in transit,35
+854,"2/27/2006,12:02:24",picked up,in transit,195
+855,"2/11/2008,16:53:38",picked up,in transit,7
+856,"12/7/2002,9:56:33",picked up,in transit,37
+857,"9/12/2006,14:18:33",picked up,in transit,12
+858,"5/9/2016,10:30:53",picked up,in transit,120
+859,"3/18/2012,12:28:26",picked up,in transit,14
+860,"9/12/2012,11:23:50",picked up,in transit,175
+861,"2/11/2015,13:33:02",picked up,in transit,149
+862,"1/17/2011,9:10:30",picked up,in transit,91
+863,"7/30/2013,9:50:07",picked up,in transit,62
+864,"4/16/2005,8:21:39",picked up,in transit,195
+865,"9/13/2018,8:42:06",picked up,in transit,117
+866,"8/28/2012,10:51:20",picked up,in transit,187
+867,"1/17/2014,13:09:47",picked up,in transit,41
+868,"4/27/2014,9:20:17",picked up,in transit,121
+869,"9/19/2010,12:59:46",picked up,in transit,1
+870,"10/6/2002,13:37:04",picked up,in transit,75
+871,"2/19/2003,16:34:58",picked up,in transit,115
+872,"10/28/2015,9:06:59",picked up,in transit,85
+873,"12/28/2003,12:21:13",picked up,in transit,79
+874,"12/10/2002,10:47:50",picked up,in transit,83
+875,"7/5/2016,10:40:23",picked up,in transit,47
+876,"8/3/2010,12:48:25",picked up,in transit,38
+877,"10/7/2007,14:14:39",picked up,in transit,100
+878,"12/29/2001,13:49:08",picked up,in transit,200
+879,"4/28/2003,15:16:15",picked up,in transit,92
+880,"1/12/2008,9:44:30",picked up,in transit,152
+881,"1/26/2006,9:22:17",picked up,in transit,79
+882,"4/3/2018,11:25:46",picked up,in transit,191
+883,"10/23/2007,13:16:45",picked up,in transit,19
+884,"1/9/2004,10:18:22",picked up,in transit,151
+885,"6/18/2012,10:04:40",picked up,in transit,37
+886,"8/16/2015,9:01:38",picked up,in transit,90
+887,"12/30/2015,9:55:26",picked up,in transit,135
+888,"1/18/2013,12:15:07",picked up,in transit,11
+889,"12/21/2017,11:44:37",picked up,in transit,58
+890,"6/22/2014,16:01:14",picked up,in transit,89
+891,"12/16/2011,9:46:52",picked up,in transit,174
+892,"1/30/2002,12:23:44",picked up,in transit,49
+893,"2/14/2007,14:21:45",picked up,in transit,159
+894,"11/1/2007,15:38:17",picked up,in transit,57
+895,"2/20/2004,8:32:34",picked up,in transit,139
+896,"1/10/2007,14:19:14",picked up,in transit,27
+897,"5/29/2012,16:31:41",picked up,in transit,56
+898,"1/25/2009,9:36:32",picked up,in transit,92
+899,"1/11/2001,14:23:05",picked up,in transit,188
+900,"4/23/2007,14:36:06",picked up,in transit,153
+901,"3/10/2015,14:23:36",picked up,in transit,94
+902,"6/13/2006,10:58:05",picked up,in transit,56
+903,"8/31/2018,14:01:20",picked up,in transit,195
+904,"3/6/2008,14:40:57",picked up,in transit,140
+905,"7/15/2012,12:42:54",picked up,in transit,66
+906,"11/18/2015,9:23:13",picked up,in transit,131
+907,"12/17/2006,10:56:59",picked up,in transit,186
+908,"10/11/2010,12:15:35",picked up,in transit,96
+909,"12/10/2007,15:08:48",picked up,in transit,147
+910,"5/7/2015,15:19:51",picked up,in transit,94
+911,"11/13/2013,16:20:37",picked up,in transit,151
+912,"5/15/2015,12:32:23",picked up,in transit,118
+913,"12/28/2000,12:55:28",picked up,in transit,129
+914,"2/2/2017,8:00:24",picked up,in transit,189
+915,"12/8/2008,14:13:02",picked up,in transit,186
+916,"7/5/2018,15:20:08",picked up,in transit,119
+917,"10/5/2001,15:40:59",picked up,in transit,31
+918,"6/8/2010,9:23:21",picked up,in transit,177
+919,"6/23/2016,9:02:09",picked up,in transit,133
+920,"3/23/2003,16:46:09",picked up,in transit,120
+921,"7/5/2015,11:30:11",picked up,in transit,22
+922,"8/12/2006,15:45:43",picked up,in transit,39
+923,"9/11/2014,12:51:22",picked up,in transit,165
+924,"4/14/2001,14:09:27",picked up,in transit,179
+925,"8/16/2013,15:49:28",picked up,in transit,44
+926,"5/12/2015,14:31:26",picked up,in transit,171
+927,"3/3/2015,15:10:12",picked up,in transit,94
+928,"2/11/2007,13:35:07",picked up,in transit,16
+929,"9/22/2014,13:01:55",picked up,in transit,191
+930,"1/16/2010,9:25:54",picked up,in transit,172
+931,"9/11/2018,9:04:58",picked up,in transit,134
+932,"7/6/2005,12:45:42",picked up,in transit,160
+933,"8/8/2004,9:36:01",picked up,in transit,168
+934,"9/12/2012,10:08:25",picked up,in transit,64
+935,"3/28/2016,8:26:31",picked up,in transit,162
+936,"3/18/2010,9:06:41",picked up,in transit,187
+937,"3/11/2014,12:02:10",picked up,in transit,86
+938,"7/23/2014,13:37:56",picked up,in transit,11
+939,"4/29/2010,11:10:31",picked up,in transit,18
+940,"2/3/2010,11:41:05",picked up,in transit,53
+941,"3/8/2001,10:41:46",picked up,in transit,194
+942,"10/9/2013,9:12:42",picked up,in transit,34
+943,"4/20/2009,9:16:33",picked up,in transit,68
+944,"4/2/2003,12:18:00",picked up,in transit,106
+945,"3/24/2014,12:21:19",picked up,in transit,159
+946,"2/9/2016,8:18:08",picked up,in transit,154
+947,"12/18/2005,15:34:59",picked up,in transit,173
+948,"7/21/2002,11:45:55",picked up,in transit,169
+949,"9/20/2018,11:53:51",picked up,in transit,192
+950,"4/8/2005,10:10:05",picked up,in transit,195
+951,"10/6/2016,8:51:40",picked up,in transit,56
+952,"1/9/2013,14:56:07",picked up,in transit,1
+953,"5/28/2006,10:22:06",picked up,in transit,101
+954,"5/11/2006,11:04:23",picked up,in transit,68
+955,"5/26/2008,9:09:17",picked up,in transit,52
+956,"7/27/2005,13:59:48",picked up,in transit,176
+957,"1/25/2014,8:35:02",picked up,in transit,152
+958,"5/13/2015,8:21:27",picked up,in transit,94
+959,"10/20/2018,13:30:59",picked up,in transit,5
+960,"7/30/2001,11:57:35",picked up,in transit,50
+961,"2/11/2007,13:07:54",picked up,in transit,116
+962,"10/12/2001,9:37:21",picked up,in transit,88
+963,"5/12/2010,16:00:15",picked up,in transit,124
+964,"12/27/2007,16:14:45",picked up,in transit,60
+965,"1/19/2009,9:17:29",picked up,in transit,80
+966,"2/6/2011,9:40:24",picked up,in transit,200
+967,"5/10/2004,8:19:51",picked up,in transit,161
+968,"3/29/2016,11:28:32",picked up,in transit,4
+969,"10/24/2001,10:33:32",picked up,in transit,31
+970,"2/8/2018,11:12:56",picked up,in transit,38
+971,"4/8/2004,8:09:58",picked up,in transit,162
+972,"10/5/2007,10:23:46",picked up,in transit,122
+973,"3/2/2003,16:44:45",picked up,in transit,126
+974,"10/5/2015,16:07:40",picked up,in transit,17
+975,"6/10/2008,10:39:20",picked up,in transit,30
+976,"11/22/2018,9:55:52",picked up,in transit,71
+977,"10/22/2011,8:18:37",picked up,in transit,140
+978,"12/12/2005,10:48:17",picked up,in transit,61
+979,"6/24/2014,14:58:52",picked up,in transit,132
+980,"5/22/2017,14:56:53",picked up,in transit,166
+981,"9/12/2005,9:27:54",picked up,in transit,89
+982,"10/29/2010,15:08:25",picked up,in transit,1
+983,"8/14/2006,12:59:20",picked up,in transit,78
+984,"10/17/2003,15:42:53",picked up,in transit,157
+985,"9/11/2003,12:33:56",picked up,in transit,168
+986,"9/17/2013,9:50:43",picked up,in transit,37
+987,"10/25/2001,11:34:29",picked up,in transit,145
+988,"1/10/2002,16:18:36",picked up,in transit,136
+989,"4/7/2001,10:09:44",picked up,in transit,33
+990,"7/20/2011,15:03:01",picked up,in transit,145
+991,"12/11/2002,10:13:54",picked up,in transit,159
+992,"6/20/2006,13:50:50",picked up,in transit,96
+993,"2/23/2007,8:40:08",picked up,in transit,48
+994,"12/28/2007,15:38:37",picked up,in transit,85
+995,"7/20/2013,8:15:42",picked up,in transit,73
+996,"12/25/2003,9:14:56",picked up,in transit,60
+997,"11/25/2005,8:57:57",picked up,in transit,91
+998,"8/5/2012,12:57:09",picked up,in transit,154
+999,"7/10/2007,9:48:12",picked up,in transit,133
+1000,"7/24/2010,8:30:39",picked up,in transit,164
+1001,1/13/2018,stored at warehouse,waiting,43
+1002,2/22/2016,stored at warehouse,waiting,195
+1003,9/17/2002,stored at warehouse,waiting,16
+1004,9/6/2005,stored at warehouse,waiting,22
+1005,1/26/2009,stored at warehouse,waiting,139
+1006,5/7/2004,stored at warehouse,waiting,193
+1007,5/31/2002,stored at warehouse,waiting,24
+1008,4/22/2018,stored at warehouse,waiting,40
+1009,3/28/2016,stored at warehouse,waiting,148
+1010,5/13/2015,stored at warehouse,waiting,112
+1011,11/11/2016,stored at warehouse,waiting,41
+1012,8/29/2002,stored at warehouse,waiting,164
+1013,8/27/2017,stored at warehouse,waiting,2
+1014,4/11/2013,stored at warehouse,waiting,166
+1015,3/12/2017,stored at warehouse,waiting,35
+1016,2/4/2013,stored at warehouse,waiting,79
+1017,5/21/2009,stored at warehouse,waiting,166
+1018,1/15/2016,stored at warehouse,waiting,84
+1019,11/4/2001,stored at warehouse,waiting,86
+1020,1/10/2003,stored at warehouse,waiting,48
+1021,12/20/2003,stored at warehouse,waiting,6
+1022,12/9/2017,stored at warehouse,waiting,145
+1023,12/24/2002,stored at warehouse,waiting,63
+1024,9/2/2009,stored at warehouse,waiting,195
+1025,5/7/2014,stored at warehouse,waiting,159
+1026,10/9/2010,stored at warehouse,waiting,72
+1027,1/16/2015,stored at warehouse,waiting,80
+1028,9/24/2006,stored at warehouse,waiting,187
+1029,5/22/2017,stored at warehouse,waiting,161
+1030,12/16/2014,stored at warehouse,waiting,136
+1031,3/15/2014,stored at warehouse,waiting,42
+1032,3/8/2007,stored at warehouse,waiting,56
+1033,12/23/2017,stored at warehouse,waiting,45
+1034,10/23/2006,stored at warehouse,waiting,106
+1035,12/9/2003,stored at warehouse,waiting,7
+1036,9/8/2001,stored at warehouse,waiting,183
+1037,6/22/2015,stored at warehouse,waiting,80
+1038,8/29/2007,stored at warehouse,waiting,154
+1039,4/3/2008,stored at warehouse,waiting,123
+1040,11/14/2014,stored at warehouse,waiting,82
+1041,5/4/2014,stored at warehouse,waiting,65
+1042,5/24/2010,stored at warehouse,waiting,153
+1043,7/3/2004,stored at warehouse,waiting,151
+1044,3/9/2010,stored at warehouse,waiting,40
+1045,11/14/2006,stored at warehouse,waiting,163
+1046,3/12/2011,stored at warehouse,waiting,79
+1047,6/20/2015,stored at warehouse,waiting,40
+1048,11/14/2008,stored at warehouse,waiting,72
+1049,2/22/2017,stored at warehouse,waiting,169
+1050,5/28/2001,stored at warehouse,waiting,126
+1051,12/30/2010,stored at warehouse,waiting,150
+1052,9/10/2002,stored at warehouse,waiting,14
+1053,10/27/2015,stored at warehouse,waiting,36
+1054,4/26/2014,stored at warehouse,waiting,193
+1055,7/10/2005,stored at warehouse,waiting,154
+1056,5/10/2006,stored at warehouse,waiting,29
+1057,7/1/2016,stored at warehouse,waiting,174
+1058,9/26/2007,stored at warehouse,waiting,2
+1059,10/28/2001,stored at warehouse,waiting,11
+1060,9/3/2011,stored at warehouse,waiting,182
+1061,4/15/2007,stored at warehouse,waiting,48
+1062,1/1/2013,stored at warehouse,waiting,72
+1063,5/14/2008,stored at warehouse,waiting,25
+1064,1/14/2008,stored at warehouse,waiting,28
+1065,6/9/2012,stored at warehouse,waiting,196
+1066,4/26/2004,stored at warehouse,waiting,72
+1067,9/8/2009,stored at warehouse,waiting,79
+1068,1/1/2009,stored at warehouse,waiting,6
+1069,3/9/2007,stored at warehouse,waiting,71
+1070,3/7/2011,stored at warehouse,waiting,17
+1071,6/6/2009,stored at warehouse,waiting,117
+1072,10/28/2012,stored at warehouse,waiting,141
+1073,12/1/2011,stored at warehouse,waiting,105
+1074,1/24/2003,stored at warehouse,waiting,190
+1075,10/27/2009,stored at warehouse,waiting,20
+1076,9/8/2001,stored at warehouse,waiting,15
+1077,12/9/2009,stored at warehouse,waiting,26
+1078,11/4/2018,stored at warehouse,waiting,90
+1079,12/17/2006,stored at warehouse,waiting,42
+1080,1/23/2002,stored at warehouse,waiting,145
+1081,6/7/2018,stored at warehouse,waiting,144
+1082,6/24/2015,stored at warehouse,waiting,55
+1083,3/21/2012,stored at warehouse,waiting,57
+1084,9/17/2017,stored at warehouse,waiting,59
+1085,8/26/2007,stored at warehouse,waiting,142
+1086,11/20/2016,stored at warehouse,waiting,76
+1087,7/12/2017,stored at warehouse,waiting,163
+1088,10/24/2012,stored at warehouse,waiting,151
+1089,12/29/2011,stored at warehouse,waiting,31
+1090,12/21/2013,stored at warehouse,waiting,44
+1091,11/1/2003,stored at warehouse,waiting,144
+1092,11/3/2008,stored at warehouse,waiting,150
+1093,12/28/2011,stored at warehouse,waiting,148
+1094,5/17/2010,stored at warehouse,waiting,173
+1095,8/13/2004,stored at warehouse,waiting,109
+1096,8/14/2005,stored at warehouse,waiting,1
+1097,5/15/2015,stored at warehouse,waiting,5
+1098,1/20/2015,stored at warehouse,waiting,22
+1099,3/9/2003,stored at warehouse,waiting,13
+1100,3/23/2004,stored at warehouse,waiting,64
+1101,9/23/2001,stored at warehouse,waiting,15
+1102,4/16/2015,stored at warehouse,waiting,2
+1103,10/5/2012,stored at warehouse,waiting,184
+1104,9/15/2015,stored at warehouse,waiting,139
+1105,8/20/2018,stored at warehouse,waiting,172
+1106,4/21/2001,stored at warehouse,waiting,198
+1107,7/30/2012,stored at warehouse,waiting,96
+1108,4/4/2007,stored at warehouse,waiting,81
+1109,1/8/2011,stored at warehouse,waiting,32
+1110,1/27/2012,stored at warehouse,waiting,91
+1111,9/27/2008,stored at warehouse,waiting,191
+1112,2/3/2016,stored at warehouse,waiting,57
+1113,2/14/2015,stored at warehouse,waiting,39
+1114,4/3/2008,stored at warehouse,waiting,172
+1115,4/8/2018,stored at warehouse,waiting,96
+1116,9/26/2003,stored at warehouse,waiting,94
+1117,10/26/2003,stored at warehouse,waiting,194
+1118,5/9/2004,stored at warehouse,waiting,48
+1119,7/24/2011,stored at warehouse,waiting,84
+1120,12/2/2003,stored at warehouse,waiting,44
+1121,6/10/2005,stored at warehouse,waiting,3
+1122,12/3/2015,stored at warehouse,waiting,192
+1123,8/21/2012,stored at warehouse,waiting,130
+1124,3/13/2004,stored at warehouse,waiting,71
+1125,10/21/2006,stored at warehouse,waiting,199
+1126,11/11/2004,stored at warehouse,waiting,138
+1127,3/25/2006,stored at warehouse,waiting,29
+1128,8/14/2017,stored at warehouse,waiting,169
+1129,1/21/2013,stored at warehouse,waiting,48
+1130,4/29/2003,stored at warehouse,waiting,15
+1131,11/30/2014,stored at warehouse,waiting,142
+1132,12/12/2002,stored at warehouse,waiting,37
+1133,9/10/2003,stored at warehouse,waiting,144
+1134,8/21/2005,stored at warehouse,waiting,57
+1135,6/18/2003,stored at warehouse,waiting,115
+1136,4/10/2007,stored at warehouse,waiting,3
+1137,8/20/2006,stored at warehouse,waiting,70
+1138,9/1/2015,stored at warehouse,waiting,185
+1139,3/16/2009,stored at warehouse,waiting,151
+1140,3/15/2006,stored at warehouse,waiting,46
+1141,9/22/2018,stored at warehouse,waiting,49
+1142,7/29/2012,stored at warehouse,waiting,34
+1143,8/8/2008,stored at warehouse,waiting,74
+1144,6/7/2017,stored at warehouse,waiting,38
+1145,11/10/2018,stored at warehouse,waiting,155
+1146,7/14/2011,stored at warehouse,waiting,120
+1147,10/26/2001,stored at warehouse,waiting,158
+1148,2/20/2007,stored at warehouse,waiting,51
+1149,8/29/2007,stored at warehouse,waiting,17
+1150,10/9/2010,stored at warehouse,waiting,43
+1151,5/30/2011,stored at warehouse,waiting,70
+1152,7/3/2007,stored at warehouse,waiting,15
+1153,10/23/2008,stored at warehouse,waiting,82
+1154,3/25/2012,stored at warehouse,waiting,3
+1155,9/14/2008,stored at warehouse,waiting,24
+1156,1/27/2007,stored at warehouse,waiting,23
+1157,11/11/2018,stored at warehouse,waiting,10
+1158,12/25/2012,stored at warehouse,waiting,18
+1159,12/27/2013,stored at warehouse,waiting,75
+1160,2/23/2004,stored at warehouse,waiting,88
+1161,6/1/2018,stored at warehouse,waiting,118
+1162,8/9/2012,stored at warehouse,waiting,183
+1163,10/29/2010,stored at warehouse,waiting,90
+1164,10/9/2014,stored at warehouse,waiting,140
+1165,8/2/2001,stored at warehouse,waiting,129
+1166,2/11/2017,stored at warehouse,waiting,178
+1167,2/5/2009,stored at warehouse,waiting,104
+1168,4/25/2009,stored at warehouse,waiting,96
+1169,2/22/2012,stored at warehouse,waiting,134
+1170,3/20/2017,stored at warehouse,waiting,92
+1171,11/6/2006,stored at warehouse,waiting,112
+1172,11/13/2009,stored at warehouse,waiting,172
+1173,12/26/2006,stored at warehouse,waiting,52
+1174,9/13/2010,stored at warehouse,waiting,60
+1175,1/21/2016,stored at warehouse,waiting,138
+1176,10/1/2016,stored at warehouse,waiting,103
+1177,5/4/2006,stored at warehouse,waiting,127
+1178,1/22/2011,stored at warehouse,waiting,48
+1179,5/12/2006,stored at warehouse,waiting,53
+1180,2/14/2005,stored at warehouse,waiting,59
+1181,6/5/2010,stored at warehouse,waiting,155
+1182,11/20/2015,stored at warehouse,waiting,54
+1183,11/16/2007,stored at warehouse,waiting,86
+1184,8/14/2017,stored at warehouse,waiting,116
+1185,2/21/2016,stored at warehouse,waiting,184
+1186,7/10/2015,stored at warehouse,waiting,135
+1187,6/20/2006,stored at warehouse,waiting,21
+1188,3/18/2016,stored at warehouse,waiting,167
+1189,5/25/2018,stored at warehouse,waiting,51
+1190,6/30/2018,stored at warehouse,waiting,61
+1191,4/5/2001,stored at warehouse,waiting,63
+1192,10/6/2007,stored at warehouse,waiting,183
+1193,5/3/2012,stored at warehouse,waiting,1
+1194,5/24/2012,stored at warehouse,waiting,174
+1195,2/22/2018,stored at warehouse,waiting,144
+1196,1/10/2011,stored at warehouse,waiting,3
+1197,7/7/2014,stored at warehouse,waiting,149
+1198,10/24/2007,stored at warehouse,waiting,73
+1199,3/13/2010,stored at warehouse,waiting,146
+1200,7/22/2014,stored at warehouse,waiting,178
+1201,8/26/2005,stored at warehouse,waiting,134
+1202,6/17/2017,stored at warehouse,waiting,10
+1203,12/12/2014,stored at warehouse,waiting,165
+1204,9/29/2011,stored at warehouse,waiting,105
+1205,2/19/2014,stored at warehouse,waiting,79
+1206,6/7/2011,stored at warehouse,waiting,110
+1207,8/20/2011,stored at warehouse,waiting,193
+1208,4/27/2016,stored at warehouse,waiting,48
+1209,10/17/2014,stored at warehouse,waiting,9
+1210,11/7/2003,stored at warehouse,waiting,107
+1211,4/1/2011,stored at warehouse,waiting,181
+1212,2/4/2007,stored at warehouse,waiting,184
+1213,11/16/2002,stored at warehouse,waiting,24
+1214,2/3/2005,stored at warehouse,waiting,20
+1215,2/3/2011,stored at warehouse,waiting,181
+1216,6/23/2013,stored at warehouse,waiting,159
+1217,12/29/2004,stored at warehouse,waiting,122
+1218,1/30/2006,stored at warehouse,waiting,70
+1219,10/23/2005,stored at warehouse,waiting,45
+1220,12/24/2013,stored at warehouse,waiting,35
+1221,5/8/2006,stored at warehouse,waiting,106
+1222,9/10/2003,stored at warehouse,waiting,57
+1223,5/22/2009,stored at warehouse,waiting,165
+1224,9/1/2011,stored at warehouse,waiting,121
+1225,11/27/2001,stored at warehouse,waiting,131
+1226,5/19/2007,stored at warehouse,waiting,49
+1227,11/13/2008,stored at warehouse,waiting,28
+1228,3/7/2011,stored at warehouse,waiting,12
+1229,10/15/2016,stored at warehouse,waiting,136
+1230,7/16/2012,stored at warehouse,waiting,101
+1231,2/18/2008,stored at warehouse,waiting,167
+1232,9/15/2011,stored at warehouse,waiting,99
+1233,5/2/2009,stored at warehouse,waiting,6
+1234,11/11/2007,stored at warehouse,waiting,63
+1235,9/9/2005,stored at warehouse,waiting,55
+1236,5/15/2006,stored at warehouse,waiting,85
+1237,2/20/2017,stored at warehouse,waiting,6
+1238,1/8/2009,stored at warehouse,waiting,19
+1239,9/10/2017,stored at warehouse,waiting,69
+1240,5/19/2014,stored at warehouse,waiting,144
+1241,3/7/2012,stored at warehouse,waiting,15
+1242,3/31/2015,stored at warehouse,waiting,194
+1243,5/2/2014,stored at warehouse,waiting,171
+1244,4/16/2010,stored at warehouse,waiting,12
+1245,12/16/2005,stored at warehouse,waiting,174
+1246,2/11/2006,stored at warehouse,waiting,77
+1247,7/23/2001,stored at warehouse,waiting,22
+1248,10/24/2005,stored at warehouse,waiting,62
+1249,11/25/2006,stored at warehouse,waiting,10
+1250,1/12/2005,stored at warehouse,waiting,56
+1251,6/26/2005,stored at warehouse,waiting,11
+1252,9/3/2011,stored at warehouse,waiting,196
+1253,2/3/2009,stored at warehouse,waiting,122
+1254,11/8/2003,stored at warehouse,waiting,30
+1255,8/14/2003,stored at warehouse,waiting,121
+1256,6/25/2006,stored at warehouse,waiting,86
+1257,4/14/2007,stored at warehouse,waiting,77
+1258,10/8/2008,stored at warehouse,waiting,18
+1259,5/23/2017,stored at warehouse,waiting,2
+1260,5/26/2016,stored at warehouse,waiting,73
+1261,2/22/2002,stored at warehouse,waiting,91
+1262,7/2/2004,stored at warehouse,waiting,81
+1263,7/17/2017,stored at warehouse,waiting,170
+1264,6/2/2004,stored at warehouse,waiting,34
+1265,10/14/2016,stored at warehouse,waiting,157
+1266,3/21/2013,stored at warehouse,waiting,133
+1267,9/4/2018,stored at warehouse,waiting,79
+1268,11/24/2013,stored at warehouse,waiting,166
+1269,1/23/2007,stored at warehouse,waiting,124
+1270,1/16/2007,stored at warehouse,waiting,103
+1271,3/5/2002,stored at warehouse,waiting,118
+1272,12/28/2008,stored at warehouse,waiting,189
+1273,9/21/2015,stored at warehouse,waiting,195
+1274,5/31/2008,stored at warehouse,waiting,188
+1275,12/4/2010,stored at warehouse,waiting,99
+1276,4/16/2008,stored at warehouse,waiting,140
+1277,9/15/2014,stored at warehouse,waiting,181
+1278,2/18/2004,stored at warehouse,waiting,47
+1279,1/30/2003,stored at warehouse,waiting,99
+1280,9/6/2010,stored at warehouse,waiting,141
+1281,2/24/2009,stored at warehouse,waiting,125
+1282,1/22/2010,stored at warehouse,waiting,112
+1283,9/4/2015,stored at warehouse,waiting,51
+1284,1/17/2015,stored at warehouse,waiting,58
+1285,11/23/2001,stored at warehouse,waiting,168
+1286,12/13/2007,stored at warehouse,waiting,125
+1287,10/12/2005,stored at warehouse,waiting,55
+1288,6/9/2016,stored at warehouse,waiting,77
+1289,6/27/2011,stored at warehouse,waiting,21
+1290,8/2/2003,stored at warehouse,waiting,195
+1291,7/3/2001,stored at warehouse,waiting,76
+1292,6/28/2003,stored at warehouse,waiting,54
+1293,1/17/2009,stored at warehouse,waiting,138
+1294,12/25/2013,stored at warehouse,waiting,16
+1295,6/29/2018,stored at warehouse,waiting,109
+1296,12/20/2010,stored at warehouse,waiting,12
+1297,2/26/2015,stored at warehouse,waiting,169
+1298,12/9/2004,stored at warehouse,waiting,144
+1299,12/31/2006,stored at warehouse,waiting,190
+1300,6/25/2002,stored at warehouse,waiting,20
+1301,6/7/2009,stored at warehouse,waiting,75
+1302,6/1/2017,stored at warehouse,waiting,159
+1303,4/16/2002,stored at warehouse,waiting,23
+1304,12/17/2005,stored at warehouse,waiting,97
+1305,11/21/2014,stored at warehouse,waiting,18
+1306,3/2/2002,stored at warehouse,waiting,22
+1307,9/9/2015,stored at warehouse,waiting,177
+1308,6/28/2001,stored at warehouse,waiting,195
+1309,3/17/2010,stored at warehouse,waiting,180
+1310,11/4/2008,stored at warehouse,waiting,157
+1311,12/1/2016,stored at warehouse,waiting,155
+1312,10/22/2016,stored at warehouse,waiting,151
+1313,3/1/2002,stored at warehouse,waiting,84
+1314,11/18/2002,stored at warehouse,waiting,128
+1315,11/7/2009,stored at warehouse,waiting,15
+1316,1/6/2011,stored at warehouse,waiting,140
+1317,5/4/2015,stored at warehouse,waiting,66
+1318,7/26/2011,stored at warehouse,waiting,13
+1319,1/3/2013,stored at warehouse,waiting,67
+1320,6/19/2003,stored at warehouse,waiting,132
+1321,2/13/2018,stored at warehouse,waiting,116
+1322,4/20/2011,stored at warehouse,waiting,87
+1323,10/9/2014,stored at warehouse,waiting,163
+1324,5/20/2011,stored at warehouse,waiting,161
+1325,8/6/2016,stored at warehouse,waiting,65
+1326,3/30/2011,stored at warehouse,waiting,190
+1327,6/18/2018,stored at warehouse,waiting,37
+1328,10/19/2008,stored at warehouse,waiting,167
+1329,4/9/2002,stored at warehouse,waiting,51
+1330,5/3/2018,stored at warehouse,waiting,149
+1331,7/20/2010,stored at warehouse,waiting,89
+1332,7/6/2007,stored at warehouse,waiting,16
+1333,1/24/2013,stored at warehouse,waiting,138
+1334,3/14/2007,stored at warehouse,waiting,4
+1335,6/24/2004,stored at warehouse,waiting,33
+1336,1/6/2010,stored at warehouse,waiting,94
+1337,8/18/2015,stored at warehouse,waiting,53
+1338,4/29/2006,stored at warehouse,waiting,166
+1339,8/26/2017,stored at warehouse,waiting,89
+1340,10/5/2017,stored at warehouse,waiting,195
+1341,5/5/2009,stored at warehouse,waiting,20
+1342,4/27/2007,stored at warehouse,waiting,86
+1343,8/21/2011,stored at warehouse,waiting,36
+1344,7/13/2012,stored at warehouse,waiting,143
+1345,3/31/2014,stored at warehouse,waiting,19
+1346,6/2/2014,stored at warehouse,waiting,56
+1347,11/28/2007,stored at warehouse,waiting,44
+1348,12/17/2009,stored at warehouse,waiting,107
+1349,11/4/2002,stored at warehouse,waiting,1
+1350,7/12/2007,stored at warehouse,waiting,3
+1351,4/2/2010,stored at warehouse,waiting,102
+1352,4/6/2018,stored at warehouse,waiting,55
+1353,5/7/2016,stored at warehouse,waiting,113
+1354,7/4/2004,stored at warehouse,waiting,82
+1355,7/24/2011,stored at warehouse,waiting,92
+1356,12/19/2012,stored at warehouse,waiting,199
+1357,8/14/2010,stored at warehouse,waiting,170
+1358,8/11/2007,stored at warehouse,waiting,33
+1359,5/20/2016,stored at warehouse,waiting,90
+1360,5/6/2007,stored at warehouse,waiting,79
+1361,3/22/2003,stored at warehouse,waiting,135
+1362,1/3/2016,stored at warehouse,waiting,55
+1363,12/1/2006,stored at warehouse,waiting,88
+1364,7/11/2006,stored at warehouse,waiting,150
+1365,2/18/2008,stored at warehouse,waiting,12
+1366,5/20/2017,stored at warehouse,waiting,111
+1367,4/3/2008,stored at warehouse,waiting,77
+1368,11/16/2018,stored at warehouse,waiting,167
+1369,12/15/2001,stored at warehouse,waiting,136
+1370,1/10/2016,stored at warehouse,waiting,159
+1371,3/14/2003,stored at warehouse,waiting,53
+1372,8/24/2014,stored at warehouse,waiting,193
+1373,1/3/2009,stored at warehouse,waiting,152
+1374,10/19/2003,stored at warehouse,waiting,116
+1375,6/14/2011,stored at warehouse,waiting,52
+1376,9/16/2010,stored at warehouse,waiting,7
+1377,4/11/2008,stored at warehouse,waiting,57
+1378,4/3/2015,stored at warehouse,waiting,100
+1379,6/2/2012,stored at warehouse,waiting,171
+1380,2/9/2013,stored at warehouse,waiting,193
+1381,11/1/2018,stored at warehouse,waiting,151
+1382,4/28/2001,stored at warehouse,waiting,46
+1383,5/27/2005,stored at warehouse,waiting,24
+1384,4/28/2009,stored at warehouse,waiting,193
+1385,10/17/2011,stored at warehouse,waiting,183
+1386,9/28/2001,stored at warehouse,waiting,155
+1387,4/26/2012,stored at warehouse,waiting,162
+1388,4/25/2015,stored at warehouse,waiting,96
+1389,5/21/2011,stored at warehouse,waiting,88
+1390,8/16/2005,stored at warehouse,waiting,147
+1391,11/27/2009,stored at warehouse,waiting,50
+1392,2/26/2013,stored at warehouse,waiting,17
+1393,11/4/2010,stored at warehouse,waiting,121
+1394,6/16/2007,stored at warehouse,waiting,105
+1395,5/9/2002,stored at warehouse,waiting,110
+1396,2/10/2008,stored at warehouse,waiting,32
+1397,6/15/2017,stored at warehouse,waiting,142
+1398,4/12/2012,stored at warehouse,waiting,129
+1399,11/28/2010,stored at warehouse,waiting,161
+1400,2/20/2012,stored at warehouse,waiting,77
+1401,10/22/2018,stored at warehouse,waiting,124
+1402,1/7/2008,stored at warehouse,waiting,140
+1403,7/24/2003,stored at warehouse,waiting,186
+1404,11/20/2002,stored at warehouse,waiting,163
+1405,10/21/2017,stored at warehouse,waiting,52
+1406,3/21/2002,stored at warehouse,waiting,29
+1407,5/15/2012,stored at warehouse,waiting,103
+1408,1/27/2017,stored at warehouse,waiting,157
+1409,11/14/2015,stored at warehouse,waiting,1
+1410,10/6/2008,stored at warehouse,waiting,161
+1411,11/10/2003,stored at warehouse,waiting,156
+1412,12/7/2009,stored at warehouse,waiting,35
+1413,6/22/2014,stored at warehouse,waiting,163
+1414,4/28/2008,stored at warehouse,waiting,191
+1415,12/14/2013,stored at warehouse,waiting,28
+1416,5/13/2009,stored at warehouse,waiting,140
+1417,4/20/2017,stored at warehouse,waiting,110
+1418,5/16/2002,stored at warehouse,waiting,165
+1419,3/15/2015,stored at warehouse,waiting,33
+1420,8/27/2012,stored at warehouse,waiting,76
+1421,12/19/2011,stored at warehouse,waiting,79
+1422,1/19/2003,stored at warehouse,waiting,151
+1423,12/5/2004,stored at warehouse,waiting,175
+1424,10/9/2001,stored at warehouse,waiting,172
+1425,9/20/2012,stored at warehouse,waiting,183
+1426,9/26/2003,stored at warehouse,waiting,93
+1427,8/2/2018,stored at warehouse,waiting,105
+1428,7/8/2007,stored at warehouse,waiting,153
+1429,5/5/2014,stored at warehouse,waiting,25
+1430,11/6/2017,stored at warehouse,waiting,87
+1431,12/20/2007,stored at warehouse,waiting,196
+1432,9/30/2008,stored at warehouse,waiting,128
+1433,12/13/2003,stored at warehouse,waiting,199
+1434,2/6/2014,stored at warehouse,waiting,80
+1435,11/20/2006,stored at warehouse,waiting,158
+1436,11/20/2005,stored at warehouse,waiting,96
+1437,9/12/2001,stored at warehouse,waiting,27
+1438,11/17/2018,stored at warehouse,waiting,147
+1439,8/22/2003,stored at warehouse,waiting,199
+1440,6/8/2010,stored at warehouse,waiting,103
+1441,1/12/2013,stored at warehouse,waiting,121
+1442,1/15/2016,stored at warehouse,waiting,97
+1443,4/13/2014,stored at warehouse,waiting,107
+1444,10/28/2002,stored at warehouse,waiting,117
+1445,12/17/2013,stored at warehouse,waiting,12
+1446,1/17/2008,stored at warehouse,waiting,83
+1447,3/5/2006,stored at warehouse,waiting,125
+1448,8/30/2016,stored at warehouse,waiting,27
+1449,10/6/2018,stored at warehouse,waiting,25
+1450,7/27/2010,stored at warehouse,waiting,168
+1451,8/31/2014,stored at warehouse,waiting,23
+1452,8/26/2001,stored at warehouse,waiting,28
+1453,8/2/2016,stored at warehouse,waiting,61
+1454,7/23/2017,stored at warehouse,waiting,112
+1455,2/22/2018,stored at warehouse,waiting,25
+1456,5/26/2018,stored at warehouse,waiting,44
+1457,12/27/2008,stored at warehouse,waiting,30
+1458,3/4/2005,stored at warehouse,waiting,46
+1459,2/12/2013,stored at warehouse,waiting,42
+1460,10/25/2016,stored at warehouse,waiting,52
+1461,4/19/2004,stored at warehouse,waiting,94
+1462,11/14/2001,stored at warehouse,waiting,69
+1463,8/23/2005,stored at warehouse,waiting,172
+1464,5/19/2005,stored at warehouse,waiting,137
+1465,3/24/2004,stored at warehouse,waiting,37
+1466,10/14/2009,stored at warehouse,waiting,110
+1467,1/29/2005,stored at warehouse,waiting,134
+1468,9/3/2009,stored at warehouse,waiting,148
+1469,4/15/2004,stored at warehouse,waiting,153
+1470,10/6/2009,stored at warehouse,waiting,163
+1471,1/3/2002,stored at warehouse,waiting,16
+1472,5/10/2008,stored at warehouse,waiting,160
+1473,11/10/2013,stored at warehouse,waiting,119
+1474,10/17/2011,stored at warehouse,waiting,132
+1475,12/5/2017,stored at warehouse,waiting,132
+1476,5/11/2016,stored at warehouse,waiting,24
+1477,8/1/2009,stored at warehouse,waiting,134
+1478,4/3/2017,stored at warehouse,waiting,152
+1479,6/6/2002,stored at warehouse,waiting,46
+1480,10/8/2013,stored at warehouse,waiting,40
+1481,2/22/2018,stored at warehouse,waiting,80
+1482,3/7/2015,stored at warehouse,waiting,8
+1483,10/26/2009,stored at warehouse,waiting,197
+1484,3/8/2009,stored at warehouse,waiting,168
+1485,7/25/2013,stored at warehouse,waiting,133
+1486,1/17/2016,stored at warehouse,waiting,21
+1487,8/3/2009,stored at warehouse,waiting,108
+1488,12/11/2010,stored at warehouse,waiting,80
+1489,5/10/2012,stored at warehouse,waiting,24
+1490,1/19/2001,stored at warehouse,waiting,195
+1491,11/16/2005,stored at warehouse,waiting,21
+1492,1/25/2006,stored at warehouse,waiting,96
+1493,5/19/2004,stored at warehouse,waiting,95
+1494,5/25/2009,stored at warehouse,waiting,142
+1495,6/23/2015,stored at warehouse,waiting,121
+1496,10/26/2018,stored at warehouse,waiting,70
+1497,4/23/2006,stored at warehouse,waiting,144
+1498,8/22/2016,stored at warehouse,waiting,167
+1499,11/27/2008,stored at warehouse,waiting,180
+1500,6/11/2010,stored at warehouse,waiting,129
+1501,3/20/2014,stored at warehouse,waiting,85
+1502,7/8/2015,stored at warehouse,waiting,175
+1503,2/2/2005,stored at warehouse,waiting,147
+1504,9/22/2016,stored at warehouse,waiting,109
+1505,5/24/2018,stored at warehouse,waiting,91
+1506,4/17/2013,stored at warehouse,waiting,51
+1507,6/8/2016,stored at warehouse,waiting,130
+1508,6/21/2002,stored at warehouse,waiting,181
+1509,8/10/2002,stored at warehouse,waiting,110
+1510,9/18/2012,stored at warehouse,waiting,183
+1511,2/11/2015,stored at warehouse,waiting,95
+1512,12/26/2005,stored at warehouse,waiting,53
+1513,4/14/2006,stored at warehouse,waiting,73
+1514,9/6/2016,stored at warehouse,waiting,66
+1515,4/27/2003,stored at warehouse,waiting,167
+1516,5/18/2003,stored at warehouse,waiting,2
+1517,7/1/2011,stored at warehouse,waiting,36
+1518,2/10/2018,stored at warehouse,waiting,64
+1519,12/1/2005,stored at warehouse,waiting,185
+1520,4/29/2014,stored at warehouse,waiting,23
+1521,9/20/2008,stored at warehouse,waiting,184
+1522,8/25/2003,stored at warehouse,waiting,130
+1523,8/23/2002,stored at warehouse,waiting,155
+1524,2/10/2008,stored at warehouse,waiting,199
+1525,8/17/2012,stored at warehouse,waiting,85
+1526,1/1/2008,stored at warehouse,waiting,120
+1527,10/26/2001,stored at warehouse,waiting,38
+1528,11/7/2018,stored at warehouse,waiting,23
+1529,12/26/2000,stored at warehouse,waiting,156
+1530,6/13/2003,stored at warehouse,waiting,154
+1531,10/11/2013,stored at warehouse,waiting,136
+1532,6/14/2016,stored at warehouse,waiting,123
+1533,3/11/2008,stored at warehouse,waiting,158
+1534,5/26/2008,stored at warehouse,waiting,111
+1535,5/28/2014,stored at warehouse,waiting,196
+1536,10/13/2016,stored at warehouse,waiting,88
+1537,10/13/2010,stored at warehouse,waiting,129
+1538,7/12/2017,stored at warehouse,waiting,90
+1539,4/6/2002,stored at warehouse,waiting,11
+1540,6/14/2014,stored at warehouse,waiting,168
+1541,4/7/2006,stored at warehouse,waiting,5
+1542,9/26/2003,stored at warehouse,waiting,187
+1543,1/2/2005,stored at warehouse,waiting,58
+1544,10/19/2017,stored at warehouse,waiting,112
+1545,11/18/2015,stored at warehouse,waiting,58
+1546,9/18/2013,stored at warehouse,waiting,187
+1547,4/5/2003,stored at warehouse,waiting,185
+1548,10/14/2004,stored at warehouse,waiting,181
+1549,7/23/2006,stored at warehouse,waiting,118
+1550,5/3/2009,stored at warehouse,waiting,158
+1551,9/14/2009,stored at warehouse,waiting,56
+1552,6/20/2010,stored at warehouse,waiting,70
+1553,6/14/2005,stored at warehouse,waiting,18
+1554,11/25/2003,stored at warehouse,waiting,181
+1555,12/17/2008,stored at warehouse,waiting,104
+1556,9/3/2007,stored at warehouse,waiting,138
+1557,11/4/2001,stored at warehouse,waiting,152
+1558,9/21/2005,stored at warehouse,waiting,158
+1559,10/4/2010,stored at warehouse,waiting,190
+1560,11/18/2018,stored at warehouse,waiting,161
+1561,4/27/2015,stored at warehouse,waiting,59
+1562,1/24/2010,stored at warehouse,waiting,175
+1563,1/26/2005,stored at warehouse,waiting,90
+1564,6/10/2017,stored at warehouse,waiting,94
+1565,4/28/2006,stored at warehouse,waiting,146
+1566,5/3/2017,stored at warehouse,waiting,138
+1567,12/8/2002,stored at warehouse,waiting,92
+1568,8/16/2017,stored at warehouse,waiting,198
+1569,10/23/2016,stored at warehouse,waiting,77
+1570,2/22/2007,stored at warehouse,waiting,167
+1571,11/9/2009,stored at warehouse,waiting,78
+1572,6/18/2003,stored at warehouse,waiting,163
+1573,8/2/2018,stored at warehouse,waiting,7
+1574,5/30/2004,stored at warehouse,waiting,113
+1575,8/27/2007,stored at warehouse,waiting,11
+1576,1/28/2016,stored at warehouse,waiting,8
+1577,10/21/2017,stored at warehouse,waiting,57
+1578,1/6/2012,stored at warehouse,waiting,104
+1579,5/19/2016,stored at warehouse,waiting,59
+1580,4/1/2006,stored at warehouse,waiting,74
+1581,4/14/2015,stored at warehouse,waiting,100
+1582,4/5/2010,stored at warehouse,waiting,54
+1583,6/25/2006,stored at warehouse,waiting,104
+1584,7/8/2011,stored at warehouse,waiting,145
+1585,10/3/2003,stored at warehouse,waiting,145
+1586,12/26/2003,stored at warehouse,waiting,52
+1587,3/13/2016,stored at warehouse,waiting,168
+1588,12/11/2001,stored at warehouse,waiting,130
+1589,12/19/2001,stored at warehouse,waiting,28
+1590,10/26/2006,stored at warehouse,waiting,64
+1591,6/25/2009,stored at warehouse,waiting,161
+1592,3/10/2013,stored at warehouse,waiting,121
+1593,12/12/2012,stored at warehouse,waiting,146
+1594,2/15/2018,stored at warehouse,waiting,1
+1595,12/30/2006,stored at warehouse,waiting,76
+1596,8/6/2003,stored at warehouse,waiting,146
+1597,4/26/2012,stored at warehouse,waiting,167
+1598,7/2/2008,stored at warehouse,waiting,147
+1599,10/29/2004,stored at warehouse,waiting,120
+1600,12/26/2000,stored at warehouse,waiting,155
+1601,3/5/2001,stored at warehouse,waiting,99
+1602,6/25/2008,stored at warehouse,waiting,69
+1603,12/17/2005,stored at warehouse,waiting,141
+1604,4/3/2002,stored at warehouse,waiting,149
+1605,9/14/2001,stored at warehouse,waiting,82
+1606,3/13/2008,stored at warehouse,waiting,37
+1607,11/18/2010,stored at warehouse,waiting,198
+1608,11/11/2004,stored at warehouse,waiting,153
+1609,12/18/2004,stored at warehouse,waiting,181
+1610,3/18/2012,stored at warehouse,waiting,2
+1611,1/14/2011,stored at warehouse,waiting,52
+1612,10/11/2004,stored at warehouse,waiting,81
+1613,2/1/2010,stored at warehouse,waiting,58
+1614,6/20/2012,stored at warehouse,waiting,96
+1615,10/3/2006,stored at warehouse,waiting,124
+1616,10/11/2012,stored at warehouse,waiting,170
+1617,6/30/2013,stored at warehouse,waiting,4
+1618,12/8/2012,stored at warehouse,waiting,69
+1619,6/3/2001,stored at warehouse,waiting,66
+1620,4/20/2015,stored at warehouse,waiting,176
+1621,1/15/2001,stored at warehouse,waiting,50
+1622,11/5/2004,stored at warehouse,waiting,53
+1623,6/11/2008,stored at warehouse,waiting,47
+1624,3/15/2011,stored at warehouse,waiting,28
+1625,12/24/2016,stored at warehouse,waiting,51
+1626,2/22/2001,stored at warehouse,waiting,43
+1627,2/8/2014,stored at warehouse,waiting,71
+1628,11/8/2004,stored at warehouse,waiting,22
+1629,5/30/2001,stored at warehouse,waiting,111
+1630,11/30/2004,stored at warehouse,waiting,179
+1631,10/27/2003,stored at warehouse,waiting,79
+1632,2/26/2012,stored at warehouse,waiting,190
+1633,5/9/2017,stored at warehouse,waiting,105
+1634,12/13/2008,stored at warehouse,waiting,48
+1635,1/26/2018,stored at warehouse,waiting,199
+1636,2/13/2017,stored at warehouse,waiting,33
+1637,8/11/2009,stored at warehouse,waiting,3
+1638,5/29/2018,stored at warehouse,waiting,99
+1639,1/19/2005,stored at warehouse,waiting,38
+1640,1/23/2018,stored at warehouse,waiting,60
+1641,12/25/2000,stored at warehouse,waiting,62
+1642,3/29/2004,stored at warehouse,waiting,11
+1643,6/22/2005,stored at warehouse,waiting,152
+1644,1/6/2009,stored at warehouse,waiting,135
+1645,6/3/2006,stored at warehouse,waiting,135
+1646,9/18/2005,stored at warehouse,waiting,21
+1647,9/15/2002,stored at warehouse,waiting,85
+1648,7/20/2018,stored at warehouse,waiting,106
+1649,8/1/2009,stored at warehouse,waiting,147
+1650,6/3/2005,stored at warehouse,waiting,87
+1651,8/31/2006,stored at warehouse,waiting,195
+1652,9/27/2004,stored at warehouse,waiting,165
+1653,6/5/2004,stored at warehouse,waiting,166
+1654,5/20/2014,stored at warehouse,waiting,148
+1655,6/13/2016,stored at warehouse,waiting,100
+1656,1/2/2011,stored at warehouse,waiting,17
+1657,11/24/2016,stored at warehouse,waiting,173
+1658,5/18/2007,stored at warehouse,waiting,18
+1659,12/25/2000,stored at warehouse,waiting,155
+1660,6/17/2001,stored at warehouse,waiting,107
+1661,6/26/2015,stored at warehouse,waiting,3
+1662,2/3/2015,stored at warehouse,waiting,151
+1663,6/18/2002,stored at warehouse,waiting,199
+1664,8/5/2016,stored at warehouse,waiting,109
+1665,9/17/2015,stored at warehouse,waiting,62
+1666,4/6/2005,stored at warehouse,waiting,128
+1667,7/29/2011,stored at warehouse,waiting,1
+1668,5/15/2011,stored at warehouse,waiting,117
+1669,4/9/2001,stored at warehouse,waiting,55
+1670,10/12/2007,stored at warehouse,waiting,173
+1671,1/29/2016,stored at warehouse,waiting,185
+1672,3/11/2002,stored at warehouse,waiting,60
+1673,1/24/2008,stored at warehouse,waiting,194
+1674,2/18/2018,stored at warehouse,waiting,105
+1675,12/16/2006,stored at warehouse,waiting,154
+1676,4/1/2014,stored at warehouse,waiting,39
+1677,1/11/2008,stored at warehouse,waiting,194
+1678,10/31/2008,stored at warehouse,waiting,120
+1679,4/21/2012,stored at warehouse,waiting,41
+1680,4/18/2009,stored at warehouse,waiting,197
+1681,10/30/2003,stored at warehouse,waiting,194
+1682,1/8/2016,stored at warehouse,waiting,162
+1683,3/30/2008,stored at warehouse,waiting,45
+1684,12/25/2017,stored at warehouse,waiting,22
+1685,6/27/2017,stored at warehouse,waiting,93
+1686,2/3/2003,stored at warehouse,waiting,182
+1687,1/3/2006,stored at warehouse,waiting,21
+1688,12/8/2014,stored at warehouse,waiting,118
+1689,6/10/2011,stored at warehouse,waiting,116
+1690,4/26/2008,stored at warehouse,waiting,71
+1691,2/5/2002,stored at warehouse,waiting,2
+1692,8/30/2012,stored at warehouse,waiting,186
+1693,5/6/2007,stored at warehouse,waiting,170
+1694,9/7/2014,stored at warehouse,waiting,6
+1695,8/12/2009,stored at warehouse,waiting,83
+1696,12/20/2008,stored at warehouse,waiting,88
+1697,7/27/2014,stored at warehouse,waiting,112
+1698,3/21/2003,stored at warehouse,waiting,46
+1699,11/28/2017,stored at warehouse,waiting,62
+1700,12/17/2014,stored at warehouse,waiting,84
+1701,8/26/2014,stored at warehouse,waiting,66
+1702,2/17/2006,stored at warehouse,waiting,122
+1703,8/22/2006,stored at warehouse,waiting,115
+1704,4/10/2012,stored at warehouse,waiting,64
+1705,10/28/2012,stored at warehouse,waiting,178
+1706,8/28/2010,stored at warehouse,waiting,148
+1707,7/27/2013,stored at warehouse,waiting,27
+1708,10/20/2016,stored at warehouse,waiting,118
+1709,10/28/2011,stored at warehouse,waiting,46
+1710,9/21/2011,stored at warehouse,waiting,107
+1711,12/16/2002,stored at warehouse,waiting,68
+1712,12/19/2004,stored at warehouse,waiting,59
+1713,2/4/2011,stored at warehouse,waiting,32
+1714,12/26/2004,stored at warehouse,waiting,81
+1715,8/6/2018,stored at warehouse,waiting,185
+1716,6/11/2018,stored at warehouse,waiting,109
+1717,7/25/2016,stored at warehouse,waiting,84
+1718,1/19/2009,stored at warehouse,waiting,162
+1719,11/27/2003,stored at warehouse,waiting,127
+1720,12/1/2004,stored at warehouse,waiting,105
+1721,9/29/2017,stored at warehouse,waiting,131
+1722,10/9/2006,stored at warehouse,waiting,51
+1723,7/24/2001,stored at warehouse,waiting,48
+1724,6/3/2013,stored at warehouse,waiting,180
+1725,7/22/2001,stored at warehouse,waiting,30
+1726,1/5/2001,stored at warehouse,waiting,104
+1727,4/2/2001,stored at warehouse,waiting,99
+1728,12/14/2014,stored at warehouse,waiting,58
+1729,9/9/2013,stored at warehouse,waiting,95
+1730,5/31/2002,stored at warehouse,waiting,110
+1731,12/15/2013,stored at warehouse,waiting,190
+1732,1/2/2003,stored at warehouse,waiting,122
+1733,9/27/2008,stored at warehouse,waiting,117
+1734,3/19/2008,stored at warehouse,waiting,2
+1735,10/2/2013,stored at warehouse,waiting,150
+1736,5/16/2007,stored at warehouse,waiting,38
+1737,1/29/2016,stored at warehouse,waiting,50
+1738,7/9/2014,stored at warehouse,waiting,197
+1739,12/14/2016,stored at warehouse,waiting,195
+1740,2/20/2009,stored at warehouse,waiting,24
+1741,12/27/2009,stored at warehouse,waiting,66
+1742,4/14/2008,stored at warehouse,waiting,93
+1743,9/5/2002,stored at warehouse,waiting,103
+1744,11/23/2003,stored at warehouse,waiting,3
+1745,9/22/2006,stored at warehouse,waiting,130
+1746,4/5/2017,stored at warehouse,waiting,71
+1747,6/26/2012,stored at warehouse,waiting,77
+1748,12/15/2002,stored at warehouse,waiting,120
+1749,3/4/2001,stored at warehouse,waiting,7
+1750,10/6/2002,stored at warehouse,waiting,147
+1751,1/4/2005,stored at warehouse,waiting,65
+1752,1/5/2010,stored at warehouse,waiting,82
+1753,2/28/2010,stored at warehouse,waiting,95
+1754,6/22/2007,stored at warehouse,waiting,196
+1755,10/11/2006,stored at warehouse,waiting,111
+1756,1/9/2015,stored at warehouse,waiting,195
+1757,11/10/2012,stored at warehouse,waiting,20
+1758,8/4/2016,stored at warehouse,waiting,190
+1759,11/7/2004,stored at warehouse,waiting,30
+1760,7/5/2011,stored at warehouse,waiting,31
+1761,1/23/2007,stored at warehouse,waiting,23
+1762,3/4/2002,stored at warehouse,waiting,117
+1763,5/8/2007,stored at warehouse,waiting,56
+1764,10/14/2002,stored at warehouse,waiting,139
+1765,5/30/2007,stored at warehouse,waiting,14
+1766,5/26/2018,stored at warehouse,waiting,46
+1767,5/5/2001,stored at warehouse,waiting,52
+1768,3/20/2001,stored at warehouse,waiting,108
+1769,2/9/2013,stored at warehouse,waiting,128
+1770,3/21/2009,stored at warehouse,waiting,170
+1771,9/2/2006,stored at warehouse,waiting,181
+1772,2/2/2004,stored at warehouse,waiting,135
+1773,9/4/2002,stored at warehouse,waiting,132
+1774,6/8/2008,stored at warehouse,waiting,74
+1775,11/13/2007,stored at warehouse,waiting,41
+1776,3/12/2004,stored at warehouse,waiting,181
+1777,10/28/2007,stored at warehouse,waiting,73
+1778,4/26/2015,stored at warehouse,waiting,157
+1779,2/19/2002,stored at warehouse,waiting,146
+1780,12/13/2008,stored at warehouse,waiting,90
+1781,9/17/2003,stored at warehouse,waiting,31
+1782,6/21/2011,stored at warehouse,waiting,4
+1783,12/1/2011,stored at warehouse,waiting,156
+1784,9/20/2006,stored at warehouse,waiting,125
+1785,8/5/2014,stored at warehouse,waiting,70
+1786,6/20/2003,stored at warehouse,waiting,42
+1787,7/23/2017,stored at warehouse,waiting,157
+1788,10/25/2001,stored at warehouse,waiting,97
+1789,10/11/2008,stored at warehouse,waiting,163
+1790,11/5/2002,stored at warehouse,waiting,11
+1791,2/20/2011,stored at warehouse,waiting,113
+1792,8/28/2002,stored at warehouse,waiting,190
+1793,5/2/2009,stored at warehouse,waiting,90
+1794,4/7/2015,stored at warehouse,waiting,141
+1795,3/1/2001,stored at warehouse,waiting,71
+1796,5/5/2009,stored at warehouse,waiting,138
+1797,2/18/2003,stored at warehouse,waiting,99
+1798,1/6/2006,stored at warehouse,waiting,110
+1799,11/7/2010,stored at warehouse,waiting,197
+1800,5/8/2008,stored at warehouse,waiting,195
+1801,2/25/2001,stored at warehouse,waiting,192
+1802,10/28/2010,stored at warehouse,waiting,165
+1803,1/1/2014,stored at warehouse,waiting,17
+1804,8/9/2014,stored at warehouse,waiting,147
+1805,7/28/2014,stored at warehouse,waiting,139
+1806,7/8/2005,stored at warehouse,waiting,105
+1807,6/18/2001,stored at warehouse,waiting,48
+1808,10/28/2003,stored at warehouse,waiting,159
+1809,3/27/2015,stored at warehouse,waiting,85
+1810,3/16/2003,stored at warehouse,waiting,64
+1811,4/11/2012,stored at warehouse,waiting,143
+1812,4/24/2012,stored at warehouse,waiting,8
+1813,7/13/2003,stored at warehouse,waiting,50
+1814,2/25/2017,stored at warehouse,waiting,199
+1815,2/20/2010,stored at warehouse,waiting,52
+1816,1/7/2012,stored at warehouse,waiting,70
+1817,4/15/2010,stored at warehouse,waiting,60
+1818,4/17/2012,stored at warehouse,waiting,186
+1819,3/16/2017,stored at warehouse,waiting,30
+1820,10/6/2013,stored at warehouse,waiting,98
+1821,4/25/2007,stored at warehouse,waiting,33
+1822,12/28/2004,stored at warehouse,waiting,128
+1823,8/27/2015,stored at warehouse,waiting,26
+1824,2/24/2014,stored at warehouse,waiting,67
+1825,7/10/2010,stored at warehouse,waiting,177
+1826,5/14/2002,stored at warehouse,waiting,133
+1827,4/30/2008,stored at warehouse,waiting,93
+1828,12/28/2003,stored at warehouse,waiting,80
+1829,1/5/2013,stored at warehouse,waiting,154
+1830,9/10/2006,stored at warehouse,waiting,104
+1831,4/2/2012,stored at warehouse,waiting,80
+1832,7/6/2008,stored at warehouse,waiting,15
+1833,7/7/2007,stored at warehouse,waiting,61
+1834,2/5/2009,stored at warehouse,waiting,101
+1835,5/4/2015,stored at warehouse,waiting,135
+1836,3/21/2014,stored at warehouse,waiting,170
+1837,4/30/2010,stored at warehouse,waiting,124
+1838,1/4/2008,stored at warehouse,waiting,118
+1839,6/9/2006,stored at warehouse,waiting,4
+1840,11/16/2005,stored at warehouse,waiting,106
+1841,9/27/2016,stored at warehouse,waiting,90
+1842,5/25/2008,stored at warehouse,waiting,97
+1843,7/28/2006,stored at warehouse,waiting,32
+1844,8/15/2005,stored at warehouse,waiting,125
+1845,9/23/2013,stored at warehouse,waiting,52
+1846,5/30/2006,stored at warehouse,waiting,124
+1847,6/5/2001,stored at warehouse,waiting,52
+1848,1/3/2008,stored at warehouse,waiting,113
+1849,12/11/2004,stored at warehouse,waiting,46
+1850,2/20/2001,stored at warehouse,waiting,145
+1851,12/2/2016,stored at warehouse,waiting,12
+1852,5/3/2009,stored at warehouse,waiting,88
+1853,9/15/2008,stored at warehouse,waiting,87
+1854,2/28/2006,stored at warehouse,waiting,183
+1855,2/12/2008,stored at warehouse,waiting,194
+1856,12/8/2002,stored at warehouse,waiting,125
+1857,9/13/2006,stored at warehouse,waiting,8
+1858,5/10/2016,stored at warehouse,waiting,160
+1859,3/19/2012,stored at warehouse,waiting,75
+1860,9/13/2012,stored at warehouse,waiting,75
+1861,2/12/2015,stored at warehouse,waiting,64
+1862,1/18/2011,stored at warehouse,waiting,173
+1863,7/31/2013,stored at warehouse,waiting,43
+1864,4/17/2005,stored at warehouse,waiting,48
+1865,9/14/2018,stored at warehouse,waiting,187
+1866,8/29/2012,stored at warehouse,waiting,22
+1867,1/18/2014,stored at warehouse,waiting,27
+1868,4/28/2014,stored at warehouse,waiting,165
+1869,9/20/2010,stored at warehouse,waiting,77
+1870,10/7/2002,stored at warehouse,waiting,174
+1871,2/20/2003,stored at warehouse,waiting,111
+1872,10/29/2015,stored at warehouse,waiting,176
+1873,12/29/2003,stored at warehouse,waiting,34
+1874,12/11/2002,stored at warehouse,waiting,135
+1875,7/6/2016,stored at warehouse,waiting,41
+1876,8/4/2010,stored at warehouse,waiting,151
+1877,10/8/2007,stored at warehouse,waiting,143
+1878,12/30/2001,stored at warehouse,waiting,126
+1879,4/29/2003,stored at warehouse,waiting,1
+1880,1/13/2008,stored at warehouse,waiting,170
+1881,1/27/2006,stored at warehouse,waiting,193
+1882,4/4/2018,stored at warehouse,waiting,140
+1883,10/24/2007,stored at warehouse,waiting,180
+1884,1/10/2004,stored at warehouse,waiting,67
+1885,6/19/2012,stored at warehouse,waiting,168
+1886,8/17/2015,stored at warehouse,waiting,190
+1887,12/31/2015,stored at warehouse,waiting,112
+1888,1/19/2013,stored at warehouse,waiting,109
+1889,12/22/2017,stored at warehouse,waiting,95
+1890,6/23/2014,stored at warehouse,waiting,133
+1891,12/17/2011,stored at warehouse,waiting,166
+1892,1/31/2002,stored at warehouse,waiting,197
+1893,2/15/2007,stored at warehouse,waiting,110
+1894,11/2/2007,stored at warehouse,waiting,62
+1895,2/21/2004,stored at warehouse,waiting,195
+1896,1/11/2007,stored at warehouse,waiting,39
+1897,5/30/2012,stored at warehouse,waiting,40
+1898,1/26/2009,stored at warehouse,waiting,149
+1899,1/12/2001,stored at warehouse,waiting,178
+1900,4/24/2007,stored at warehouse,waiting,78
+1901,3/11/2015,stored at warehouse,waiting,155
+1902,6/14/2006,stored at warehouse,waiting,150
+1903,9/1/2018,stored at warehouse,waiting,45
+1904,3/7/2008,stored at warehouse,waiting,125
+1905,7/16/2012,stored at warehouse,waiting,33
+1906,11/19/2015,stored at warehouse,waiting,120
+1907,12/18/2006,stored at warehouse,waiting,116
+1908,10/12/2010,stored at warehouse,waiting,103
+1909,12/11/2007,stored at warehouse,waiting,130
+1910,5/8/2015,stored at warehouse,waiting,199
+1911,11/14/2013,stored at warehouse,waiting,192
+1912,5/16/2015,stored at warehouse,waiting,195
+1913,12/29/2000,stored at warehouse,waiting,101
+1914,2/3/2017,stored at warehouse,waiting,64
+1915,12/9/2008,stored at warehouse,waiting,90
+1916,7/6/2018,stored at warehouse,waiting,50
+1917,10/6/2001,stored at warehouse,waiting,121
+1918,6/9/2010,stored at warehouse,waiting,179
+1919,6/24/2016,stored at warehouse,waiting,66
+1920,3/24/2003,stored at warehouse,waiting,96
+1921,7/6/2015,stored at warehouse,waiting,118
+1922,8/13/2006,stored at warehouse,waiting,36
+1923,9/12/2014,stored at warehouse,waiting,195
+1924,4/15/2001,stored at warehouse,waiting,199
+1925,8/17/2013,stored at warehouse,waiting,97
+1926,5/13/2015,stored at warehouse,waiting,1
+1927,3/4/2015,stored at warehouse,waiting,105
+1928,2/12/2007,stored at warehouse,waiting,65
+1929,9/23/2014,stored at warehouse,waiting,39
+1930,1/17/2010,stored at warehouse,waiting,56
+1931,9/12/2018,stored at warehouse,waiting,113
+1932,7/7/2005,stored at warehouse,waiting,107
+1933,8/9/2004,stored at warehouse,waiting,193
+1934,9/13/2012,stored at warehouse,waiting,6
+1935,3/29/2016,stored at warehouse,waiting,46
+1936,3/19/2010,stored at warehouse,waiting,85
+1937,3/12/2014,stored at warehouse,waiting,89
+1938,7/24/2014,stored at warehouse,waiting,149
+1939,4/30/2010,stored at warehouse,waiting,36
+1940,2/4/2010,stored at warehouse,waiting,59
+1941,3/9/2001,stored at warehouse,waiting,8
+1942,10/10/2013,stored at warehouse,waiting,14
+1943,4/21/2009,stored at warehouse,waiting,108
+1944,4/3/2003,stored at warehouse,waiting,177
+1945,3/25/2014,stored at warehouse,waiting,30
+1946,2/10/2016,stored at warehouse,waiting,96
+1947,12/19/2005,stored at warehouse,waiting,89
+1948,7/22/2002,stored at warehouse,waiting,117
+1949,9/21/2018,stored at warehouse,waiting,91
+1950,4/9/2005,stored at warehouse,waiting,160
+1951,10/7/2016,stored at warehouse,waiting,174
+1952,1/10/2013,stored at warehouse,waiting,164
+1953,5/29/2006,stored at warehouse,waiting,168
+1954,5/12/2006,stored at warehouse,waiting,180
+1955,5/27/2008,stored at warehouse,waiting,160
+1956,7/28/2005,stored at warehouse,waiting,84
+1957,1/26/2014,stored at warehouse,waiting,35
+1958,5/14/2015,stored at warehouse,waiting,164
+1959,10/21/2018,stored at warehouse,waiting,108
+1960,7/31/2001,stored at warehouse,waiting,139
+1961,2/12/2007,stored at warehouse,waiting,143
+1962,10/13/2001,stored at warehouse,waiting,180
+1963,5/13/2010,stored at warehouse,waiting,125
+1964,12/28/2007,stored at warehouse,waiting,134
+1965,1/20/2009,stored at warehouse,waiting,152
+1966,2/7/2011,stored at warehouse,waiting,60
+1967,5/11/2004,stored at warehouse,waiting,146
+1968,3/30/2016,stored at warehouse,waiting,36
+1969,10/25/2001,stored at warehouse,waiting,136
+1970,2/9/2018,stored at warehouse,waiting,142
+1971,4/9/2004,stored at warehouse,waiting,36
+1972,10/6/2007,stored at warehouse,waiting,40
+1973,3/3/2003,stored at warehouse,waiting,41
+1974,10/6/2015,stored at warehouse,waiting,89
+1975,6/11/2008,stored at warehouse,waiting,121
+1976,11/23/2018,stored at warehouse,waiting,131
+1977,10/23/2011,stored at warehouse,waiting,87
+1978,12/13/2005,stored at warehouse,waiting,94
+1979,6/25/2014,stored at warehouse,waiting,6
+1980,5/23/2017,stored at warehouse,waiting,184
+1981,9/13/2005,stored at warehouse,waiting,93
+1982,10/30/2010,stored at warehouse,waiting,194
+1983,8/15/2006,stored at warehouse,waiting,126
+1984,10/18/2003,stored at warehouse,waiting,83
+1985,9/12/2003,stored at warehouse,waiting,62
+1986,9/18/2013,stored at warehouse,waiting,103
+1987,10/26/2001,stored at warehouse,waiting,177
+1988,1/11/2002,stored at warehouse,waiting,189
+1989,4/8/2001,stored at warehouse,waiting,136
+1990,7/21/2011,stored at warehouse,waiting,151
+1991,12/12/2002,stored at warehouse,waiting,120
+1992,6/21/2006,stored at warehouse,waiting,199
+1993,2/24/2007,stored at warehouse,waiting,82
+1994,12/29/2007,stored at warehouse,waiting,30
+1995,7/21/2013,stored at warehouse,waiting,162
+1996,12/26/2003,stored at warehouse,waiting,62
+1997,11/26/2005,stored at warehouse,waiting,10
+1998,8/6/2012,stored at warehouse,waiting,181
+1999,7/11/2007,stored at warehouse,waiting,130
+2000,7/25/2010,stored at warehouse,waiting,87
+2001,"1/16/2018,12:02:13",delivered,delivered,
+2002,"2/27/2016,14:22:06",delivered,delivered,
+2003,"9/22/2002,9:51:57",delivered,delivered,
+2004,"9/11/2005,7:30:28",delivered,delivered,
+2005,"1/29/2009,8:42:45",delivered,delivered,
+2006,"5/13/2004,18:26:22",delivered,delivered,
+2007,"5/31/2002,10:12:12",delivered,delivered,
+2008,"4/27/2018,19:10:08",delivered,delivered,
+2009,"4/3/2016,14:22:12",delivered,delivered,
+2010,"5/13/2015,9:19:42",delivered,delivered,
+2011,"11/17/2016,6:25:50",delivered,delivered,
+2012,"9/3/2002,6:22:57",delivered,delivered,
+2013,"9/2/2017,10:51:39",delivered,delivered,
+2014,"4/13/2013,6:57:01",delivered,delivered,
+2015,"3/18/2017,9:34:38",delivered,delivered,
+2016,"2/4/2013,17:51:29",delivered,delivered,
+2017,"5/21/2009,6:48:29",delivered,delivered,
+2018,"1/20/2016,10:11:30",delivered,delivered,
+2019,"11/9/2001,7:50:53",delivered,delivered,
+2020,"1/12/2003,17:40:53",delivered,delivered,
+2021,"12/23/2003,14:13:19",delivered,delivered,
+2022,"12/12/2017,18:17:46",delivered,delivered,
+2023,"12/30/2002,10:43:04",delivered,delivered,
+2024,"9/8/2009,18:03:21",delivered,delivered,
+2025,"5/7/2014,15:24:11",delivered,delivered,
+2026,"10/12/2010,8:55:10",delivered,delivered,
+2027,"1/22/2015,12:47:11",delivered,delivered,
+2028,"9/27/2006,7:28:17",delivered,delivered,
+2029,"5/28/2017,17:43:03",delivered,delivered,
+2030,"12/19/2014,7:13:00",delivered,delivered,
+2031,"3/21/2014,17:39:07",delivered,delivered,
+2032,"3/10/2007,15:10:40",delivered,delivered,
+2033,"12/26/2017,10:10:57",delivered,delivered,
+2034,"10/25/2006,9:18:10",delivered,delivered,
+2035,"12/10/2003,9:07:37",delivered,delivered,
+2036,"9/11/2001,9:25:58",delivered,delivered,
+2037,"6/24/2015,16:20:15",delivered,delivered,
+2038,"8/31/2007,19:52:08",delivered,delivered,
+2039,"4/9/2008,14:30:45",delivered,delivered,
+2040,"11/17/2014,6:27:43",delivered,delivered,
+2041,"5/5/2014,14:37:22",delivered,delivered,
+2042,"5/25/2010,11:05:49",delivered,delivered,
+2043,"7/3/2004,6:58:50",delivered,delivered,
+2044,"3/12/2010,12:40:53",delivered,delivered,
+2045,"11/20/2006,13:02:14",delivered,delivered,
+2046,"3/18/2011,15:59:25",delivered,delivered,
+2047,"6/21/2015,13:28:15",delivered,delivered,
+2048,"11/16/2008,14:34:43",delivered,delivered,
+2049,"2/24/2017,13:35:27",delivered,delivered,
+2050,"5/29/2001,6:18:39",delivered,delivered,
+2051,"1/1/2011,12:48:45",delivered,delivered,
+2052,"9/12/2002,17:47:28",delivered,delivered,
+2053,"10/29/2015,15:21:33",delivered,delivered,
+2054,"5/1/2014,12:58:29",delivered,delivered,
+2055,"7/10/2005,19:17:08",delivered,delivered,
+2056,"5/13/2006,14:55:18",delivered,delivered,
+2057,"7/6/2016,17:32:43",delivered,delivered,
+2058,"10/1/2007,12:44:34",delivered,delivered,
+2059,"11/2/2001,6:50:30",delivered,delivered,
+2060,"9/3/2011,8:07:40",delivered,delivered,
+2061,"4/17/2007,16:37:41",delivered,delivered,
+2062,"1/2/2013,14:06:02",delivered,delivered,
+2063,"5/18/2008,17:14:02",delivered,delivered,
+2064,"1/17/2008,19:41:41",delivered,delivered,
+2065,"6/11/2012,8:10:13",delivered,delivered,
+2066,"4/29/2004,15:31:44",delivered,delivered,
+2067,"9/9/2009,13:49:07",delivered,delivered,
+2068,"1/1/2009,8:14:58",delivered,delivered,
+2069,"3/12/2007,7:03:16",delivered,delivered,
+2070,"3/11/2011,16:24:37",delivered,delivered,
+2071,"6/6/2009,15:37:05",delivered,delivered,
+2072,"10/31/2012,18:01:22",delivered,delivered,
+2073,"12/4/2011,17:45:18",delivered,delivered,
+2074,"1/30/2003,17:22:40",delivered,delivered,
+2075,"10/31/2009,10:34:31",delivered,delivered,
+2076,"9/13/2001,8:53:26",delivered,delivered,
+2077,"12/11/2009,17:16:28",delivered,delivered,
+2078,"11/10/2018,8:08:30",delivered,delivered,
+2079,"12/20/2006,13:50:21",delivered,delivered,
+2080,"1/28/2002,16:25:34",delivered,delivered,
+2081,"6/12/2018,11:30:16",delivered,delivered,
+2082,"6/28/2015,10:37:43",delivered,delivered,
+2083,"3/23/2012,12:25:58",delivered,delivered,
+2084,"9/17/2017,19:04:04",delivered,delivered,
+2085,"8/27/2007,12:36:26",delivered,delivered,
+2086,"11/21/2016,9:01:49",delivered,delivered,
+2087,"7/16/2017,8:46:10",delivered,delivered,
+2088,"10/28/2012,16:35:27",delivered,delivered,
+2089,"1/4/2012,10:39:57",delivered,delivered,
+2090,"12/22/2013,19:39:36",delivered,delivered,
+2091,"11/7/2003,18:14:20",delivered,delivered,
+2092,"11/8/2008,7:14:52",delivered,delivered,
+2093,"1/3/2012,8:43:40",delivered,delivered,
+2094,"5/22/2010,6:55:04",delivered,delivered,
+2095,"8/13/2004,17:24:26",delivered,delivered,
+2096,"8/14/2005,15:39:28",delivered,delivered,
+2097,"5/15/2015,10:33:46",delivered,delivered,
+2098,"1/26/2015,13:27:14",delivered,delivered,
+2099,"3/15/2003,16:30:42",delivered,delivered,
+2100,"3/28/2004,13:59:30",delivered,delivered,
+2101,"9/29/2001,12:15:58",delivered,delivered,
+2102,"4/20/2015,19:05:19",delivered,delivered,
+2103,"10/6/2012,18:10:57",delivered,delivered,
+2104,"9/19/2015,15:18:02",delivered,delivered,
+2105,"8/24/2018,14:58:52",delivered,delivered,
+2106,"4/22/2001,17:33:59",delivered,delivered,
+2107,"8/1/2012,10:19:56",delivered,delivered,
+2108,"4/4/2007,15:37:35",delivered,delivered,
+2109,"1/11/2011,15:58:29",delivered,delivered,
+2110,"1/27/2012,14:06:58",delivered,delivered,
+2111,"9/30/2008,15:53:16",delivered,delivered,
+2112,"2/4/2016,8:03:19",delivered,delivered,
+2113,"2/17/2015,8:47:04",delivered,delivered,
+2114,"4/6/2008,10:18:05",delivered,delivered,
+2115,"4/13/2018,6:07:58",delivered,delivered,
+2116,"9/28/2003,9:28:49",delivered,delivered,
+2117,"10/26/2003,7:54:02",delivered,delivered,
+2118,"5/15/2004,7:54:53",delivered,delivered,
+2119,"7/24/2011,9:51:20",delivered,delivered,
+2120,"12/8/2003,18:05:22",delivered,delivered,
+2121,"6/11/2005,13:38:03",delivered,delivered,
+2122,"12/9/2015,8:05:19",delivered,delivered,
+2123,"8/22/2012,6:07:13",delivered,delivered,
+2124,"3/19/2004,10:06:16",delivered,delivered,
+2125,"10/22/2006,7:21:40",delivered,delivered,
+2126,"11/11/2004,16:59:44",delivered,delivered,
+2127,"3/25/2006,13:54:52",delivered,delivered,
+2128,"8/19/2017,11:33:13",delivered,delivered,
+2129,"1/21/2013,13:34:42",delivered,delivered,
+2130,"4/30/2003,9:52:21",delivered,delivered,
+2131,"12/6/2014,7:55:13",delivered,delivered,
+2132,"12/16/2002,7:56:40",delivered,delivered,
+2133,"9/15/2003,17:49:37",delivered,delivered,
+2134,"8/26/2005,7:06:31",delivered,delivered,
+2135,"6/18/2003,16:49:53",delivered,delivered,
+2136,"4/16/2007,17:01:55",delivered,delivered,
+2137,"8/23/2006,19:32:04",delivered,delivered,
+2138,"9/3/2015,7:00:54",delivered,delivered,
+2139,"3/20/2009,15:14:11",delivered,delivered,
+2140,"3/17/2006,13:18:11",delivered,delivered,
+2141,"9/28/2018,19:21:08",delivered,delivered,
+2142,"8/4/2012,9:51:42",delivered,delivered,
+2143,"8/13/2008,18:35:21",delivered,delivered,
+2144,"6/10/2017,19:52:18",delivered,delivered,
+2145,"11/10/2018,14:43:49",delivered,delivered,
+2146,"7/19/2011,18:59:46",delivered,delivered,
+2147,"10/29/2001,15:49:36",delivered,delivered,
+2148,"2/24/2007,8:37:57",delivered,delivered,
+2149,"8/31/2007,11:43:49",delivered,delivered,
+2150,"10/13/2010,11:34:10",delivered,delivered,
+2151,"6/4/2011,16:05:54",delivered,delivered,
+2152,"7/6/2007,14:09:38",delivered,delivered,
+2153,"10/26/2008,7:37:12",delivered,delivered,
+2154,"3/28/2012,7:55:28",delivered,delivered,
+2155,"9/15/2008,19:38:56",delivered,delivered,
+2156,"1/29/2007,12:17:27",delivered,delivered,
+2157,"11/11/2018,15:15:38",delivered,delivered,
+2158,"12/27/2012,8:58:47",delivered,delivered,
+2159,"12/27/2013,16:30:52",delivered,delivered,
+2160,"2/25/2004,17:34:59",delivered,delivered,
+2161,"6/1/2018,16:23:15",delivered,delivered,
+2162,"8/14/2012,7:52:50",delivered,delivered,
+2163,"10/29/2010,6:48:06",delivered,delivered,
+2164,"10/14/2014,6:09:26",delivered,delivered,
+2165,"8/7/2001,8:37:58",delivered,delivered,
+2166,"2/13/2017,18:50:19",delivered,delivered,
+2167,"2/6/2009,16:57:29",delivered,delivered,
+2168,"4/25/2009,7:26:09",delivered,delivered,
+2169,"2/24/2012,9:09:28",delivered,delivered,
+2170,"3/20/2017,12:01:50",delivered,delivered,
+2171,"11/12/2006,7:22:50",delivered,delivered,
+2172,"11/16/2009,7:36:21",delivered,delivered,
+2173,"12/27/2006,8:55:48",delivered,delivered,
+2174,"9/18/2010,15:47:18",delivered,delivered,
+2175,"1/27/2016,7:21:10",delivered,delivered,
+2176,"10/4/2016,18:20:27",delivered,delivered,
+2177,"5/7/2006,14:23:58",delivered,delivered,
+2178,"1/22/2011,17:24:57",delivered,delivered,
+2179,"5/13/2006,18:01:45",delivered,delivered,
+2180,"2/18/2005,6:26:46",delivered,delivered,
+2181,"6/9/2010,6:09:40",delivered,delivered,
+2182,"11/24/2015,6:03:38",delivered,delivered,
+2183,"11/19/2007,17:51:36",delivered,delivered,
+2184,"8/17/2017,10:52:35",delivered,delivered,
+2185,"2/26/2016,17:02:08",delivered,delivered,
+2186,"7/16/2015,13:01:42",delivered,delivered,
+2187,"6/22/2006,17:50:33",delivered,delivered,
+2188,"3/21/2016,6:05:08",delivered,delivered,
+2189,"5/28/2018,15:35:18",delivered,delivered,
+2190,"7/4/2018,11:47:59",delivered,delivered,
+2191,"4/6/2001,18:36:59",delivered,delivered,
+2192,"10/11/2007,11:41:21",delivered,delivered,
+2193,"5/7/2012,8:01:37",delivered,delivered,
+2194,"5/28/2012,7:33:14",delivered,delivered,
+2195,"2/28/2018,11:25:26",delivered,delivered,
+2196,"1/15/2011,13:58:13",delivered,delivered,
+2197,"7/8/2014,13:34:19",delivered,delivered,
+2198,"10/26/2007,18:48:54",delivered,delivered,
+2199,"3/13/2010,13:20:08",delivered,delivered,
+2200,"7/28/2014,8:41:34",delivered,delivered,
+2201,"9/1/2005,7:50:18",delivered,delivered,
+2202,"6/21/2017,13:57:35",delivered,delivered,
+2203,"12/16/2014,8:55:15",delivered,delivered,
+2204,"10/5/2011,8:17:33",delivered,delivered,
+2205,"2/24/2014,11:11:18",delivered,delivered,
+2206,"6/7/2011,14:53:01",delivered,delivered,
+2207,"8/21/2011,10:09:51",delivered,delivered,
+2208,"4/30/2016,17:22:30",delivered,delivered,
+2209,"10/19/2014,7:33:00",delivered,delivered,
+2210,"11/7/2003,17:43:35",delivered,delivered,
+2211,"4/5/2011,17:40:03",delivered,delivered,
+2212,"2/9/2007,18:00:57",delivered,delivered,
+2213,"11/16/2002,7:26:59",delivered,delivered,
+2214,"2/9/2005,19:31:40",delivered,delivered,
+2215,"2/8/2011,12:20:27",delivered,delivered,
+2216,"6/28/2013,14:33:12",delivered,delivered,
+2217,"1/3/2005,16:54:49",delivered,delivered,
+2218,"2/1/2006,8:47:35",delivered,delivered,
+2219,"10/27/2005,8:44:19",delivered,delivered,
+2220,"12/28/2013,13:09:05",delivered,delivered,
+2221,"5/12/2006,15:31:51",delivered,delivered,
+2222,"9/12/2003,7:25:28",delivered,delivered,
+2223,"5/28/2009,12:58:18",delivered,delivered,
+2224,"9/6/2011,7:17:41",delivered,delivered,
+2225,"11/27/2001,9:52:28",delivered,delivered,
+2226,"5/22/2007,6:49:22",delivered,delivered,
+2227,"11/17/2008,19:32:07",delivered,delivered,
+2228,"3/12/2011,11:27:10",delivered,delivered,
+2229,"10/21/2016,17:40:03",delivered,delivered,
+2230,"7/16/2012,18:01:53",delivered,delivered,
+2231,"2/24/2008,8:59:47",delivered,delivered,
+2232,"9/21/2011,11:45:36",delivered,delivered,
+2233,"5/7/2009,13:35:54",delivered,delivered,
+2234,"11/16/2007,19:35:57",delivered,delivered,
+2235,"9/14/2005,18:34:09",delivered,delivered,
+2236,"5/20/2006,15:49:08",delivered,delivered,
+2237,"2/25/2017,11:10:02",delivered,delivered,
+2238,"1/9/2009,13:40:21",delivered,delivered,
+2239,"9/16/2017,11:38:17",delivered,delivered,
+2240,"5/19/2014,14:02:48",delivered,delivered,
+2241,"3/9/2012,9:11:24",delivered,delivered,
+2242,"4/3/2015,10:51:40",delivered,delivered,
+2243,"5/6/2014,12:50:46",delivered,delivered,
+2244,"4/17/2010,9:31:24",delivered,delivered,
+2245,"12/22/2005,13:28:55",delivered,delivered,
+2246,"2/15/2006,18:45:45",delivered,delivered,
+2247,"7/24/2001,11:24:14",delivered,delivered,
+2248,"10/27/2005,13:38:57",delivered,delivered,
+2249,"11/28/2006,15:44:38",delivered,delivered,
+2250,"1/16/2005,12:34:37",delivered,delivered,
+2251,"7/2/2005,16:55:15",delivered,delivered,
+2252,"9/7/2011,9:50:05",delivered,delivered,
+2253,"2/5/2009,8:54:23",delivered,delivered,
+2254,"11/10/2003,18:55:18",delivered,delivered,
+2255,"8/14/2003,19:54:54",delivered,delivered,
+2256,"6/30/2006,6:45:37",delivered,delivered,
+2257,"4/15/2007,9:44:50",delivered,delivered,
+2258,"10/13/2008,16:23:26",delivered,delivered,
+2259,"5/29/2017,11:54:09",delivered,delivered,
+2260,"5/26/2016,10:23:02",delivered,delivered,
+2261,"2/25/2002,12:02:31",delivered,delivered,
+2262,"7/6/2004,13:30:31",delivered,delivered,
+2263,"7/18/2017,7:03:53",delivered,delivered,
+2264,"6/5/2004,6:43:26",delivered,delivered,
+2265,"10/20/2016,14:31:26",delivered,delivered,
+2266,"3/21/2013,15:31:11",delivered,delivered,
+2267,"9/8/2018,14:34:37",delivered,delivered,
+2268,"11/29/2013,18:49:41",delivered,delivered,
+2269,"1/29/2007,14:22:42",delivered,delivered,
+2270,"1/18/2007,7:18:38",delivered,delivered,
+2271,"3/5/2002,10:24:16",delivered,delivered,
+2272,"1/1/2009,17:13:13",delivered,delivered,
+2273,"9/23/2015,14:37:25",delivered,delivered,
+2274,"6/4/2008,15:19:29",delivered,delivered,
+2275,"12/7/2010,14:50:32",delivered,delivered,
+2276,"4/16/2008,8:34:13",delivered,delivered,
+2277,"9/20/2014,12:00:35",delivered,delivered,
+2278,"2/22/2004,10:19:47",delivered,delivered,
+2279,"2/2/2003,6:59:01",delivered,delivered,
+2280,"9/7/2010,10:41:04",delivered,delivered,
+2281,"2/26/2009,18:30:42",delivered,delivered,
+2282,"1/28/2010,9:31:27",delivered,delivered,
+2283,"9/4/2015,14:08:11",delivered,delivered,
+2284,"1/22/2015,8:00:03",delivered,delivered,
+2285,"11/29/2001,15:55:01",delivered,delivered,
+2286,"12/13/2007,6:09:24",delivered,delivered,
+2287,"10/12/2005,18:52:52",delivered,delivered,
+2288,"6/13/2016,14:10:52",delivered,delivered,
+2289,"6/28/2011,13:15:03",delivered,delivered,
+2290,"8/7/2003,10:22:04",delivered,delivered,
+2291,"7/7/2001,13:36:17",delivered,delivered,
+2292,"7/1/2003,14:44:50",delivered,delivered,
+2293,"1/23/2009,12:39:19",delivered,delivered,
+2294,"12/29/2013,6:00:12",delivered,delivered,
+2295,"7/4/2018,9:10:58",delivered,delivered,
+2296,"12/24/2010,19:38:23",delivered,delivered,
+2297,"3/1/2015,13:26:48",delivered,delivered,
+2298,"12/14/2004,13:39:26",delivered,delivered,
+2299,"1/1/2007,13:34:52",delivered,delivered,
+2300,"6/25/2002,11:01:40",delivered,delivered,
+2301,"6/8/2009,7:30:50",delivered,delivered,
+2302,"6/2/2017,8:02:58",delivered,delivered,
+2303,"4/19/2002,13:20:06",delivered,delivered,
+2304,"12/18/2005,15:37:52",delivered,delivered,
+2305,"11/26/2014,7:16:31",delivered,delivered,
+2306,"3/2/2002,13:59:21",delivered,delivered,
+2307,"9/15/2015,12:06:11",delivered,delivered,
+2308,"7/3/2001,9:54:02",delivered,delivered,
+2309,"3/23/2010,11:15:07",delivered,delivered,
+2310,"11/4/2008,7:47:34",delivered,delivered,
+2311,"12/4/2016,19:23:28",delivered,delivered,
+2312,"10/25/2016,10:55:37",delivered,delivered,
+2313,"3/5/2002,18:33:56",delivered,delivered,
+2314,"11/21/2002,13:24:35",delivered,delivered,
+2315,"11/9/2009,12:29:14",delivered,delivered,
+2316,"1/7/2011,17:04:02",delivered,delivered,
+2317,"5/5/2015,6:54:36",delivered,delivered,
+2318,"7/29/2011,14:25:35",delivered,delivered,
+2319,"1/4/2013,12:08:09",delivered,delivered,
+2320,"6/23/2003,13:20:15",delivered,delivered,
+2321,"2/18/2018,12:16:35",delivered,delivered,
+2322,"4/21/2011,13:55:42",delivered,delivered,
+2323,"10/12/2014,17:47:56",delivered,delivered,
+2324,"5/23/2011,18:00:40",delivered,delivered,
+2325,"8/8/2016,11:41:38",delivered,delivered,
+2326,"3/31/2011,13:02:52",delivered,delivered,
+2327,"6/18/2018,14:15:54",delivered,delivered,
+2328,"10/25/2008,18:15:44",delivered,delivered,
+2329,"4/12/2002,6:49:50",delivered,delivered,
+2330,"5/3/2018,18:31:27",delivered,delivered,
+2331,"7/24/2010,10:17:13",delivered,delivered,
+2332,"7/9/2007,16:58:35",delivered,delivered,
+2333,"1/28/2013,17:52:47",delivered,delivered,
+2334,"3/16/2007,7:44:32",delivered,delivered,
+2335,"6/27/2004,8:19:25",delivered,delivered,
+2336,"1/12/2010,10:51:06",delivered,delivered,
+2337,"8/23/2015,16:54:14",delivered,delivered,
+2338,"5/2/2006,16:10:00",delivered,delivered,
+2339,"8/27/2017,9:02:52",delivered,delivered,
+2340,"10/5/2017,15:16:32",delivered,delivered,
+2341,"5/5/2009,11:03:10",delivered,delivered,
+2342,"4/27/2007,13:10:39",delivered,delivered,
+2343,"8/24/2011,9:48:16",delivered,delivered,
+2344,"7/19/2012,15:59:38",delivered,delivered,
+2345,"4/2/2014,8:25:34",delivered,delivered,
+2346,"6/5/2014,18:20:44",delivered,delivered,
+2347,"11/29/2007,10:08:14",delivered,delivered,
+2348,"12/21/2009,17:23:19",delivered,delivered,
+2349,"11/6/2002,18:28:03",delivered,delivered,
+2350,"7/13/2007,15:38:54",delivered,delivered,
+2351,"4/2/2010,15:47:27",delivered,delivered,
+2352,"4/6/2018,16:56:58",delivered,delivered,
+2353,"5/11/2016,12:51:55",delivered,delivered,
+2354,"7/10/2004,6:48:28",delivered,delivered,
+2355,"7/25/2011,13:44:45",delivered,delivered,
+2356,"12/23/2012,17:57:51",delivered,delivered,
+2357,"8/19/2010,10:31:56",delivered,delivered,
+2358,"8/13/2007,14:02:25",delivered,delivered,
+2359,"5/23/2016,10:07:51",delivered,delivered,
+2360,"5/6/2007,19:49:19",delivered,delivered,
+2361,"3/22/2003,18:04:40",delivered,delivered,
+2362,"1/4/2016,9:18:24",delivered,delivered,
+2363,"12/6/2006,13:18:51",delivered,delivered,
+2364,"7/15/2006,19:17:14",delivered,delivered,
+2365,"2/23/2008,8:46:54",delivered,delivered,
+2366,"5/24/2017,14:17:44",delivered,delivered,
+2367,"4/4/2008,19:56:47",delivered,delivered,
+2368,"11/22/2018,15:40:39",delivered,delivered,
+2369,"12/19/2001,9:04:52",delivered,delivered,
+2370,"1/12/2016,19:27:27",delivered,delivered,
+2371,"3/14/2003,7:46:24",delivered,delivered,
+2372,"8/29/2014,10:32:30",delivered,delivered,
+2373,"1/7/2009,19:51:18",delivered,delivered,
+2374,"10/22/2003,10:24:07",delivered,delivered,
+2375,"6/19/2011,16:52:53",delivered,delivered,
+2376,"9/16/2010,17:37:31",delivered,delivered,
+2377,"4/14/2008,9:55:34",delivered,delivered,
+2378,"4/6/2015,15:27:47",delivered,delivered,
+2379,"6/3/2012,7:31:45",delivered,delivered,
+2380,"2/14/2013,15:36:29",delivered,delivered,
+2381,"11/2/2018,17:25:39",delivered,delivered,
+2382,"5/2/2001,10:59:10",delivered,delivered,
+2383,"5/29/2005,10:21:43",delivered,delivered,
+2384,"5/2/2009,7:06:44",delivered,delivered,
+2385,"10/20/2011,9:28:58",delivered,delivered,
+2386,"9/30/2001,13:44:27",delivered,delivered,
+2387,"4/28/2012,13:10:34",delivered,delivered,
+2388,"4/28/2015,10:29:03",delivered,delivered,
+2389,"5/23/2011,19:51:56",delivered,delivered,
+2390,"8/17/2005,13:37:43",delivered,delivered,
+2391,"12/3/2009,16:17:51",delivered,delivered,
+2392,"3/1/2013,13:40:12",delivered,delivered,
+2393,"11/4/2010,7:25:23",delivered,delivered,
+2394,"6/20/2007,17:36:14",delivered,delivered,
+2395,"5/9/2002,16:58:02",delivered,delivered,
+2396,"2/14/2008,17:11:41",delivered,delivered,
+2397,"6/19/2017,17:20:52",delivered,delivered,
+2398,"4/14/2012,19:40:10",delivered,delivered,
+2399,"11/28/2010,18:20:09",delivered,delivered,
+2400,"2/21/2012,8:16:12",delivered,delivered,
+2401,"10/24/2018,11:43:13",delivered,delivered,
+2402,"1/13/2008,6:45:16",delivered,delivered,
+2403,"7/29/2003,10:24:07",delivered,delivered,
+2404,"11/26/2002,14:13:01",delivered,delivered,
+2405,"10/26/2017,6:44:41",delivered,delivered,
+2406,"3/26/2002,18:44:25",delivered,delivered,
+2407,"5/21/2012,11:27:49",delivered,delivered,
+2408,"2/1/2017,14:43:29",delivered,delivered,
+2409,"11/20/2015,16:37:43",delivered,delivered,
+2410,"10/6/2008,14:55:06",delivered,delivered,
+2411,"11/14/2003,12:36:45",delivered,delivered,
+2412,"12/9/2009,10:57:12",delivered,delivered,
+2413,"6/22/2014,7:14:57",delivered,delivered,
+2414,"5/4/2008,6:57:12",delivered,delivered,
+2415,"12/15/2013,18:45:23",delivered,delivered,
+2416,"5/18/2009,13:51:31",delivered,delivered,
+2417,"4/25/2017,14:13:45",delivered,delivered,
+2418,"5/18/2002,18:19:28",delivered,delivered,
+2419,"3/21/2015,13:30:33",delivered,delivered,
+2420,"8/27/2012,13:32:11",delivered,delivered,
+2421,"12/23/2011,8:43:58",delivered,delivered,
+2422,"1/19/2003,11:34:06",delivered,delivered,
+2423,"12/10/2004,14:17:08",delivered,delivered,
+2424,"10/9/2001,10:09:27",delivered,delivered,
+2425,"9/26/2012,12:02:42",delivered,delivered,
+2426,"9/30/2003,12:34:45",delivered,delivered,
+2427,"8/8/2018,13:27:40",delivered,delivered,
+2428,"7/8/2007,7:24:47",delivered,delivered,
+2429,"5/7/2014,7:06:01",delivered,delivered,
+2430,"11/9/2017,16:13:39",delivered,delivered,
+2431,"12/20/2007,18:35:24",delivered,delivered,
+2432,"10/1/2008,14:35:36",delivered,delivered,
+2433,"12/19/2003,8:25:53",delivered,delivered,
+2434,"2/9/2014,8:12:19",delivered,delivered,
+2435,"11/21/2006,6:07:05",delivered,delivered,
+2436,"11/24/2005,12:03:45",delivered,delivered,
+2437,"9/13/2001,6:51:26",delivered,delivered,
+2438,"11/19/2018,13:10:48",delivered,delivered,
+2439,"8/27/2003,13:02:21",delivered,delivered,
+2440,"6/12/2010,15:11:54",delivered,delivered,
+2441,"1/15/2013,11:57:28",delivered,delivered,
+2442,"1/16/2016,9:09:02",delivered,delivered,
+2443,"4/19/2014,6:18:39",delivered,delivered,
+2444,"11/2/2002,17:37:58",delivered,delivered,
+2445,"12/22/2013,14:06:44",delivered,delivered,
+2446,"1/18/2008,10:39:06",delivered,delivered,
+2447,"3/9/2006,7:34:39",delivered,delivered,
+2448,"9/2/2016,19:12:13",delivered,delivered,
+2449,"10/9/2018,14:49:40",delivered,delivered,
+2450,"7/31/2010,13:14:16",delivered,delivered,
+2451,"9/6/2014,8:33:32",delivered,delivered,
+2452,"8/31/2001,9:30:22",delivered,delivered,
+2453,"8/5/2016,15:32:23",delivered,delivered,
+2454,"7/29/2017,15:31:41",delivered,delivered,
+2455,"2/24/2018,16:51:00",delivered,delivered,
+2456,"5/27/2018,16:01:05",delivered,delivered,
+2457,"12/29/2008,6:33:56",delivered,delivered,
+2458,"3/4/2005,11:57:43",delivered,delivered,
+2459,"2/18/2013,18:17:37",delivered,delivered,
+2460,"10/31/2016,6:38:50",delivered,delivered,
+2461,"4/20/2004,12:32:12",delivered,delivered,
+2462,"11/18/2001,8:19:19",delivered,delivered,
+2463,"8/25/2005,12:30:20",delivered,delivered,
+2464,"5/19/2005,19:42:49",delivered,delivered,
+2465,"3/26/2004,15:07:24",delivered,delivered,
+2466,"10/17/2009,11:28:20",delivered,delivered,
+2467,"1/29/2005,19:37:09",delivered,delivered,
+2468,"9/4/2009,12:59:10",delivered,delivered,
+2469,"4/18/2004,8:36:39",delivered,delivered,
+2470,"10/8/2009,9:57:54",delivered,delivered,
+2471,"1/4/2002,8:22:59",delivered,delivered,
+2472,"5/11/2008,15:37:16",delivered,delivered,
+2473,"11/13/2013,13:26:24",delivered,delivered,
+2474,"10/23/2011,9:50:13",delivered,delivered,
+2475,"12/10/2017,7:10:20",delivered,delivered,
+2476,"5/11/2016,17:37:15",delivered,delivered,
+2477,"8/1/2009,16:58:18",delivered,delivered,
+2478,"4/3/2017,17:05:52",delivered,delivered,
+2479,"6/7/2002,9:26:26",delivered,delivered,
+2480,"10/9/2013,11:58:31",delivered,delivered,
+2481,"2/27/2018,17:53:30",delivered,delivered,
+2482,"3/8/2015,15:18:11",delivered,delivered,
+2483,"10/31/2009,19:57:28",delivered,delivered,
+2484,"3/9/2009,12:52:25",delivered,delivered,
+2485,"7/28/2013,13:32:12",delivered,delivered,
+2486,"1/21/2016,15:43:15",delivered,delivered,
+2487,"8/4/2009,17:58:39",delivered,delivered,
+2488,"12/17/2010,17:15:01",delivered,delivered,
+2489,"5/11/2012,16:30:41",delivered,delivered,
+2490,"1/22/2001,9:20:27",delivered,delivered,
+2491,"11/16/2005,18:17:55",delivered,delivered,
+2492,"1/29/2006,19:03:32",delivered,delivered,
+2493,"5/23/2004,7:32:01",delivered,delivered,
+2494,"5/28/2009,8:45:16",delivered,delivered,
+2495,"6/26/2015,13:01:20",delivered,delivered,
+2496,"10/29/2018,11:04:13",delivered,delivered,
+2497,"4/29/2006,8:01:14",delivered,delivered,
+2498,"8/24/2016,11:39:26",delivered,delivered,
+2499,"11/30/2008,16:22:01",delivered,delivered,
+2500,"6/16/2010,13:21:13",delivered,delivered,
+2501,"3/21/2014,6:33:57",delivered,delivered,
+2502,"7/14/2015,7:01:19",delivered,delivered,
+2503,"2/3/2005,6:40:15",delivered,delivered,
+2504,"9/24/2016,16:53:27",delivered,delivered,
+2505,"5/28/2018,10:07:33",delivered,delivered,
+2506,"4/17/2013,16:12:33",delivered,delivered,
+2507,"6/10/2016,15:42:40",delivered,delivered,
+2508,"6/25/2002,10:38:19",delivered,delivered,
+2509,"8/11/2002,17:31:01",delivered,delivered,
+2510,"9/20/2012,8:14:57",delivered,delivered,
+2511,"2/13/2015,14:46:08",delivered,delivered,
+2512,"1/1/2006,18:00:20",delivered,delivered,
+2513,"4/18/2006,16:07:30",delivered,delivered,
+2514,"9/6/2016,10:19:06",delivered,delivered,
+2515,"4/27/2003,19:33:02",delivered,delivered,
+2516,"5/20/2003,8:04:29",delivered,delivered,
+2517,"7/6/2011,16:12:43",delivered,delivered,
+2518,"2/11/2018,19:29:07",delivered,delivered,
+2519,"12/2/2005,16:39:15",delivered,delivered,
+2520,"5/4/2014,9:07:17",delivered,delivered,
+2521,"9/21/2008,7:52:31",delivered,delivered,
+2522,"8/29/2003,10:00:21",delivered,delivered,
+2523,"8/26/2002,13:04:40",delivered,delivered,
+2524,"2/10/2008,16:45:21",delivered,delivered,
+2525,"8/19/2012,11:04:05",delivered,delivered,
+2526,"1/1/2008,10:20:39",delivered,delivered,
+2527,"10/28/2001,11:42:04",delivered,delivered,
+2528,"11/11/2018,12:11:44",delivered,delivered,
+2529,"12/29/2000,15:43:33",delivered,delivered,
+2530,"6/17/2003,17:59:56",delivered,delivered,
+2531,"10/14/2013,17:30:32",delivered,delivered,
+2532,"6/18/2016,9:08:45",delivered,delivered,
+2533,"3/11/2008,13:06:34",delivered,delivered,
+2534,"5/26/2008,12:15:32",delivered,delivered,
+2535,"5/31/2014,19:36:25",delivered,delivered,
+2536,"10/14/2016,14:22:40",delivered,delivered,
+2537,"10/14/2010,6:33:14",delivered,delivered,
+2538,"7/12/2017,14:47:38",delivered,delivered,
+2539,"4/11/2002,16:46:31",delivered,delivered,
+2540,"6/16/2014,16:26:09",delivered,delivered,
+2541,"4/10/2006,18:42:29",delivered,delivered,
+2542,"9/29/2003,10:49:46",delivered,delivered,
+2543,"1/6/2005,10:47:03",delivered,delivered,
+2544,"10/23/2017,13:35:29",delivered,delivered,
+2545,"11/21/2015,6:16:24",delivered,delivered,
+2546,"9/18/2013,17:03:58",delivered,delivered,
+2547,"4/7/2003,10:35:20",delivered,delivered,
+2548,"10/16/2004,15:14:05",delivered,delivered,
+2549,"7/25/2006,15:10:58",delivered,delivered,
+2550,"5/3/2009,18:20:34",delivered,delivered,
+2551,"9/18/2009,18:54:59",delivered,delivered,
+2552,"6/23/2010,9:43:01",delivered,delivered,
+2553,"6/19/2005,11:06:51",delivered,delivered,
+2554,"11/30/2003,16:51:26",delivered,delivered,
+2555,"12/20/2008,17:52:24",delivered,delivered,
+2556,"9/3/2007,15:33:00",delivered,delivered,
+2557,"11/10/2001,18:32:42",delivered,delivered,
+2558,"9/26/2005,14:11:06",delivered,delivered,
+2559,"10/7/2010,10:59:14",delivered,delivered,
+2560,"11/19/2018,7:56:30",delivered,delivered,
+2561,"5/1/2015,6:53:04",delivered,delivered,
+2562,"1/26/2010,16:00:24",delivered,delivered,
+2563,"1/27/2005,13:38:09",delivered,delivered,
+2564,"6/16/2017,11:50:31",delivered,delivered,
+2565,"4/28/2006,18:04:33",delivered,delivered,
+2566,"5/9/2017,17:41:31",delivered,delivered,
+2567,"12/8/2002,10:13:32",delivered,delivered,
+2568,"8/20/2017,7:49:37",delivered,delivered,
+2569,"10/23/2016,15:54:05",delivered,delivered,
+2570,"2/26/2007,6:07:55",delivered,delivered,
+2571,"11/13/2009,13:43:04",delivered,delivered,
+2572,"6/22/2003,12:37:07",delivered,delivered,
+2573,"8/2/2018,17:17:44",delivered,delivered,
+2574,"6/2/2004,17:42:06",delivered,delivered,
+2575,"8/30/2007,16:29:36",delivered,delivered,
+2576,"2/2/2016,11:50:25",delivered,delivered,
+2577,"10/27/2017,17:42:19",delivered,delivered,
+2578,"1/6/2012,9:13:22",delivered,delivered,
+2579,"5/25/2016,7:25:51",delivered,delivered,
+2580,"4/4/2006,13:44:03",delivered,delivered,
+2581,"4/17/2015,7:12:21",delivered,delivered,
+2582,"4/11/2010,16:09:22",delivered,delivered,
+2583,"6/30/2006,15:18:32",delivered,delivered,
+2584,"7/9/2011,18:50:00",delivered,delivered,
+2585,"10/5/2003,8:48:42",delivered,delivered,
+2586,"12/28/2003,11:04:12",delivered,delivered,
+2587,"3/17/2016,10:03:04",delivered,delivered,
+2588,"12/14/2001,15:33:35",delivered,delivered,
+2589,"12/24/2001,17:11:03",delivered,delivered,
+2590,"10/31/2006,16:03:04",delivered,delivered,
+2591,"6/27/2009,12:40:44",delivered,delivered,
+2592,"3/10/2013,9:29:29",delivered,delivered,
+2593,"12/12/2012,14:20:07",delivered,delivered,
+2594,"2/15/2018,18:31:12",delivered,delivered,
+2595,"1/3/2007,8:42:56",delivered,delivered,
+2596,"8/8/2003,15:24:54",delivered,delivered,
+2597,"4/27/2012,14:09:50",delivered,delivered,
+2598,"7/6/2008,12:31:11",delivered,delivered,
+2599,"10/29/2004,7:25:28",delivered,delivered,
+2600,"12/30/2000,19:07:08",delivered,delivered,
+2601,"3/8/2001,19:25:24",delivered,delivered,
+2602,"7/1/2008,17:40:06",delivered,delivered,
+2603,"12/20/2005,17:10:45",delivered,delivered,
+2604,"4/4/2002,10:02:56",delivered,delivered,
+2605,"9/18/2001,6:09:55",delivered,delivered,
+2606,"3/15/2008,13:42:51",delivered,delivered,
+2607,"11/23/2010,11:33:15",delivered,delivered,
+2608,"11/16/2004,17:43:43",delivered,delivered,
+2609,"12/18/2004,18:57:24",delivered,delivered,
+2610,"3/20/2012,6:45:52",delivered,delivered,
+2611,"1/17/2011,6:12:49",delivered,delivered,
+2612,"10/12/2004,7:58:13",delivered,delivered,
+2613,"2/4/2010,13:03:53",delivered,delivered,
+2614,"6/26/2012,7:33:46",delivered,delivered,
+2615,"10/4/2006,11:16:22",delivered,delivered,
+2616,"10/12/2012,10:17:40",delivered,delivered,
+2617,"7/5/2013,17:59:39",delivered,delivered,
+2618,"12/11/2012,17:06:08",delivered,delivered,
+2619,"6/8/2001,14:59:56",delivered,delivered,
+2620,"4/24/2015,11:13:23",delivered,delivered,
+2621,"1/19/2001,11:18:54",delivered,delivered,
+2622,"11/10/2004,16:47:59",delivered,delivered,
+2623,"6/12/2008,6:43:49",delivered,delivered,
+2624,"3/17/2011,19:57:16",delivered,delivered,
+2625,"12/30/2016,11:09:31",delivered,delivered,
+2626,"2/22/2001,6:36:16",delivered,delivered,
+2627,"2/11/2014,11:32:00",delivered,delivered,
+2628,"11/10/2004,7:32:55",delivered,delivered,
+2629,"5/30/2001,13:26:06",delivered,delivered,
+2630,"12/6/2004,15:15:29",delivered,delivered,
+2631,"10/28/2003,17:02:20",delivered,delivered,
+2632,"2/29/2012,7:51:10",delivered,delivered,
+2633,"5/15/2017,10:45:16",delivered,delivered,
+2634,"12/16/2008,12:00:23",delivered,delivered,
+2635,"2/1/2018,12:52:51",delivered,delivered,
+2636,"2/16/2017,11:36:37",delivered,delivered,
+2637,"8/13/2009,11:54:12",delivered,delivered,
+2638,"6/2/2018,13:49:14",delivered,delivered,
+2639,"1/21/2005,9:59:32",delivered,delivered,
+2640,"1/28/2018,10:04:25",delivered,delivered,
+2641,"12/31/2000,14:47:45",delivered,delivered,
+2642,"4/1/2004,11:52:53",delivered,delivered,
+2643,"6/24/2005,16:16:51",delivered,delivered,
+2644,"1/10/2009,14:45:50",delivered,delivered,
+2645,"6/3/2006,8:41:15",delivered,delivered,
+2646,"9/20/2005,18:40:05",delivered,delivered,
+2647,"9/16/2002,15:57:25",delivered,delivered,
+2648,"7/26/2018,16:35:33",delivered,delivered,
+2649,"8/4/2009,16:58:05",delivered,delivered,
+2650,"6/3/2005,9:02:17",delivered,delivered,
+2651,"8/31/2006,6:02:50",delivered,delivered,
+2652,"10/3/2004,11:04:24",delivered,delivered,
+2653,"6/10/2004,18:31:56",delivered,delivered,
+2654,"5/21/2014,18:05:30",delivered,delivered,
+2655,"6/13/2016,10:58:29",delivered,delivered,
+2656,"1/2/2011,10:27:37",delivered,delivered,
+2657,"11/28/2016,18:19:38",delivered,delivered,
+2658,"5/22/2007,9:32:49",delivered,delivered,
+2659,"12/27/2000,19:54:43",delivered,delivered,
+2660,"6/22/2001,12:01:02",delivered,delivered,
+2661,"6/29/2015,10:00:40",delivered,delivered,
+2662,"2/8/2015,10:31:46",delivered,delivered,
+2663,"6/19/2002,7:46:59",delivered,delivered,
+2664,"8/9/2016,6:42:54",delivered,delivered,
+2665,"9/23/2015,7:29:10",delivered,delivered,
+2666,"4/10/2005,15:39:53",delivered,delivered,
+2667,"7/31/2011,13:24:47",delivered,delivered,
+2668,"5/19/2011,16:34:35",delivered,delivered,
+2669,"4/14/2001,16:37:31",delivered,delivered,
+2670,"10/17/2007,19:55:35",delivered,delivered,
+2671,"2/4/2016,12:56:51",delivered,delivered,
+2672,"3/12/2002,9:05:37",delivered,delivered,
+2673,"1/26/2008,11:08:17",delivered,delivered,
+2674,"2/18/2018,10:42:09",delivered,delivered,
+2675,"12/16/2006,14:35:28",delivered,delivered,
+2676,"4/4/2014,10:41:38",delivered,delivered,
+2677,"1/17/2008,19:02:55",delivered,delivered,
+2678,"11/3/2008,10:09:02",delivered,delivered,
+2679,"4/23/2012,18:05:32",delivered,delivered,
+2680,"4/23/2009,8:50:53",delivered,delivered,
+2681,"11/4/2003,9:24:32",delivered,delivered,
+2682,"1/13/2016,13:09:08",delivered,delivered,
+2683,"4/2/2008,10:50:11",delivered,delivered,
+2684,"12/27/2017,14:44:08",delivered,delivered,
+2685,"7/2/2017,15:23:42",delivered,delivered,
+2686,"2/9/2003,8:20:28",delivered,delivered,
+2687,"1/5/2006,17:32:21",delivered,delivered,
+2688,"12/11/2014,16:21:45",delivered,delivered,
+2689,"6/14/2011,9:12:21",delivered,delivered,
+2690,"5/2/2008,18:04:16",delivered,delivered,
+2691,"2/11/2002,16:22:23",delivered,delivered,
+2692,"9/2/2012,8:58:54",delivered,delivered,
+2693,"5/9/2007,17:27:39",delivered,delivered,
+2694,"9/8/2014,11:52:43",delivered,delivered,
+2695,"8/13/2009,17:44:55",delivered,delivered,
+2696,"12/21/2008,11:32:19",delivered,delivered,
+2697,"8/1/2014,11:26:39",delivered,delivered,
+2698,"3/26/2003,8:01:30",delivered,delivered,
+2699,"11/30/2017,18:38:38",delivered,delivered,
+2700,"12/20/2014,11:03:29",delivered,delivered,
+2701,"8/27/2014,11:30:18",delivered,delivered,
+2702,"2/21/2006,15:21:20",delivered,delivered,
+2703,"8/28/2006,16:34:51",delivered,delivered,
+2704,"4/10/2012,18:08:08",delivered,delivered,
+2705,"10/28/2012,13:43:42",delivered,delivered,
+2706,"8/30/2010,19:06:20",delivered,delivered,
+2707,"8/1/2013,14:54:21",delivered,delivered,
+2708,"10/23/2016,13:35:28",delivered,delivered,
+2709,"10/28/2011,18:30:38",delivered,delivered,
+2710,"9/22/2011,7:01:48",delivered,delivered,
+2711,"12/17/2002,15:03:57",delivered,delivered,
+2712,"12/24/2004,8:27:56",delivered,delivered,
+2713,"2/5/2011,15:10:49",delivered,delivered,
+2714,"12/27/2004,6:34:01",delivered,delivered,
+2715,"8/9/2018,9:29:29",delivered,delivered,
+2716,"6/14/2018,9:48:06",delivered,delivered,
+2717,"7/31/2016,14:16:34",delivered,delivered,
+2718,"1/20/2009,11:48:26",delivered,delivered,
+2719,"12/3/2003,7:48:48",delivered,delivered,
+2720,"12/5/2004,8:52:38",delivered,delivered,
+2721,"10/1/2017,9:46:40",delivered,delivered,
+2722,"10/14/2006,17:23:11",delivered,delivered,
+2723,"7/25/2001,15:01:47",delivered,delivered,
+2724,"6/4/2013,18:30:32",delivered,delivered,
+2725,"7/27/2001,10:34:38",delivered,delivered,
+2726,"1/5/2001,13:25:10",delivered,delivered,
+2727,"4/8/2001,7:16:47",delivered,delivered,
+2728,"12/14/2014,15:57:14",delivered,delivered,
+2729,"9/14/2013,17:25:25",delivered,delivered,
+2730,"6/1/2002,9:19:38",delivered,delivered,
+2731,"12/17/2013,12:32:14",delivered,delivered,
+2732,"1/7/2003,19:27:04",delivered,delivered,
+2733,"10/2/2008,17:51:04",delivered,delivered,
+2734,"3/19/2008,9:01:49",delivered,delivered,
+2735,"10/2/2013,17:13:24",delivered,delivered,
+2736,"5/18/2007,6:10:05",delivered,delivered,
+2737,"1/31/2016,11:02:29",delivered,delivered,
+2738,"7/14/2014,16:52:04",delivered,delivered,
+2739,"12/18/2016,16:33:13",delivered,delivered,
+2740,"2/21/2009,9:44:37",delivered,delivered,
+2741,"1/2/2010,15:03:03",delivered,delivered,
+2742,"4/16/2008,14:57:34",delivered,delivered,
+2743,"9/9/2002,7:16:14",delivered,delivered,
+2744,"11/29/2003,17:50:02",delivered,delivered,
+2745,"9/24/2006,12:54:03",delivered,delivered,
+2746,"4/11/2017,19:25:15",delivered,delivered,
+2747,"7/1/2012,7:23:28",delivered,delivered,
+2748,"12/21/2002,15:44:36",delivered,delivered,
+2749,"3/10/2001,8:45:46",delivered,delivered,
+2750,"10/11/2002,15:07:44",delivered,delivered,
+2751,"1/5/2005,19:48:12",delivered,delivered,
+2752,"1/5/2010,17:32:58",delivered,delivered,
+2753,"3/5/2010,14:48:40",delivered,delivered,
+2754,"6/24/2007,6:15:51",delivered,delivered,
+2755,"10/17/2006,13:04:49",delivered,delivered,
+2756,"1/9/2015,16:20:06",delivered,delivered,
+2757,"11/15/2012,12:41:15",delivered,delivered,
+2758,"8/9/2016,9:01:28",delivered,delivered,
+2759,"11/11/2004,6:20:08",delivered,delivered,
+2760,"7/7/2011,10:36:06",delivered,delivered,
+2761,"1/26/2007,15:21:15",delivered,delivered,
+2762,"3/6/2002,9:45:36",delivered,delivered,
+2763,"5/10/2007,14:34:34",delivered,delivered,
+2764,"10/19/2002,7:36:42",delivered,delivered,
+2765,"6/4/2007,10:39:15",delivered,delivered,
+2766,"5/29/2018,19:05:37",delivered,delivered,
+2767,"5/7/2001,8:26:32",delivered,delivered,
+2768,"3/26/2001,14:42:55",delivered,delivered,
+2769,"2/15/2013,9:43:26",delivered,delivered,
+2770,"3/27/2009,8:17:16",delivered,delivered,
+2771,"9/7/2006,10:32:14",delivered,delivered,
+2772,"2/5/2004,7:41:47",delivered,delivered,
+2773,"9/9/2002,17:58:06",delivered,delivered,
+2774,"6/10/2008,7:36:25",delivered,delivered,
+2775,"11/19/2007,10:51:13",delivered,delivered,
+2776,"3/15/2004,9:03:54",delivered,delivered,
+2777,"10/28/2007,8:19:23",delivered,delivered,
+2778,"5/2/2015,9:00:27",delivered,delivered,
+2779,"2/24/2002,6:12:53",delivered,delivered,
+2780,"12/19/2008,6:23:56",delivered,delivered,
+2781,"9/17/2003,7:30:26",delivered,delivered,
+2782,"6/24/2011,14:45:48",delivered,delivered,
+2783,"12/4/2011,6:00:45",delivered,delivered,
+2784,"9/25/2006,8:43:55",delivered,delivered,
+2785,"8/8/2014,12:04:26",delivered,delivered,
+2786,"6/24/2003,13:15:22",delivered,delivered,
+2787,"7/27/2017,17:34:43",delivered,delivered,
+2788,"10/31/2001,8:46:59",delivered,delivered,
+2789,"10/16/2008,15:17:20",delivered,delivered,
+2790,"11/11/2002,10:42:25",delivered,delivered,
+2791,"2/20/2011,11:47:56",delivered,delivered,
+2792,"9/3/2002,17:05:53",delivered,delivered,
+2793,"5/8/2009,6:15:40",delivered,delivered,
+2794,"4/13/2015,19:58:26",delivered,delivered,
+2795,"3/3/2001,6:34:26",delivered,delivered,
+2796,"5/5/2009,18:35:17",delivered,delivered,
+2797,"2/19/2003,11:28:20",delivered,delivered,
+2798,"1/7/2006,8:05:48",delivered,delivered,
+2799,"11/9/2010,6:36:23",delivered,delivered,
+2800,"5/12/2008,17:05:29",delivered,delivered,
+2801,"2/27/2001,15:37:34",delivered,delivered,
+2802,"10/31/2010,14:52:11",delivered,delivered,
+2803,"1/7/2014,9:38:35",delivered,delivered,
+2804,"8/9/2014,17:10:48",delivered,delivered,
+2805,"7/30/2014,6:02:55",delivered,delivered,
+2806,"7/14/2005,16:09:36",delivered,delivered,
+2807,"6/21/2001,12:40:55",delivered,delivered,
+2808,"10/28/2003,10:23:11",delivered,delivered,
+2809,"4/1/2015,9:37:23",delivered,delivered,
+2810,"3/16/2003,10:26:20",delivered,delivered,
+2811,"4/17/2012,18:48:25",delivered,delivered,
+2812,"4/25/2012,11:58:32",delivered,delivered,
+2813,"7/17/2003,13:22:22",delivered,delivered,
+2814,"3/2/2017,8:29:52",delivered,delivered,
+2815,"2/21/2010,16:33:55",delivered,delivered,
+2816,"1/13/2012,10:38:13",delivered,delivered,
+2817,"4/21/2010,7:09:44",delivered,delivered,
+2818,"4/18/2012,15:06:04",delivered,delivered,
+2819,"3/18/2017,14:05:04",delivered,delivered,
+2820,"10/10/2013,14:03:44",delivered,delivered,
+2821,"4/27/2007,10:27:57",delivered,delivered,
+2822,"12/31/2004,13:41:38",delivered,delivered,
+2823,"9/1/2015,6:23:45",delivered,delivered,
+2824,"2/24/2014,11:38:48",delivered,delivered,
+2825,"7/14/2010,15:27:03",delivered,delivered,
+2826,"5/14/2002,15:04:57",delivered,delivered,
+2827,"4/30/2008,16:43:13",delivered,delivered,
+2828,"12/28/2003,6:30:29",delivered,delivered,
+2829,"1/8/2013,18:57:31",delivered,delivered,
+2830,"9/10/2006,19:56:15",delivered,delivered,
+2831,"4/2/2012,12:45:29",delivered,delivered,
+2832,"7/12/2008,16:36:07",delivered,delivered,
+2833,"7/11/2007,14:37:18",delivered,delivered,
+2834,"2/7/2009,17:51:25",delivered,delivered,
+2835,"5/8/2015,13:13:22",delivered,delivered,
+2836,"3/27/2014,9:10:53",delivered,delivered,
+2837,"5/1/2010,17:30:03",delivered,delivered,
+2838,"1/9/2008,8:07:00",delivered,delivered,
+2839,"6/15/2006,11:53:27",delivered,delivered,
+2840,"11/21/2005,7:23:18",delivered,delivered,
+2841,"9/29/2016,16:52:58",delivered,delivered,
+2842,"5/29/2008,13:50:11",delivered,delivered,
+2843,"7/31/2006,11:25:20",delivered,delivered,
+2844,"8/19/2005,6:35:22",delivered,delivered,
+2845,"9/26/2013,8:01:52",delivered,delivered,
+2846,"6/4/2006,17:02:33",delivered,delivered,
+2847,"6/9/2001,18:42:01",delivered,delivered,
+2848,"1/5/2008,16:54:20",delivered,delivered,
+2849,"12/12/2004,13:01:38",delivered,delivered,
+2850,"2/26/2001,19:27:17",delivered,delivered,
+2851,"12/6/2016,16:04:53",delivered,delivered,
+2852,"5/4/2009,14:30:55",delivered,delivered,
+2853,"9/21/2008,16:48:09",delivered,delivered,
+2854,"3/6/2006,11:07:08",delivered,delivered,
+2855,"2/14/2008,6:44:32",delivered,delivered,
+2856,"12/12/2002,11:39:00",delivered,delivered,
+2857,"9/17/2006,7:55:08",delivered,delivered,
+2858,"5/16/2016,19:30:41",delivered,delivered,
+2859,"3/24/2012,18:08:16",delivered,delivered,
+2860,"9/19/2012,8:37:57",delivered,delivered,
+2861,"2/13/2015,8:49:09",delivered,delivered,
+2862,"1/23/2011,8:23:13",delivered,delivered,
+2863,"7/31/2013,10:00:45",delivered,delivered,
+2864,"4/23/2005,19:05:28",delivered,delivered,
+2865,"9/17/2018,12:12:54",delivered,delivered,
+2866,"8/31/2012,13:14:04",delivered,delivered,
+2867,"1/23/2014,9:09:27",delivered,delivered,
+2868,"4/29/2014,9:27:53",delivered,delivered,
+2869,"9/25/2010,6:11:10",delivered,delivered,
+2870,"10/11/2002,6:29:09",delivered,delivered,
+2871,"2/26/2003,16:20:07",delivered,delivered,
+2872,"10/31/2015,10:03:44",delivered,delivered,
+2873,"1/4/2004,12:45:49",delivered,delivered,
+2874,"12/13/2002,19:44:47",delivered,delivered,
+2875,"7/7/2016,11:16:03",delivered,delivered,
+2876,"8/7/2010,8:24:26",delivered,delivered,
+2877,"10/9/2007,16:00:51",delivered,delivered,
+2878,"1/1/2002,19:09:41",delivered,delivered,
+2879,"4/29/2003,13:04:42",delivered,delivered,
+2880,"1/14/2008,10:29:44",delivered,delivered,
+2881,"1/27/2006,7:08:15",delivered,delivered,
+2882,"4/5/2018,14:17:31",delivered,delivered,
+2883,"10/25/2007,9:14:19",delivered,delivered,
+2884,"1/16/2004,7:54:21",delivered,delivered,
+2885,"6/25/2012,18:44:17",delivered,delivered,
+2886,"8/22/2015,18:16:54",delivered,delivered,
+2887,"12/31/2015,11:12:48",delivered,delivered,
+2888,"1/19/2013,19:24:18",delivered,delivered,
+2889,"12/24/2017,10:55:00",delivered,delivered,
+2890,"6/27/2014,19:01:56",delivered,delivered,
+2891,"12/19/2011,18:04:46",delivered,delivered,
+2892,"2/2/2002,16:36:26",delivered,delivered,
+2893,"2/16/2007,14:04:22",delivered,delivered,
+2894,"11/2/2007,10:18:39",delivered,delivered,
+2895,"2/25/2004,19:08:32",delivered,delivered,
+2896,"1/14/2007,13:37:14",delivered,delivered,
+2897,"5/30/2012,10:32:25",delivered,delivered,
+2898,"1/26/2009,8:20:40",delivered,delivered,
+2899,"1/13/2001,10:58:18",delivered,delivered,
+2900,"4/26/2007,11:39:20",delivered,delivered,
+2901,"3/14/2015,15:58:43",delivered,delivered,
+2902,"6/20/2006,8:11:57",delivered,delivered,
+2903,"9/3/2018,11:05:18",delivered,delivered,
+2904,"3/7/2008,13:05:40",delivered,delivered,
+2905,"7/22/2012,7:26:15",delivered,delivered,
+2906,"11/24/2015,17:58:00",delivered,delivered,
+2907,"12/21/2006,15:14:53",delivered,delivered,
+2908,"10/17/2010,16:40:20",delivered,delivered,
+2909,"12/15/2007,10:16:07",delivered,delivered,
+2910,"5/14/2015,18:57:48",delivered,delivered,
+2911,"11/15/2013,6:35:39",delivered,delivered,
+2912,"5/16/2015,15:03:35",delivered,delivered,
+2913,"1/1/2001,14:23:14",delivered,delivered,
+2914,"2/9/2017,18:08:36",delivered,delivered,
+2915,"12/9/2008,6:55:56",delivered,delivered,
+2916,"7/6/2018,19:23:05",delivered,delivered,
+2917,"10/7/2001,14:31:35",delivered,delivered,
+2918,"6/10/2010,15:59:41",delivered,delivered,
+2919,"6/29/2016,10:54:26",delivered,delivered,
+2920,"3/24/2003,12:48:22",delivered,delivered,
+2921,"7/9/2015,8:19:07",delivered,delivered,
+2922,"8/18/2006,13:16:42",delivered,delivered,
+2923,"9/17/2014,8:47:46",delivered,delivered,
+2924,"4/16/2001,16:32:00",delivered,delivered,
+2925,"8/19/2013,10:20:37",delivered,delivered,
+2926,"5/16/2015,14:44:05",delivered,delivered,
+2927,"3/8/2015,18:45:09",delivered,delivered,
+2928,"2/17/2007,6:30:53",delivered,delivered,
+2929,"9/25/2014,8:55:42",delivered,delivered,
+2930,"1/18/2010,8:37:42",delivered,delivered,
+2931,"9/16/2018,7:04:49",delivered,delivered,
+2932,"7/13/2005,19:16:17",delivered,delivered,
+2933,"8/14/2004,6:53:21",delivered,delivered,
+2934,"9/15/2012,11:45:29",delivered,delivered,
+2935,"3/30/2016,9:01:28",delivered,delivered,
+2936,"3/20/2010,19:24:19",delivered,delivered,
+2937,"3/15/2014,19:40:56",delivered,delivered,
+2938,"7/28/2014,13:08:03",delivered,delivered,
+2939,"5/3/2010,18:59:53",delivered,delivered,
+2940,"2/5/2010,14:10:37",delivered,delivered,
+2941,"3/11/2001,11:33:49",delivered,delivered,
+2942,"10/11/2013,14:41:25",delivered,delivered,
+2943,"4/26/2009,12:43:25",delivered,delivered,
+2944,"4/7/2003,12:23:46",delivered,delivered,
+2945,"3/31/2014,6:31:15",delivered,delivered,
+2946,"2/11/2016,17:22:47",delivered,delivered,
+2947,"12/22/2005,16:27:43",delivered,delivered,
+2948,"7/22/2002,17:37:38",delivered,delivered,
+2949,"9/26/2018,7:12:49",delivered,delivered,
+2950,"4/11/2005,8:24:47",delivered,delivered,
+2951,"10/8/2016,12:27:00",delivered,delivered,
+2952,"1/11/2013,17:19:46",delivered,delivered,
+2953,"5/29/2006,11:12:17",delivered,delivered,
+2954,"5/15/2006,10:45:52",delivered,delivered,
+2955,"5/28/2008,17:52:11",delivered,delivered,
+2956,"7/29/2005,16:27:25",delivered,delivered,
+2957,"1/27/2014,14:10:36",delivered,delivered,
+2958,"5/17/2015,12:43:09",delivered,delivered,
+2959,"10/21/2018,12:43:47",delivered,delivered,
+2960,"8/3/2001,18:22:42",delivered,delivered,
+2961,"2/14/2007,16:55:29",delivered,delivered,
+2962,"10/18/2001,17:45:41",delivered,delivered,
+2963,"5/14/2010,18:50:55",delivered,delivered,
+2964,"12/31/2007,13:06:18",delivered,delivered,
+2965,"1/21/2009,10:31:47",delivered,delivered,
+2966,"2/9/2011,12:01:42",delivered,delivered,
+2967,"5/11/2004,13:19:14",delivered,delivered,
+2968,"4/4/2016,17:10:44",delivered,delivered,
+2969,"10/31/2001,13:14:55",delivered,delivered,
+2970,"2/10/2018,12:00:53",delivered,delivered,
+2971,"4/12/2004,19:15:35",delivered,delivered,
+2972,"10/10/2007,18:17:23",delivered,delivered,
+2973,"3/5/2003,15:52:44",delivered,delivered,
+2974,"10/6/2015,16:02:18",delivered,delivered,
+2975,"6/16/2008,13:42:52",delivered,delivered,
+2976,"11/25/2018,19:53:09",delivered,delivered,
+2977,"10/27/2011,6:29:35",delivered,delivered,
+2978,"12/19/2005,15:14:52",delivered,delivered,
+2979,"6/28/2014,10:45:58",delivered,delivered,
+2980,"5/29/2017,8:50:49",delivered,delivered,
+2981,"9/14/2005,18:16:21",delivered,delivered,
+2982,"11/1/2010,11:29:18",delivered,delivered,
+2983,"8/15/2006,13:05:31",delivered,delivered,
+2984,"10/19/2003,18:53:29",delivered,delivered,
+2985,"9/12/2003,6:26:32",delivered,delivered,
+2986,"9/20/2013,7:58:08",delivered,delivered,
+2987,"10/30/2001,7:12:04",delivered,delivered,
+2988,"1/13/2002,11:45:47",delivered,delivered,
+2989,"4/12/2001,14:48:56",delivered,delivered,
+2990,"7/23/2011,12:44:12",delivered,delivered,
+2991,"12/17/2002,13:06:33",delivered,delivered,
+2992,"6/22/2006,10:51:02",delivered,delivered,
+2993,"2/27/2007,10:10:27",delivered,delivered,
+2994,"12/30/2007,18:10:42",delivered,delivered,
+2995,"7/26/2013,6:19:26",delivered,delivered,
+2996,"12/28/2003,15:59:56",delivered,delivered,
+2997,"12/2/2005,7:36:54",delivered,delivered,
+2998,"8/8/2012,10:47:53",delivered,delivered,
+2999,"7/17/2007,14:40:41",delivered,delivered,
+3000,"7/28/2010,9:06:48",delivered,delivered,

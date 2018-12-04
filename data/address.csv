@@ -1,0 +1,1001 @@
+state,city,zip,street,street_num,Apt_num,id
+Minnesota,Minneapolis,55436,Talisman,9922 Bunker Hill Crossing,,1
+Kansas,Topeka,66622,Hansons,4038 Bunker Hill Park,,2
+Virginia,Richmond,23285,Longview,195 Loeprich Avenue,,3
+Texas,San Antonio,78225,Shopko,1 Eagan Hill,74,4
+Florida,Daytona Beach,32123,Stuart,510 Roxbury Drive,,5
+Missouri,Kansas City,64193,Merchant,1713 Arrowood Place,,6
+California,Santa Ana,92705,Northport,99 Westend Road,,7
+Nevada,North Las Vegas,89087,Oxford,00472 Fulton Terrace,87,8
+Texas,Amarillo,79182,Hooker,5 Division Lane,45,9
+California,Pasadena,91199,Atwood,8 Hermina Park,3,10
+Pennsylvania,Pittsburgh,15235,Hermina,452 Bartelt Parkway,,11
+Illinois,Chicago,60619,Thompson,16450 Northwestern Trail,,12
+California,Fresno,93773,Moland,01824 Vahlen Lane,61,13
+California,Long Beach,90831,Acker,77 Straubel Street,,14
+Tennessee,Chattanooga,37405,Eastwood,0 Pine View Way,50,15
+Kansas,Topeka,66611,Crescent Oaks,019 Hanover Avenue,,16
+California,San Francisco,94105,Ramsey,6 Bashford Alley,,17
+Missouri,Jefferson City,65110,Emmet,653 Hayes Parkway,,18
+Florida,Tallahassee,32309,Anzinger,27366 Lien Hill,,19
+District of Columbia,Washington,20041,Dennis,22354 Hanover Crossing,,20
+Virginia,Norfolk,23504,Veith,870 Lakeland Hill,,21
+District of Columbia,Washington,20409,Spaight,4 Del Sol Parkway,,22
+Indiana,Evansville,47719,Merry,24198 Hanson Junction,,23
+North Carolina,Charlotte,28215,Randy,42332 Brown Alley,,24
+Kentucky,Louisville,40210,Service,87820 Kenwood Terrace,,25
+Florida,Pompano Beach,33069,Charing Cross,9348 Melby Road,11,26
+Missouri,Saint Louis,63121,Comanche,93 Eagle Crest Crossing,,27
+Michigan,Flint,48555,Colorado,7 Victoria Drive,,28
+Maryland,Baltimore,21290,Hoard,3 Brickson Park Park,,29
+Florida,Bradenton,34205,Vahlen,16147 Arapahoe Street,,30
+Florida,Pensacola,32520,Ryan,6269 Golf Crossing,70,31
+Connecticut,Waterbury,06705,Kipling,8019 Bartillon Center,42,32
+California,San Diego,92121,Center,62 Pleasure Street,60,33
+Arizona,Prescott,86305,Logan,355 Columbus Place,,34
+Georgia,Atlanta,31119,Crowley,75 Elgar Circle,,35
+California,Chula Vista,91913,Golf,45333 Summer Ridge Center,,36
+Pennsylvania,Philadelphia,19131,Lillian,0384 Amoth Lane,30,37
+Ohio,Columbus,43268,Killdeer,7 Valley Edge Point,,38
+Wisconsin,Milwaukee,53215,Dovetail,14351 Commercial Crossing,58,39
+Massachusetts,Waltham,02453,Drewry,956 Johnson Pass,,40
+Virginia,Virginia Beach,23454,Hazelcrest,0932 Elmside Hill,,41
+Michigan,Midland,48670,Hooker,64 Stone Corner Pass,98,42
+District of Columbia,Washington,20046,Merry,25165 Bartillon Avenue,,43
+West Virginia,Charleston,25326,Carioca,637 Quincy Parkway,,44
+West Virginia,Charleston,25305,Golf View,15196 Dryden Way,,45
+Missouri,Saint Louis,63158,Utah,5 Merry Pass,17,46
+Massachusetts,Boston,02114,Melody,64 Reindahl Plaza,12,47
+Wisconsin,Milwaukee,53263,Dapin,77359 Blaine Parkway,,48
+North Carolina,Charlotte,28299,Glendale,25334 Everett Junction,16,49
+New York,New York City,10034,Sommers,3 Schurz Way,8,50
+Hawaii,Honolulu,96810,Hanover,313 Redwing Drive,,51
+California,Alhambra,91841,Victoria,818 Gulseth Drive,,52
+Texas,Dallas,75231,Steensland,100 Sundown Junction,,53
+Massachusetts,Brockton,02305,Cordelia,4 Eagan Trail,63,54
+Arkansas,Hot Springs National Park,71914,Walton,456 Acker Point,,55
+Alabama,Birmingham,35231,Jenna,94 Park Meadow Pass,,56
+Iowa,Sioux City,51110,Springview,3 Twin Pines Crossing,18,57
+Arizona,Phoenix,85030,Huxley,5 Eggendart Park,,58
+Florida,Boca Raton,33499,Erie,7547 8th Crossing,,59
+New York,New York City,10045,Claremont,3966 Northwestern Parkway,,60
+Texas,Tyler,75710,Bunker Hill,1097 Dakota Point,,61
+New York,New York City,10120,Jay,7 Waywood Avenue,,62
+North Carolina,Charlotte,28263,John Wall,3436 Glendale Street,,63
+New York,Buffalo,14210,Autumn Leaf,976 Rowland Circle,,64
+Virginia,Virginia Beach,23459,Meadow Valley,23 Scott Circle,,65
+Colorado,Littleton,80127,Grayhawk,1 Mallard Circle,,66
+California,San Jose,95173,Calypso,36094 Almo Park,,67
+Pennsylvania,Pittsburgh,15286,Warner,8888 Laurel Center,,68
+Alaska,Juneau,99812,Sugar,61 Orin Crossing,72,69
+Tennessee,Memphis,38197,Daystar,5610 Portage Terrace,,70
+Ohio,Canton,44760,Warrior,6262 Meadow Valley Alley,16,71
+California,Oceanside,92056,Gerald,3 Monument Point,,72
+Iowa,Des Moines,50335,Mandrake,70839 Carey Junction,,73
+Louisiana,Baton Rouge,70836,Rusk,417 Wayridge Way,,74
+Texas,Austin,78778,Moose,69640 Monica Plaza,,75
+Tennessee,Nashville,37250,Talisman,86 Carberry Circle,79,76
+California,San Francisco,94137,Lerdahl,13406 Derek Trail,,77
+Michigan,Flint,48550,Summit,9 Larry Point,48,78
+Minnesota,Loretto,55598,Amoth,2 Almo Point,,79
+Georgia,Atlanta,31165,Montana,9 Starling Point,,80
+Illinois,Bloomington,61709,Prairieview,7444 Parkside Circle,,81
+Nevada,Reno,89595,Sachtjen,21 Service Junction,,82
+Maryland,Annapolis,21405,Katie,647 Kim Crossing,63,83
+California,San Francisco,94121,Johnson,0714 Pankratz Alley,,84
+Texas,Dallas,75216,Westport,32 Manufacturers Trail,99,85
+New York,Jamaica,11447,Vernon,59 Longview Point,89,86
+Florida,Miami,33129,Sutherland,088 South Center,5,87
+Kentucky,Lexington,40515,Alpine,9952 Gerald Crossing,,88
+Florida,Tampa,33605,Briar Crest,3 Delladonna Avenue,55,89
+Texas,Houston,77266,Packers,203 Village Terrace,,90
+California,Long Beach,90831,Clyde Gallagher,0 Scofield Parkway,27,91
+Pennsylvania,Philadelphia,19151,Sycamore,6382 Loeprich Drive,47,92
+Oklahoma,Oklahoma City,73197,Mallard,38 Birchwood Parkway,83,93
+California,San Francisco,94110,Derek,2207 Almo Parkway,,94
+Ohio,Cincinnati,45264,Melby,9888 Meadow Valley Court,,95
+Virginia,Norfolk,23520,Nelson,37119 Sheridan Park,14,96
+Missouri,Springfield,65810,Eggendart,14856 Pleasure Point,,97
+Idaho,Boise,83732,Sycamore,95535 Manufacturers Drive,18,98
+Ohio,Cincinnati,45223,Toban,5 Saint Paul Circle,,99
+District of Columbia,Washington,20041,8th,5 Norway Maple Lane,,100
+Texas,Pasadena,77505,Fisk,08 Mitchell Park,3,101
+Texas,San Antonio,78291,Reinke,9355 Surrey Pass,,102
+Michigan,Detroit,48295,Surrey,8 Dunning Drive,,103
+Connecticut,New Haven,06520,Village,52445 Algoma Avenue,,104
+Florida,Tampa,33686,Swallow,7 Anniversary Court,,105
+Colorado,Denver,80249,Sycamore,46 Bellgrove Circle,64,106
+California,Los Angeles,90065,Express,7 Arkansas Park,,107
+Indiana,Jeffersonville,47134,Columbus,6414 Russell Drive,,108
+California,San Jose,95150,Golden Leaf,6 International Street,,109
+Tennessee,Murfreesboro,37131,Loeprich,72209 Debra Crossing,,110
+Ohio,Toledo,43656,Stone Corner,8406 Havey Alley,,111
+Tennessee,Murfreesboro,37131,Warrior,69498 Mitchell Court,26,112
+South Dakota,Sioux Falls,57110,Cody,42 Marcy Way,,113
+Texas,Dallas,75216,Dunning,941 Buhler Road,,114
+Virginia,Portsmouth,23705,Burning Wood,601 Sachs Junction,90,115
+Indiana,Evansville,47719,Forster,5974 Crownhardt Circle,,116
+California,San Diego,92186,Jenifer,2180 John Wall Hill,,117
+California,Berkeley,94712,Darwin,64 Continental Place,,118
+District of Columbia,Washington,56944,Talisman,8741 Pierstorff Trail,58,119
+Missouri,Saint Louis,63121,Hermina,7306 Hallows Street,22,120
+Massachusetts,Boston,02203,Banding,3 Basil Pass,64,121
+Florida,Naples,34108,Glacier Hill,98 Marquette Plaza,,122
+New York,Albany,12255,Lien,9630 Miller Junction,33,123
+Florida,Orlando,32868,Garrison,534 Tennessee Street,,124
+Alabama,Montgomery,36114,Kennedy,1337 Del Sol Way,,125
+South Carolina,Beaufort,29905,Forster,5397 Maple Alley,,126
+New York,New York City,10120,Scott,69 Knutson Place,,127
+District of Columbia,Washington,20380,Florence,40 Donald Hill,,128
+Pennsylvania,Erie,16505,Macpherson,74 Dottie Lane,,129
+Pennsylvania,Erie,16550,Magdeline,7 Independence Drive,,130
+Michigan,Ann Arbor,48107,Crescent Oaks,3049 Dayton Road,23,131
+District of Columbia,Washington,20557,Linden,4293 Bluejay Way,43,132
+Texas,Houston,77075,Briar Crest,47512 Stang Terrace,3,133
+Tennessee,Jackson,38308,Kings,666 Twin Pines Alley,87,134
+Wisconsin,Green Bay,54305,Dakota,330 Fieldstone Crossing,,135
+New York,Flushing,11388,Fairfield,5573 Saint Paul Avenue,,136
+Missouri,Saint Joseph,64504,School,3777 Carioca Junction,,137
+Texas,Corpus Christi,78426,Morningstar,744 Upham Terrace,,138
+Tennessee,Memphis,38119,Veith,285 8th Parkway,,139
+New York,Port Washington,11054,Tony,7 Straubel Way,49,140
+Ohio,Cincinnati,45208,Fuller,88 Donald Court,,141
+California,Los Angeles,90035,Dawn,2893 Delaware Point,51,142
+California,Fresno,93704,Bunting,4391 Sunbrook Place,,143
+Louisiana,Shreveport,71115,Dovetail,449 Victoria Crossing,,144
+Pennsylvania,Scranton,18514,Reinke,85348 Grim Point,,145
+District of Columbia,Washington,20220,Sundown,5 Miller Avenue,,146
+Colorado,Denver,80243,Straubel,43846 West Parkway,,147
+Virginia,Roanoke,24024,Pine View,67161 Del Mar Way,83,148
+Texas,San Antonio,78210,Toban,2629 Clove Pass,,149
+Pennsylvania,Wilkes Barre,18763,Mifflin,84582 Cordelia Junction,,150
+Washington,Tacoma,98447,Bartelt,966 Eggendart Street,,151
+New York,Jamaica,11436,Loomis,639 Arapahoe Center,66,152
+Tennessee,Memphis,38181,Gateway,2959 Hanover Park,,153
+Maryland,Baltimore,21290,Carey,526 Mayfield Park,83,154
+Indiana,Fort Wayne,46862,Lighthouse Bay,6 Talisman Court,6,155
+Alabama,Birmingham,35236,Harbort,8 Gina Place,,156
+New York,New York City,10131,Jackson,12 Hanover Crossing,,157
+Alabama,Montgomery,36125,2nd,07459 Cherokee Street,,158
+Florida,Fort Lauderdale,33355,Harper,96 Dapin Way,46,159
+Colorado,Colorado Springs,80945,Crescent Oaks,17407 Monument Court,,160
+West Virginia,Morgantown,26505,Northland,6 Dapin Park,52,161
+Texas,Houston,77005,Linden,63408 Sullivan Road,35,162
+West Virginia,Charleston,25305,Novick,617 La Follette Crossing,36,163
+Illinois,Decatur,62525,Reindahl,6633 Surrey Way,,164
+Nevada,Las Vegas,89110,Red Cloud,53285 Service Court,,165
+Texas,El Paso,79968,Southridge,28 Schlimgen Court,,166
+Nevada,Las Vegas,89166,Main,223 Crowley Avenue,,167
+Colorado,Denver,80223,Grover,4522 Hallows Trail,31,168
+Massachusetts,Worcester,01605,Bartelt,507 Center Way,,169
+Oregon,Salem,97306,Ruskin,55 Glacier Hill Court,,170
+Texas,College Station,77844,Clove,84 Cottonwood Park,,171
+Kansas,Wichita,67205,Westerfield,761 Karstens Place,,172
+Kentucky,Lexington,40591,Hovde,8 Delaware Pass,,173
+Georgia,Columbus,31998,Upham,80 Bay Drive,27,174
+Texas,Amarillo,79176,Muir,66 Corscot Plaza,58,175
+California,Fresno,93715,Old Shore,39 Bowman Plaza,,176
+Indiana,Fort Wayne,46862,Loeprich,71 Trailsway Lane,47,177
+Nebraska,Omaha,68144,Ronald Regan,99196 American Court,,178
+Virginia,Portsmouth,23705,Delladonna,533 Jana Road,,179
+Texas,El Paso,79916,Green Ridge,89 Lerdahl Alley,,180
+Missouri,Jefferson City,65105,Bluestem,11088 Di Loreto Park,,181
+Washington,Vancouver,98687,Pennsylvania,4048 Petterle Street,30,182
+California,Fresno,93704,Shopko,2688 Elka Lane,,183
+Tennessee,Memphis,38104,Raven,5 Clarendon Street,59,184
+Missouri,Kansas City,64144,Sachs,4727 Cordelia Hill,49,185
+District of Columbia,Washington,20310,John Wall,85 Packers Center,79,186
+Florida,Naples,34108,Havey,149 Buell Lane,,187
+Kansas,Shawnee Mission,66210,Esker,78 Bashford Road,,188
+Texas,Dallas,75367,Quincy,1043 Havey Way,,189
+Florida,Pensacola,32526,Brentwood,0443 Nevada Lane,,190
+Florida,Ocala,34479,Milwaukee,2085 Charing Cross Hill,,191
+Maryland,Gaithersburg,20883,Boyd,69 Meadow Valley Circle,,192
+Colorado,Denver,80241,Homewood,58043 Westport Road,46,193
+New York,Brooklyn,11225,Crowley,4 Annamark Court,,194
+North Carolina,Greensboro,27499,Dwight,103 Ramsey Plaza,,195
+Texas,Dallas,75226,Bay,3 Derek Lane,,196
+Texas,El Paso,88569,Barby,583 Swallow Hill,,197
+California,Los Angeles,90065,East,7480 Tennessee Street,,198
+Mississippi,Jackson,39204,Maple,24782 Jenna Pass,55,199
+Connecticut,Hartford,06105,Garrison,140 Northfield Way,,200
+West Virginia,Huntington,25705,Waywood,1 Aberg Circle,,201
+Tennessee,Johnson City,37605,Walton,1085 Starling Crossing,3,202
+Pennsylvania,Pittsburgh,15274,Lukken,10587 Coleman Avenue,,203
+Connecticut,Norwalk,06854,Dryden,76 Anhalt Terrace,28,204
+North Carolina,Raleigh,27610,Fallview,608 Mitchell Avenue,19,205
+Illinois,Peoria,61651,Dennis,2 Sage Lane,38,206
+Iowa,Des Moines,50369,Washington,280 Hayes Parkway,,207
+Florida,Tallahassee,32309,Shopko,9280 Wayridge Pass,,208
+Virginia,Virginia Beach,23454,Algoma,2592 Summer Ridge Alley,68,209
+Nevada,Las Vegas,89120,Talisman,1343 Hoffman Hill,,210
+Kansas,Shawnee Mission,66225,Johnson,5 Blue Bill Park Plaza,,211
+Washington,Everett,98206,Delaware,72 Oakridge Alley,,212
+California,San Francisco,94142,Farmco,46 Pawling Parkway,82,213
+California,Sacramento,94257,5th,155 Ilene Court,,214
+Utah,Salt Lake City,84170,Coleman,138 Fairview Parkway,57,215
+Texas,Houston,77070,Sheridan,04 Haas Junction,,216
+Maryland,Hyattsville,20784,Stang,5363 Eggendart Point,57,217
+Virginia,Norfolk,23509,Paget,1 Colorado Park,48,218
+Virginia,Roanoke,24020,Continental,1397 Alpine Way,,219
+California,Sacramento,95838,Kropf,9584 Hermina Court,,220
+Virginia,Arlington,22234,Service,775 Service Court,,221
+North Carolina,Wilmington,28410,Springview,6 Pleasure Place,,222
+Oklahoma,Oklahoma City,73152,Tennessee,82 Lillian Court,,223
+California,Stockton,95298,Heath,827 Crest Line Junction,80,224
+Mississippi,Jackson,39282,Prentice,5529 Crowley Trail,54,225
+North Carolina,Greensboro,27455,American,75 Sunfield Road,,226
+New York,Buffalo,14215,Steensland,80885 Messerschmidt Circle,,227
+Massachusetts,Boston,02104,Bonner,395 Sullivan Point,,228
+Texas,Austin,78749,Scofield,2682 Becker Road,,229
+Iowa,Des Moines,50347,American Ash,39615 Pankratz Center,,230
+Texas,Houston,77299,Fairview,4 Morning Circle,18,231
+California,Los Angeles,90081,Stoughton,5 Truax Pass,,232
+New York,Albany,12205,Knutson,27723 Stephen Place,,233
+Arizona,Gilbert,85297,Moland,36392 Manley Lane,82,234
+Texas,El Paso,88574,Goodland,26 Ohio Crossing,,235
+Colorado,Colorado Springs,80910,Graceland,8 Golf View Drive,4,236
+Georgia,Atlanta,31196,Rieder,161 Mcbride Circle,59,237
+South Carolina,Columbia,29208,7th,69 Delladonna Point,,238
+New York,Albany,12262,Forest Dale,96910 Anderson Court,,239
+South Carolina,Aiken,29805,Bashford,412 Stang Park,,240
+Wisconsin,Madison,53785,Truax,81 Anderson Park,,241
+Nevada,Las Vegas,89125,Miller,36 Brentwood Parkway,,242
+Minnesota,Maple Plain,55579,Steensland,082 Milwaukee Trail,,243
+California,Fresno,93726,Dahle,9911 Lien Place,,244
+Washington,Seattle,98109,Eastwood,14177 Susan Center,13,245
+Washington,Seattle,98104,Carpenter,1058 Golf Course Court,,246
+Texas,El Paso,88519,Veith,522 Meadow Ridge Place,,247
+District of Columbia,Washington,20470,Esch,7112 Kenwood Drive,,248
+Illinois,Springfield,62794,Weeping Birch,557 Banding Street,,249
+Georgia,Columbus,31998,Linden,4 Starling Crossing,,250
+Connecticut,Waterbury,06721,Alpine,1781 Rockefeller Drive,,251
+New Hampshire,Portsmouth,00214,Magdeline,5 Prentice Court,,252
+South Dakota,Sioux Falls,57105,Menomonie,1 Hallows Trail,,253
+New York,Bronx,10454,Kedzie,47 Bowman Way,,254
+District of Columbia,Washington,20470,Village,870 Forest Run Pass,50,255
+Pennsylvania,Bethlehem,18018,Harper,049 Blaine Lane,17,256
+New York,Syracuse,13210,Forster,263 Mitchell Court,35,257
+California,San Francisco,94121,Oneill,28 Huxley Drive,,258
+Texas,San Antonio,78240,Caliangt,2517 Rigney Street,71,259
+Texas,Dallas,75387,Gina,51158 Grayhawk Road,,260
+Georgia,Macon,31296,Stone Corner,697 Kensington Way,,261
+Maryland,Hyattsville,20784,Messerschmidt,1 Loomis Crossing,,262
+Arizona,Tempe,85284,David,4817 Oak Avenue,,263
+Nevada,Las Vegas,89145,Lawn,28147 Fallview Plaza,,264
+Pennsylvania,Reading,19605,Lakewood Gardens,885 Carey Lane,,265
+Florida,Fort Lauderdale,33355,Stoughton,5 Lyons Plaza,54,266
+Texas,El Paso,88574,Drewry,5 Nova Crossing,40,267
+Indiana,Indianapolis,46221,Bartelt,1 Elgar Drive,,268
+Florida,Orlando,32808,Graedel,29 Elgar Junction,,269
+Maryland,Bethesda,20892,Portage,4971 Oneill Way,,270
+Missouri,Kansas City,64125,Memorial,190 Mitchell Circle,77,271
+New York,Brooklyn,11247,Coolidge,11217 Shasta Circle,,272
+Georgia,Marietta,30061,Schmedeman,1979 Canary Way,70,273
+Texas,Fort Worth,76147,Larry,1540 Declaration Park,,274
+Texas,Houston,77245,Waxwing,6 Russell Crossing,,275
+District of Columbia,Washington,20551,Pleasure,60718 Saint Paul Plaza,,276
+Virginia,Richmond,23225,Springview,5444 Nelson Street,,277
+New Hampshire,Portsmouth,00214,Hintze,9 Melody Court,,278
+Texas,Dallas,75392,Elmside,211 Northport Pass,,279
+Virginia,Richmond,23213,Reindahl,9 Hintze Point,,280
+Alabama,Tuscaloosa,35487,Magdeline,9778 Ridge Oak Plaza,,281
+Florida,Tampa,33610,Clarendon,2 Harper Circle,,282
+Texas,San Antonio,78215,Portage,1 Johnson Point,,283
+New York,Jamaica,11480,Lawn,95544 Lunder Trail,34,284
+Wisconsin,Madison,53726,Marcy,4 Almo Place,67,285
+Virginia,Arlington,22234,Macpherson,6563 Bluestem Park,,286
+Arizona,Phoenix,85030,Jackson,717 Riverside Crossing,,287
+Oklahoma,Tulsa,74141,Gateway,159 Havey Junction,,288
+Louisiana,New Orleans,70160,Fordem,402 Homewood Park,,289
+Texas,El Paso,88514,Mariners Cove,7592 Northport Road,,290
+Ohio,Springfield,45505,Bellgrove,2724 Rusk Pass,51,291
+Ohio,Cincinnati,45264,Lillian,7 Merchant Park,19,292
+District of Columbia,Washington,20210,Goodland,74663 Pankratz Junction,,293
+Kansas,Wichita,67260,Eagle Crest,32669 Sloan Parkway,,294
+Alabama,Birmingham,35220,Crownhardt,7732 Golf Drive,48,295
+District of Columbia,Washington,20525,Hermina,8929 Butternut Plaza,,296
+District of Columbia,Washington,20530,Saint Paul,1229 Toban Alley,,297
+California,San Jose,95133,Lien,33898 Canary Parkway,60,298
+Idaho,Boise,83716,Express,0 Muir Place,84,299
+New York,Jamaica,11470,Warner,71 Springs Court,,300
+Georgia,Norcross,30092,Schurz,7 Katie Hill,,301
+Minnesota,Monticello,55565,Moose,50 Sloan Court,,302
+New York,Albany,12227,Gateway,8150 Meadow Ridge Street,,303
+District of Columbia,Washington,20409,Comanche,282 Hallows Drive,27,304
+California,Newport Beach,92662,Rutledge,215 Mifflin Parkway,,305
+Ohio,Cleveland,44105,Stang,5 Forster Hill,,306
+Kansas,Wichita,67220,Bashford,487 Del Mar Parkway,,307
+New Jersey,Paterson,07505,Oakridge,3 Haas Crossing,63,308
+Alabama,Birmingham,35242,Oak Valley,26039 Stoughton Point,,309
+Florida,Naples,34108,Anniversary,2887 Debs Lane,43,310
+Florida,Pompano Beach,33069,Anzinger,76 Ridgeview Plaza,,311
+Colorado,Englewood,80150,Luster,4812 Upham Crossing,,312
+Georgia,Macon,31217,Kim,0 School Lane,,313
+Illinois,Peoria,61605,Springs,12 Farragut Hill,,314
+Alabama,Anniston,36205,Emmet,16767 Monument Avenue,,315
+Texas,San Antonio,78240,Atwood,3 Ramsey Trail,,316
+South Dakota,Sioux Falls,57110,Thackeray,11 Green Ridge Place,83,317
+Ohio,Columbus,43268,Anthes,66 Blackbird Plaza,,318
+Pennsylvania,York,17405,Killdeer,92966 Bowman Court,66,319
+North Carolina,Charlotte,28215,Annamark,55 Burrows Hill,,320
+Tennessee,Nashville,37215,Crowley,0 Fuller Point,,321
+Florida,Zephyrhills,33543,Warbler,95 Green Ridge Avenue,,322
+New York,Mount Vernon,10557,Truax,46 Sunnyside Trail,,323
+Texas,Austin,78778,Knutson,5 Red Cloud Trail,,324
+Louisiana,New Orleans,70174,Hauk,9 Annamark Circle,,325
+California,Sacramento,94237,Dottie,9 Southridge Lane,,326
+Texas,Odessa,79769,Mosinee,3 Colorado Parkway,,327
+Illinois,Chicago,60641,Shasta,189 Daystar Street,,328
+North Carolina,Raleigh,27605,Fieldstone,37 Hoard Lane,,329
+Massachusetts,Worcester,01605,Schlimgen,078 Sunfield Plaza,,330
+New York,New York City,10150,Old Gate,42 Shelley Park,,331
+Nevada,Las Vegas,89115,Crowley,54069 Westerfield Avenue,,332
+Hawaii,Honolulu,96805,American Ash,8 Towne Avenue,,333
+Iowa,Des Moines,50315,Loomis,18757 Union Avenue,,334
+Minnesota,Young America,55551,Bultman,7234 Holy Cross Circle,,335
+Ohio,Cincinnati,45254,Badeau,958 Lukken Pass,,336
+Virginia,Richmond,23203,John Wall,4 Dakota Road,13,337
+California,Los Angeles,90189,Kings,0 Moulton Crossing,9,338
+New York,Syracuse,13210,Mayfield,5658 Harbort Alley,,339
+Pennsylvania,Harrisburg,17110,Lillian,980 Warner Point,81,340
+Hawaii,Honolulu,96810,Northport,5415 Calypso Drive,,341
+Texas,San Antonio,78245,Melody,11 Ridgeway Avenue,,342
+Kentucky,Lexington,40591,Corry,9 Chive Park,,343
+Iowa,Des Moines,50393,Basil,0451 Sloan Street,,344
+California,Riverside,92505,Ramsey,8 Miller Way,35,345
+Michigan,Grand Rapids,49560,Hagan,179 Manufacturers Hill,,346
+Massachusetts,Worcester,01654,Rigney,3 Maywood Junction,53,347
+Arizona,Phoenix,85040,Lakeland,318 Rockefeller Way,48,348
+Missouri,Saint Louis,63126,Hooker,123 Union Way,,349
+North Carolina,Charlotte,28215,Porter,728 Claremont Road,,350
+Tennessee,Nashville,37215,Carioca,26 Upham Plaza,,351
+Maryland,Baltimore,21265,Luster,8 Sachtjen Circle,,352
+Texas,Galveston,77554,Waubesa,3 South Drive,17,353
+Illinois,Chicago,60691,6th,9 Petterle Plaza,,354
+Massachusetts,Boston,02216,Kim,66638 Barnett Drive,,355
+California,San Jose,95128,Bonner,3607 Monument Point,,356
+Missouri,Saint Louis,63180,Basil,2432 Mayfield Drive,64,357
+Georgia,Atlanta,30311,Coleman,8 Burning Wood Terrace,57,358
+Ohio,Cleveland,44118,Vermont,6 Evergreen Drive,90,359
+District of Columbia,Washington,20041,Weeping Birch,63 Cottonwood Trail,93,360
+Alaska,Fairbanks,99709,Boyd,40840 Meadow Vale Drive,,361
+Georgia,Atlanta,30306,Sachs,73666 Lawn Trail,77,362
+Louisiana,Lake Charles,70607,Forest Run,899 Lukken Hill,,363
+California,Fresno,93704,Becker,2 Upham Plaza,,364
+Michigan,Detroit,48267,Reinke,449 Clarendon Way,,365
+California,Mountain View,94042,Ridgeway,36376 Drewry Point,,366
+Texas,Dallas,75397,Shelley,29 Ridgeview Parkway,46,367
+Florida,Fort Lauderdale,33315,Prentice,0978 Dakota Alley,,368
+Michigan,Lansing,48930,Cody,6 Leroy Place,,369
+California,Burbank,91505,Anzinger,22 Washington Point,,370
+New York,Rochester,14639,Sunnyside,4842 Gale Junction,,371
+New York,New York City,10260,Fair Oaks,65845 Miller Lane,,372
+Oregon,Portland,97286,Tomscot,180 Lunder Alley,4,373
+Louisiana,Shreveport,71166,Scoville,6 Scofield Terrace,,374
+Texas,Houston,77080,Iowa,3 Badeau Point,,375
+Illinois,Palatine,60078,Chinook,9601 Anhalt Point,4,376
+District of Columbia,Washington,20580,Briar Crest,2 Schiller Point,,377
+Texas,Dallas,75210,Hoffman,25816 Meadow Valley Circle,72,378
+Maryland,Hyattsville,20784,Autumn Leaf,5670 Fremont Pass,,379
+Texas,Houston,77095,Jackson,26176 Sage Center,,380
+New Jersey,Paterson,07505,Canary,2 Iowa Point,,381
+Colorado,Colorado Springs,80940,Laurel,7 Derek Drive,,382
+Ohio,Columbus,43240,Buena Vista,7 Luster Court,,383
+District of Columbia,Washington,20299,Hudson,35 Crowley Center,,384
+Georgia,Atlanta,30301,Waywood,605 Miller Lane,,385
+Illinois,Chicago,60604,Chinook,7938 American Terrace,,386
+Kentucky,Lexington,40581,Heffernan,43174 Surrey Place,,387
+District of Columbia,Washington,20392,Schiller,1491 Corscot Crossing,,388
+Virginia,Alexandria,22309,Superior,29 Gateway Street,3,389
+Colorado,Denver,80209,Merchant,96064 Amoth Court,98,390
+Oklahoma,Oklahoma City,73190,Bartelt,557 Hoepker Court,,391
+Louisiana,New Orleans,70165,Novick,7060 Mariners Cove Drive,52,392
+West Virginia,Charleston,25356,Marcy,257 Chinook Terrace,,393
+New York,Brooklyn,11225,Shopko,468 Talmadge Terrace,,394
+California,Whittier,90610,Eliot,57 Bunting Crossing,46,395
+North Carolina,Durham,27705,Bartelt,10224 Grover Lane,,396
+Washington,Tacoma,98405,Tennyson,2638 Basil Terrace,,397
+California,Los Angeles,90081,Macpherson,974 Drewry Center,,398
+New Mexico,Santa Fe,87592,Twin Pines,836 Muir Road,,399
+Florida,Clearwater,33758,Lindbergh,14 Novick Parkway,,400
+Texas,Lubbock,79491,Wayridge,66 Rieder Court,,401
+Virginia,Richmond,23208,Hanover,1 Del Sol Court,,402
+Texas,San Antonio,78230,Wayridge,8 Hansons Plaza,,403
+Utah,Sandy,84093,Garrison,368 Meadow Vale Circle,,404
+Connecticut,Waterbury,06726,Schiller,4 1st Junction,,405
+Florida,Pompano Beach,33064,Dayton,94 West Terrace,18,406
+Virginia,Norfolk,23551,Paget,5227 Pepper Wood Alley,56,407
+Texas,Spring,77386,Crownhardt,75190 Maple Alley,,408
+Nevada,Las Vegas,89105,Drewry,1155 Mallory Alley,,409
+Tennessee,Nashville,37235,Holy Cross,882 Maple Wood Pass,,410
+Missouri,Columbia,65218,Bultman,418 Melody Road,,411
+Pennsylvania,Pittsburgh,15205,Arapahoe,1 Eagle Crest Hill,20,412
+Ohio,Cincinnati,45296,Rowland,86696 Nelson Center,,413
+Indiana,Evansville,47725,Ridge Oak,97 Badeau Avenue,100,414
+Nebraska,Omaha,68164,Ohio,05 Muir Center,5,415
+Texas,Amarillo,79176,Redwing,6685 Thompson Trail,,416
+Texas,Corpus Christi,78475,Corben,156 Melby Alley,,417
+Texas,College Station,77844,Talisman,63 Sugar Park,,418
+New York,Buffalo,14220,Clove,6 Northport Plaza,,419
+Colorado,Denver,80262,Waubesa,2 Eliot Drive,,420
+Arizona,Phoenix,85035,Morrow,5615 Burning Wood Crossing,,421
+Idaho,Boise,83711,Armistice,368 Barby Park,,422
+Alaska,Fairbanks,99790,Burning Wood,259 Dennis Road,,423
+Kansas,Wichita,67210,Hagan,7226 Delladonna Plaza,,424
+Arizona,Phoenix,85045,Johnson,181 Melody Center,,425
+North Carolina,Charlotte,28299,Leroy,3164 Tennyson Point,,426
+Virginia,Fairfax,22036,Orin,6101 Summer Ridge Trail,4,427
+South Carolina,Charleston,29424,Glendale,54131 Darwin Plaza,70,428
+California,Visalia,93291,Mcguire,5270 Kim Hill,,429
+Kansas,Shawnee Mission,66286,Nancy,90838 American Parkway,,430
+California,San Diego,92191,Bluejay,7299 Pleasure Center,,431
+California,Sacramento,95813,Laurel,12594 Golden Leaf Road,,432
+Pennsylvania,Philadelphia,19172,Ruskin,0908 Menomonie Plaza,18,433
+Texas,Houston,77281,Cardinal,87182 Banding Court,,434
+New York,Jamaica,11499,Butternut,3361 Manley Plaza,,435
+Idaho,Boise,83705,Fallview,1 Ludington Lane,,436
+South Dakota,Sioux Falls,57188,Daystar,68 Bartillon Park,,437
+District of Columbia,Washington,20442,David,5984 Cody Trail,,438
+Louisiana,Alexandria,71307,Orin,11583 Cambridge Park,,439
+New York,New York City,10019,Hovde,914 Vidon Circle,33,440
+Utah,Salt Lake City,84189,Troy,641 Cardinal Court,,441
+Michigan,Detroit,48211,Lawn,055 Hansons Crossing,89,442
+North Carolina,Raleigh,27621,Judy,1611 Spohn Park,,443
+Rhode Island,Providence,02912,David,316 Arrowood Park,,444
+Texas,Dallas,75236,Burning Wood,730 Alpine Street,,445
+Texas,Garland,75044,Rusk,27910 Rockefeller Plaza,,446
+Georgia,Savannah,31405,Meadow Valley,1 Debs Pass,,447
+Florida,Delray Beach,33448,Cascade,6845 Roxbury Road,,448
+Florida,Cape Coral,33915,Crescent Oaks,433 Golden Leaf Street,,449
+Massachusetts,Boston,02114,Sachtjen,06 Towne Road,73,450
+Illinois,Chicago,60614,Loftsgordon,25089 Lake View Alley,,451
+Texas,Austin,78764,Sunbrook,16647 Fieldstone Court,1,452
+Louisiana,New Orleans,70142,Main,437 Riverside Way,38,453
+Alabama,Birmingham,35220,Pine View,7 Tennessee Avenue,18,454
+Illinois,Springfield,62711,Sherman,38 Bluestem Lane,,455
+Indiana,Fort Wayne,46896,Hooker,559 Steensland Point,,456
+Indiana,Evansville,47719,Village,3422 Towne Place,,457
+Colorado,Pueblo,81010,Ludington,0 Main Plaza,,458
+District of Columbia,Washington,20005,Northfield,091 Mockingbird Lane,,459
+Iowa,Des Moines,50305,Sage,17 Moose Terrace,,460
+Pennsylvania,Pittsburgh,15255,Fallview,0352 Corscot Parkway,,461
+Florida,Miami,33261,Esker,8 Namekagon Plaza,,462
+New York,Rochester,14683,Crowley,65 Lunder Street,65,463
+California,Pasadena,91186,Swallow,6 Hooker Park,89,464
+Florida,Boca Raton,33432,Farmco,6 Forster Pass,,465
+Massachusetts,Boston,02109,Sutteridge,37 Anzinger Junction,13,466
+New York,Brooklyn,11205,Vahlen,34 Stone Corner Plaza,25,467
+California,San Mateo,94405,Haas,82383 Nancy Crossing,,468
+New Jersey,Elizabeth,07208,Grayhawk,295 Northwestern Point,,469
+Texas,San Angelo,76905,Stang,8 Meadow Ridge Plaza,43,470
+California,Fresno,93750,Annamark,2 Starling Crossing,76,471
+Alabama,Birmingham,35254,Westport,10498 Continental Center,,472
+District of Columbia,Washington,20046,Coolidge,4393 Lerdahl Point,,473
+Florida,Vero Beach,32969,Nevada,36 Weeping Birch Crossing,24,474
+Kentucky,London,40745,Village Green,4 Kingsford Circle,,475
+Texas,Amarillo,79171,Sundown,7875 La Follette Point,,476
+Nebraska,Lincoln,68517,Lake View,2 Fisk Circle,,477
+District of Columbia,Washington,20051,2nd,3 Hermina Drive,,478
+Indiana,Indianapolis,46231,Stang,3 Summit Road,,479
+Louisiana,Shreveport,71137,Riverside,929 Hayes Terrace,,480
+Indiana,Bloomington,47405,Summit,29333 Michigan Lane,,481
+Pennsylvania,Philadelphia,19196,Manufacturers,25221 Muir Crossing,,482
+Texas,El Paso,79999,Vera,492 Maryland Way,62,483
+Florida,Palm Bay,32909,Prairieview,311 Delladonna Parkway,12,484
+Virginia,Richmond,23285,Mccormick,9 Oriole Avenue,,485
+Texas,Houston,77015,Springview,66389 Lighthouse Bay Plaza,13,486
+New Jersey,Jersey City,07310,Nelson,0791 Stang Drive,,487
+Utah,Salt Lake City,84125,Granby,6 Carey Terrace,,488
+Texas,Amarillo,79171,Cascade,007 Becker Place,85,489
+Kansas,Shawnee Mission,66205,Fordem,9 South Point,60,490
+District of Columbia,Washington,20409,Warner,9312 Killdeer Trail,,491
+Virginia,Norfolk,23514,Clemons,75 Caliangt Court,,492
+Arizona,Tucson,85748,Twin Pines,481 Paget Court,,493
+Florida,Clearwater,33763,Mendota,9 Mitchell Terrace,75,494
+New Mexico,Albuquerque,87110,Crest Line,450 Paget Way,,495
+Missouri,Kansas City,64144,Forest,283 Sloan Point,,496
+Pennsylvania,Philadelphia,19136,Brown,5719 Golf View Drive,46,497
+Arizona,Phoenix,85067,Rowland,11763 Texas Center,,498
+Iowa,Des Moines,50335,Pepper Wood,28673 Michigan Center,,499
+Maryland,Baltimore,21282,Montana,8 Forest Trail,,500
+Tennessee,Memphis,38126,Golf,53696 Lakewood Gardens Pass,,501
+South Carolina,Columbia,29220,Kinsman,4 Transport Parkway,30,502
+Iowa,Waterloo,50706,Service,1849 Ronald Regan Plaza,,503
+North Carolina,Winston Salem,27105,Texas,398 Division Park,,504
+Indiana,Bloomington,47405,Meadow Valley,485 Oak Place,,505
+Tennessee,Memphis,38119,Graedel,4 Aberg Lane,,506
+Wisconsin,Milwaukee,53225,Bellgrove,826 Ramsey Avenue,,507
+California,Fresno,93786,Autumn Leaf,53789 Alpine Avenue,18,508
+California,San Diego,92145,Moulton,6 Independence Circle,,509
+California,Orange,92862,Dayton,70 Claremont Street,,510
+Missouri,Springfield,65805,Arrowood,0 Haas Terrace,51,511
+North Carolina,Charlotte,28205,Eastwood,75784 Mendota Way,,512
+Texas,Houston,77212,Nelson,7 Judy Center,,513
+Michigan,Dearborn,48126,Northfield,28 Hanover Hill,,514
+Hawaii,Honolulu,96820,Menomonie,2 Coleman Circle,,515
+South Dakota,Sioux Falls,57198,Dayton,275 Drewry Circle,,516
+Wisconsin,Milwaukee,53205,Vera,18522 Sunfield Park,,517
+Virginia,Richmond,23213,2nd,5 Pawling Point,,518
+Utah,Salt Lake City,84110,Banding,2127 Porter Avenue,40,519
+Louisiana,New Orleans,70124,Duke,0739 Springview Terrace,,520
+Pennsylvania,Scranton,18514,Kipling,0501 Calypso Way,,521
+Oklahoma,Oklahoma City,73129,Pond,4233 Manley Road,,522
+Maryland,Baltimore,21211,Green Ridge,0053 Carioca Pass,,523
+Illinois,Chicago,60691,Claremont,8 Caliangt Avenue,,524
+Illinois,Springfield,62711,Trailsway,73964 Green Circle,,525
+California,Long Beach,90805,Burrows,998 Judy Crossing,,526
+Arkansas,Hot Springs National Park,71914,Stephen,69264 Clove Road,,527
+Colorado,Denver,80249,Ilene,1313 Kenwood Hill,,528
+Florida,Orlando,32868,Hooker,3 Hudson Center,7,529
+Tennessee,Chattanooga,37450,Schmedeman,5347 Washington Trail,,530
+Missouri,Saint Louis,63196,Parkside,92747 Green Ridge Crossing,,531
+Florida,Miami,33185,Sloan,0 Kings Circle,5,532
+California,Long Beach,90831,Maywood,06619 Derek Crossing,,533
+Colorado,Colorado Springs,80951,Crescent Oaks,385 Duke Court,,534
+Minnesota,Saint Paul,55146,Daystar,503 Orin Lane,87,535
+Illinois,Chicago,60614,Oneill,6534 Basil Center,79,536
+Iowa,Cedar Rapids,52410,Bunker Hill,00 Dottie Place,19,537
+Colorado,Littleton,80161,Graceland,76 Manitowish Plaza,,538
+Florida,Melbourne,32919,Redwing,402 Hanover Plaza,,539
+Connecticut,New Haven,06533,Roth,97819 Truax Terrace,37,540
+Texas,El Paso,79968,Arizona,82 Fulton Terrace,59,541
+Maryland,Laurel,20709,Heath,9 Mifflin Place,60,542
+Florida,Lake Worth,33467,Pennsylvania,5 Talisman Avenue,65,543
+Connecticut,Hartford,06105,Butterfield,1239 Starling Alley,95,544
+Missouri,Jefferson City,65110,Carpenter,04219 Anthes Parkway,,545
+Massachusetts,Springfield,01152,Miller,319 Waywood Center,28,546
+District of Columbia,Washington,20062,Heath,7 Eastlawn Avenue,53,547
+Texas,Houston,77218,Mendota,13700 Brown Street,,548
+New York,Brooklyn,11247,Weeping Birch,682 Arkansas Way,,549
+Arizona,Phoenix,85025,Boyd,14310 Killdeer Trail,,550
+Michigan,Warren,48092,Loeprich,827 Ohio Pass,,551
+Texas,Dallas,75392,Cherokee,9 Dryden Pass,1,552
+New York,New York City,10045,Farragut,5632 Algoma Trail,,553
+California,San Francisco,94159,Lerdahl,68923 Bunting Center,,554
+Virginia,Suffolk,23436,International,5 Florence Place,,555
+Wisconsin,Madison,53785,Spenser,2 Kipling Drive,24,556
+Colorado,Denver,80209,Kropf,041 Memorial Center,,557
+Oregon,Portland,97229,Gale,63 Grover Lane,13,558
+Wisconsin,Milwaukee,53205,Grim,4 Graceland Way,4,559
+Arizona,Tucson,85743,Fairview,70 Drewry Court,,560
+Virginia,Arlington,22212,John Wall,85 Hintze Point,97,561
+Florida,Jacksonville,32259,Manitowish,4077 Garrison Plaza,,562
+Arizona,Peoria,85383,Manley,5418 Morningstar Trail,,563
+Virginia,Vienna,22184,Cardinal,133 Blackbird Circle,,564
+District of Columbia,Washington,56944,Larry,0488 Bunker Hill Junction,,565
+Arizona,Tucson,85748,New Castle,6 Hanson Point,,566
+Idaho,Boise,83757,Hoepker,67354 Forest Run Plaza,,567
+New York,Albany,12262,Eagan,1 Caliangt Plaza,59,568
+Oregon,Portland,97271,Cherokee,5552 Ridge Oak Lane,66,569
+Alabama,Montgomery,36114,Brickson Park,0487 Manitowish Drive,,570
+Nevada,Las Vegas,89115,Dexter,1 Linden Center,,571
+South Dakota,Sioux Falls,57193,Monument,8025 Buell Park,,572
+Utah,Salt Lake City,84189,Bluejay,3 Leroy Court,,573
+Virginia,Hampton,23663,Morningstar,190 6th Place,,574
+Florida,Clearwater,34620,Blaine,16 Farragut Lane,,575
+West Virginia,Charleston,25362,Red Cloud,88507 Raven Place,82,576
+New York,Jamaica,11470,Portage,406 Utah Avenue,,577
+South Dakota,Sioux Falls,57110,Truax,4349 Canary Crossing,,578
+Massachusetts,Boston,02114,Prairieview,57902 Thompson Park,55,579
+New York,Staten Island,10305,Pierstorff,897 Harbort Lane,63,580
+North Carolina,Durham,27710,Hansons,9760 Mockingbird Place,,581
+Texas,El Paso,88574,Pearson,87480 Cody Place,,582
+North Carolina,Raleigh,27610,Farragut,25 Basil Hill,,583
+New Mexico,Albuquerque,87195,Manufacturers,5498 Loomis Lane,,584
+Missouri,Kansas City,64130,Banding,70588 Starling Pass,,585
+Texas,Fort Worth,76147,Blaine,712 Crowley Terrace,,586
+Texas,Austin,78759,Reindahl,7718 Harper Drive,20,587
+Texas,Corpus Christi,78415,Menomonie,083 Hovde Junction,62,588
+Pennsylvania,Pittsburgh,15210,Dryden,19 Oxford Road,,589
+Mississippi,Jackson,39210,Prairie Rose,3303 Schmedeman Court,100,590
+North Carolina,Wilmington,28405,Kingsford,679 Eliot Alley,30,591
+Washington,Spokane,99220,Swallow,6266 Dawn Parkway,,592
+Tennessee,Memphis,38104,Knutson,5555 Carpenter Trail,,593
+North Carolina,Charlotte,28215,Northport,0654 Fulton Center,,594
+Pennsylvania,Philadelphia,19109,Meadow Valley,6 Stoughton Street,,595
+Tennessee,Memphis,38126,Knutson,1129 Sundown Drive,,596
+Indiana,Fort Wayne,46805,Buell,8000 Macpherson Street,,597
+Ohio,Akron,44329,Meadow Valley,0685 Vera Circle,,598
+California,Modesto,95397,Leroy,50430 4th Drive,73,599
+Nebraska,Lincoln,68505,4th,576 Harper Parkway,,600
+New York,New York City,10175,Welch,42 Fieldstone Avenue,,601
+North Carolina,Greensboro,27415,Heffernan,31 Rutledge Road,,602
+Pennsylvania,Pittsburgh,15286,Del Mar,911 Forest Run Drive,,603
+Colorado,Aurora,80044,Colorado,6 5th Crossing,13,604
+West Virginia,Huntington,25775,Boyd,2270 Prairieview Junction,,605
+California,Los Angeles,90030,Hovde,337 Tennyson Crossing,71,606
+Washington,Seattle,98158,Oriole,36266 Namekagon Park,100,607
+Michigan,Grand Rapids,49560,Fair Oaks,0 Springs Alley,,608
+Ohio,Columbus,43268,Golden Leaf,88 Pearson Parkway,,609
+District of Columbia,Washington,20442,Stuart,44714 Mandrake Drive,,610
+South Carolina,Columbia,29240,Brown,562 Sachs Place,,611
+Kentucky,Lexington,40546,Bartillon,1 Orin Alley,,612
+Oklahoma,Tulsa,74156,Hanson,45864 Calypso Crossing,,613
+Tennessee,Memphis,38161,Tony,1 Sutherland Junction,32,614
+Ohio,Columbus,43284,Hoepker,027 Pond Street,,615
+North Carolina,Raleigh,27615,Stoughton,933 Muir Road,,616
+Louisiana,New Orleans,70179,Mallard,83353 Pepper Wood Pass,78,617
+New York,White Plains,10633,Hovde,75 Farwell Road,,618
+Florida,Tallahassee,32309,Corben,26 Colorado Street,,619
+Pennsylvania,Pittsburgh,15261,Londonderry,9 Alpine Plaza,60,620
+Ohio,Cincinnati,45999,Clemons,286 Ludington Avenue,,621
+Louisiana,Baton Rouge,70883,Brickson Park,80469 Pennsylvania Avenue,,622
+District of Columbia,Washington,20540,7th,8097 Duke Pass,,623
+Washington,Seattle,98109,Burning Wood,25 Calypso Avenue,,624
+Alabama,Montgomery,36134,Redwing,4483 Waywood Center,63,625
+Indiana,Indianapolis,46295,Mcguire,6 Cherokee Drive,,626
+Missouri,Saint Louis,63104,Dryden,4500 Petterle Trail,3,627
+Idaho,Boise,83757,Karstens,2 Russell Trail,,628
+Texas,Amarillo,79159,Londonderry,89 Reinke Avenue,,629
+Missouri,Saint Louis,63143,Scoville,7 Messerschmidt Alley,,630
+Louisiana,Shreveport,71130,Stuart,2005 Lerdahl Street,62,631
+Louisiana,Baton Rouge,70894,2nd,1410 Sommers Avenue,,632
+Indiana,Indianapolis,46226,Walton,9 Ronald Regan Lane,,633
+California,San Francisco,94126,Upham,4 Londonderry Alley,,634
+California,Chico,95973,Jay,45 Messerschmidt Trail,31,635
+Texas,Huntsville,77343,Arapahoe,73828 Victoria Drive,35,636
+Nebraska,Lincoln,68531,Basil,119 4th Pass,,637
+Texas,Dallas,75251,Burrows,8116 Pepper Wood Terrace,,638
+District of Columbia,Washington,20016,Red Cloud,06906 Towne Plaza,54,639
+Virginia,Roanoke,24004,Mccormick,67 Sherman Pass,,640
+Iowa,Sioux City,51110,Tennyson,9953 Rutledge Way,,641
+Minnesota,Saint Paul,55115,Myrtle,649 Dwight Terrace,79,642
+Florida,Port Saint Lucie,34985,Northridge,17271 Evergreen Place,,643
+Michigan,Detroit,48242,Prairieview,6 Meadow Vale Crossing,83,644
+Alabama,Mobile,36628,Graedel,0471 Marcy Terrace,70,645
+Ohio,Dayton,45419,Ludington,2 6th Lane,91,646
+Texas,El Paso,79905,Golden Leaf,1498 Fieldstone Junction,,647
+California,Irvine,92710,Bultman,195 Montana Junction,,648
+Iowa,Davenport,52804,Sunnyside,11409 Ilene Plaza,,649
+Texas,Corpus Christi,78410,Oneill,0329 Hintze Way,,650
+Maryland,Baltimore,21275,School,9 Sage Circle,,651
+Colorado,Colorado Springs,80945,Blackbird,30 Westport Trail,,652
+North Carolina,Charlotte,28215,Derek,42523 Gulseth Drive,,653
+Washington,Vancouver,98664,Becker,40 Pennsylvania Trail,,654
+Virginia,Alexandria,22309,Farwell,36 Mandrake Junction,,655
+Florida,Fort Lauderdale,33310,Dayton,36791 Iowa Court,,656
+Texas,San Antonio,78210,Eggendart,50 Schiller Crossing,,657
+Kansas,Kansas City,66160,Quincy,97 Lillian Trail,,658
+Oklahoma,Oklahoma City,73190,Meadow Valley,24799 Nelson Pass,5,659
+California,Orange,92668,Banding,908 Talisman Hill,22,660
+Texas,El Paso,79911,Dennis,7 Warrior Crossing,,661
+Missouri,Jefferson City,65105,Starling,561 Green Ridge Alley,,662
+Virginia,Richmond,23203,Schmedeman,43 Ronald Regan Lane,,663
+Louisiana,Shreveport,71105,Duke,4597 Glendale Avenue,,664
+Virginia,Alexandria,22313,Jay,55217 Forest Dale Crossing,,665
+Virginia,Roanoke,24020,Northridge,0857 Straubel Street,,666
+Georgia,Columbus,31904,Colorado,480 Dawn Avenue,,667
+Connecticut,Waterbury,06705,Sycamore,5147 Rowland Crossing,96,668
+Texas,Austin,78721,Reindahl,6 Clemons Plaza,72,669
+Virginia,Roanoke,24034,Vahlen,4 Huxley Way,17,670
+California,San Jose,95128,Paget,608 Amoth Point,,671
+Missouri,Lees Summit,64082,Village Green,59 Debs Parkway,,672
+Arizona,Phoenix,85030,Bluejay,3522 Steensland Court,,673
+Virginia,Hampton,23663,Marcy,76 Bunker Hill Junction,,674
+Illinois,Springfield,62711,Division,53 Hollow Ridge Center,,675
+Oklahoma,Oklahoma City,73190,Northport,47 Kenwood Park,,676
+Tennessee,Chattanooga,37416,Brown,181 Arrowood Circle,,677
+Oklahoma,Oklahoma City,73173,Katie,64745 Carpenter Park,,678
+Colorado,Boulder,80305,Basil,022 Hollow Ridge Circle,84,679
+Oregon,Portland,97286,Miller,5094 Ilene Point,,680
+Florida,Tallahassee,32309,David,20853 John Wall Center,41,681
+Nebraska,Lincoln,68524,Mosinee,14 Summer Ridge Junction,,682
+California,Los Angeles,90094,Fieldstone,98413 Schlimgen Pass,36,683
+Florida,Bonita Springs,34135,Corry,13268 Moland Way,24,684
+New York,Albany,12247,Summer Ridge,71150 Dayton Park,,685
+District of Columbia,Washington,20005,Fordem,8 Nova Parkway,,686
+Pennsylvania,Erie,16550,Westerfield,3092 Independence Alley,,687
+Arizona,Mesa,85205,John Wall,75 1st Point,69,688
+New York,Rochester,14639,Holy Cross,1574 Tennyson Way,,689
+Texas,Houston,77080,Hooker,0 Namekagon Place,,690
+Texas,Dallas,75251,Buhler,4 Hayes Court,,691
+Texas,Houston,77055,Moose,927 Clyde Gallagher Junction,,692
+Michigan,Detroit,48267,Charing Cross,9 Monica Center,78,693
+Arizona,Tucson,85715,Ramsey,4162 Ruskin Junction,,694
+New York,Bronx,10474,Springs,849 Stoughton Place,93,695
+Ohio,Cleveland,44118,Dwight,108 Cordelia Center,,696
+California,Glendale,91210,Chive,25275 Kensington Trail,,697
+New York,Albany,12242,Vermont,0118 Glendale Junction,,698
+California,Glendale,91205,Heffernan,3093 Waywood Crossing,23,699
+Utah,Sandy,84093,Brown,1013 Luster Center,,700
+Indiana,Evansville,47719,Kropf,65418 Bunker Hill Trail,46,701
+Illinois,Rockford,61105,Fairfield,96 Dwight Hill,,702
+Texas,Houston,77010,Scofield,7895 Charing Cross Avenue,,703
+Colorado,Denver,80255,Stone Corner,697 Scofield Court,75,704
+Louisiana,Lake Charles,70607,Dwight,41642 1st Circle,,705
+District of Columbia,Washington,20397,Sutherland,52 South Plaza,9,706
+Missouri,Kansas City,64179,Menomonie,87 Service Junction,,707
+Florida,Miami,33283,Fuller,37 Rutledge Place,51,708
+Nevada,Reno,89510,Warner,70416 Onsgard Drive,,709
+Missouri,Kansas City,64160,Luster,1 Sundown Court,29,710
+New York,Rochester,14683,Pine View,97173 Waywood Lane,75,711
+Illinois,Chicago,60646,Dottie,243 Red Cloud Parkway,,712
+Minnesota,Saint Cloud,56398,7th,14 Shopko Parkway,,713
+Arkansas,Little Rock,72204,Meadow Valley,6 Dahle Way,,714
+Alabama,Birmingham,35242,Stephen,5 Elgar Court,,715
+Iowa,Des Moines,50981,Onsgard,1 Eagan Point,,716
+Texas,Waco,76711,Debra,9 Pleasure Street,62,717
+Arizona,Phoenix,85005,Sycamore,0 Farmco Pass,,718
+Vermont,Montpelier,05609,Oxford,073 Lake View Point,,719
+Georgia,Savannah,31416,Atwood,06 Thackeray Court,,720
+Texas,Dallas,75265,Oakridge,68160 Green Plaza,,721
+South Carolina,Spartanburg,29305,Cordelia,1 Forest Run Circle,51,722
+Georgia,Alpharetta,30022,American,383 Cody Crossing,,723
+Florida,Jacksonville,32259,Ohio,21475 Pennsylvania Pass,,724
+Pennsylvania,Philadelphia,19191,Autumn Leaf,233 Mallard Street,,725
+Wisconsin,Milwaukee,53215,Laurel,57303 Manley Park,,726
+Texas,Austin,78769,Swallow,2087 Ramsey Avenue,,727
+New York,Yonkers,10705,Bonner,069 Novick Avenue,61,728
+Oregon,Salem,97312,Rutledge,65146 Ridge Oak Junction,21,729
+Massachusetts,Boston,02119,Del Sol,6 Holmberg Junction,,730
+Minnesota,Minneapolis,55441,Hooker,42 Sullivan Street,,731
+Wisconsin,Madison,53790,Artisan,51955 Parkside Trail,95,732
+Georgia,Cumming,30130,Roth,78 Bonner Pass,,733
+New Jersey,Trenton,08619,Westridge,281 Melody Park,75,734
+Indiana,Indianapolis,46239,Ryan,7370 Knutson Plaza,97,735
+Colorado,Denver,80228,Walton,544 Atwood Crossing,,736
+North Carolina,Charlotte,28256,Leroy,1 Sullivan Street,30,737
+Arkansas,Little Rock,72231,Hermina,96228 Basil Circle,,738
+Ohio,Akron,44321,Anderson,5762 Cordelia Park,,739
+New York,New York City,10004,Buhler,7 Clove Plaza,,740
+Pennsylvania,Pittsburgh,15261,Commercial,2506 Graedel Terrace,88,741
+New York,Rochester,14609,Ridgeway,457 Clove Pass,55,742
+Indiana,Muncie,47306,Susan,15 Hallows Park,,743
+Indiana,Bloomington,47405,Kropf,753 Hollow Ridge Court,,744
+North Carolina,Raleigh,27610,Morning,15815 Valley Edge Crossing,,745
+Missouri,Kansas City,64142,Sycamore,1 Northwestern Place,,746
+Ohio,Warren,44485,Hoard,1 Bunting Circle,,747
+Kansas,Topeka,66611,Maple,354 Blaine Plaza,,748
+Minnesota,Minneapolis,55423,Stang,1 Warbler Junction,,749
+Texas,San Antonio,78215,Northview,491 Harbort Street,37,750
+Texas,College Station,77844,Dahle,44748 Muir Lane,,751
+New York,New York City,10060,La Follette,0806 Green Pass,,752
+West Virginia,Huntington,25705,Norway Maple,5 Lake View Park,,753
+North Carolina,Charlotte,28256,Holy Cross,45 Weeping Birch Plaza,,754
+Indiana,Evansville,47737,Independence,1 Pankratz Road,57,755
+Missouri,Kansas City,64101,Aberg,12361 John Wall Alley,22,756
+Indiana,Indianapolis,46231,Rigney,1489 Stone Corner Court,,757
+California,San Diego,92137,Coolidge,603 Independence Park,,758
+Illinois,Schaumburg,60193,Utah,81144 Sachtjen Alley,,759
+Pennsylvania,Reading,19605,Derek,78567 Heffernan Street,,760
+Indiana,Indianapolis,46247,Messerschmidt,0434 Hanson Trail,,761
+Texas,Amarillo,79165,3rd,14764 Moland Plaza,16,762
+Florida,Miami,33134,Logan,4 Grover Avenue,,763
+Illinois,Chicago,60686,Waubesa,3 Hoard Crossing,18,764
+Louisiana,Monroe,71208,Division,282 Morning Parkway,85,765
+Texas,Fort Worth,76105,Calypso,25 Texas Crossing,,766
+North Dakota,Fargo,58122,Orin,59048 Heath Alley,,767
+Virginia,Norfolk,23551,Rockefeller,972 Sachtjen Avenue,,768
+California,Sacramento,95852,Nancy,36770 Debra Park,,769
+Florida,Melbourne,32941,Westend,531 Union Street,,770
+Louisiana,New Orleans,70165,Nancy,7387 Rowland Park,19,771
+Oregon,Portland,97201,Leroy,69317 Shoshone Park,,772
+Florida,Palm Bay,32909,Drewry,452 8th Lane,94,773
+Florida,Orlando,32835,Linden,42024 Basil Street,,774
+District of Columbia,Washington,20470,Hanson,9797 Lindbergh Trail,,775
+Florida,Port Charlotte,33954,Randy,37870 Hoffman Way,,776
+Nevada,North Las Vegas,89087,Warrior,3506 Forest Point,,777
+Wisconsin,Milwaukee,53210,Calypso,5 Logan Center,,778
+Minnesota,Minneapolis,55480,Waywood,2112 West Center,,779
+Texas,Amarillo,79171,Prairie Rose,08 Golf Course Pass,,780
+Florida,Tampa,33647,Crowley,205 Eagan Plaza,,781
+Pennsylvania,Pittsburgh,15261,Eggendart,16559 Florence Junction,24,782
+Kansas,Kansas City,66112,Blaine,04 Duke Parkway,,783
+New York,Rochester,14652,Park Meadow,4 Waxwing Terrace,,784
+Texas,Houston,77240,Fairfield,2 Lakewood Drive,83,785
+District of Columbia,Washington,20005,Fordem,9213 Anhalt Parkway,26,786
+California,San Diego,92165,Pierstorff,507 Mosinee Drive,,787
+California,Orange,92668,Sachs,51 American Ash Lane,,788
+California,San Diego,92165,Lien,1737 Becker Drive,,789
+Colorado,Littleton,80127,Oakridge,03 Dovetail Place,,790
+Washington,Tacoma,98411,Buhler,13583 Lunder Hill,,791
+Texas,Amarillo,79165,Kensington,298 Melody Lane,,792
+Missouri,Kansas City,64190,High Crossing,55 Daystar Alley,,793
+Indiana,Terre Haute,47812,Gerald,447 Rigney Point,65,794
+Michigan,Grand Rapids,49544,Macpherson,23 Marquette Plaza,,795
+Virginia,Norfolk,23514,Twin Pines,15429 Talmadge Street,19,796
+Texas,Houston,77045,Kenwood,124 American Circle,,797
+Missouri,Saint Louis,63110,Sachtjen,7 Morrow Circle,,798
+District of Columbia,Washington,20535,Maple,091 Rusk Parkway,,799
+Colorado,Colorado Springs,80935,Bunting,25959 Mandrake Junction,,800
+New Jersey,Elizabeth,07208,Morning,0 Leroy Trail,,801
+Georgia,Atlanta,30343,7th,1146 Basil Alley,,802
+Washington,Spokane,99220,Mosinee,89795 Saint Paul Parkway,,803
+Virginia,Richmond,23293,Kings,442 6th Terrace,,804
+Florida,Daytona Beach,32123,Pond,668 Hoard Junction,,805
+Maryland,Rockville,20851,Oakridge,8 Corry Trail,,806
+Oklahoma,Oklahoma City,73197,Veith,5760 Clemons Hill,19,807
+Indiana,Indianapolis,46266,Holy Cross,24 Westport Trail,14,808
+Tennessee,Nashville,37220,Northridge,85 North Pass,,809
+Minnesota,Saint Cloud,56398,Annamark,9 Hauk Plaza,32,810
+Tennessee,Kingsport,37665,Bunting,7 Fremont Avenue,,811
+New York,Brooklyn,11241,Harbort,46 Menomonie Circle,,812
+California,San Mateo,94405,Dryden,164 Trailsway Lane,,813
+Tennessee,Chattanooga,37410,Logan,8 Amoth Alley,,814
+Illinois,Chicago,60691,Sunnyside,6 Bay Circle,,815
+New York,White Plains,10606,Mockingbird,3860 Pleasure Drive,34,816
+Pennsylvania,Levittown,19058,Hagan,88966 Harbort Court,,817
+Kansas,Shawnee Mission,66276,Raven,716 Jackson Parkway,52,818
+California,Visalia,93291,Transport,55 Dennis Plaza,,819
+California,Long Beach,90810,Dexter,2710 Maple Wood Terrace,,820
+Missouri,Saint Louis,63136,Golf View,8 Del Mar Lane,,821
+District of Columbia,Washington,20397,Hoffman,9 Hauk Lane,,822
+Connecticut,Stamford,06912,Jenna,81327 Fieldstone Avenue,58,823
+Virginia,Richmond,23203,Vahlen,76 Leroy Street,5,824
+New York,Syracuse,13224,Grover,641 Pierstorff Place,,825
+California,Oakland,94616,Fremont,5532 Troy Street,,826
+Virginia,Lynchburg,24515,Jenna,99752 Lakewood Gardens Circle,2,827
+Arizona,Phoenix,85053,Red Cloud,1 Dennis Avenue,92,828
+Missouri,Kansas City,64114,Ohio,30 School Center,,829
+Texas,El Paso,88519,Weeping Birch,0803 Vidon Crossing,,830
+New York,Rochester,14604,Iowa,139 Darwin Plaza,,831
+Mississippi,Jackson,39236,Anthes,10 Pepper Wood Terrace,,832
+Nevada,Las Vegas,89140,Melvin,49 Randy Street,34,833
+Indiana,South Bend,46614,Scott,3235 Nevada Terrace,,834
+New York,New York City,10260,Luster,8621 Ludington Center,77,835
+California,Riverside,92519,Vahlen,59440 Briar Crest Place,,836
+New Mexico,Albuquerque,87110,Clove,6 Victoria Terrace,,837
+Missouri,Saint Louis,63126,Di Loreto,54 Kropf Trail,,838
+California,Chico,95973,Kim,6 Meadow Valley Plaza,,839
+Mississippi,Biloxi,39534,Blue Bill Park,607 Victoria Trail,54,840
+Georgia,Columbus,31914,Northport,7710 Warrior Pass,,841
+Texas,El Paso,88535,Kings,781 Lukken Plaza,,842
+Michigan,Ann Arbor,48107,Reindahl,71 Pine View Center,,843
+New York,Bronx,10474,Nova,11002 Kennedy Plaza,,844
+Missouri,Independence,64054,Havey,4640 Sunfield Center,,845
+Missouri,Saint Louis,63158,Harbort,952 Melrose Lane,66,846
+Florida,Gainesville,32610,Loeprich,021 Corben Road,,847
+North Carolina,Raleigh,27610,Sheridan,4495 Milwaukee Point,90,848
+Georgia,Atlanta,30358,Montana,9 Clyde Gallagher Road,,849
+Minnesota,Saint Cloud,56372,Maple Wood,953 Moose Alley,,850
+New York,New York City,10280,Cascade,88 Fremont Way,,851
+Florida,Cape Coral,33915,Old Gate,322 Buhler Junction,49,852
+Arizona,Phoenix,85067,Service,56 Mallard Court,98,853
+Ohio,Lima,45807,American,426 Trailsway Park,,854
+Ohio,Toledo,43635,Carberry,664 Steensland Plaza,,855
+West Virginia,Charleston,25389,Crescent Oaks,1873 Bellgrove Alley,,856
+Florida,Kissimmee,34745,Bartelt,0027 Hermina Crossing,,857
+Texas,Corpus Christi,78470,Emmet,3485 Butterfield Street,47,858
+Connecticut,West Hartford,06127,Loomis,16 Bunting Court,,859
+New York,New York City,10175,Bellgrove,69 Fieldstone Way,,860
+New York,Brooklyn,11247,Mcguire,42093 Novick Court,,861
+Indiana,Indianapolis,46207,Bay,12 Lighthouse Bay Trail,21,862
+Texas,Fort Worth,76105,Luster,57 Sycamore Point,33,863
+Texas,Houston,77035,Fuller,74 Golf Course Hill,,864
+Louisiana,Baton Rouge,70805,Reindahl,2589 Grayhawk Road,71,865
+West Virginia,Charleston,25305,Warbler,79 La Follette Park,,866
+Texas,San Antonio,78291,Manley,7638 Longview Parkway,30,867
+Illinois,Peoria,61656,Hintze,478 Schmedeman Court,78,868
+Florida,Sarasota,34238,Pennsylvania,76639 Starling Lane,,869
+Texas,Houston,77240,Orin,85 Birchwood Park,,870
+Texas,San Antonio,78235,Summerview,6876 Sachtjen Trail,,871
+Florida,Tampa,33686,Almo,012 Nancy Plaza,,872
+Ohio,Canton,44720,Granby,0 Glendale Circle,,873
+California,Los Angeles,90005,Lien,15117 Spohn Road,,874
+New York,Jamaica,11436,Roth,132 Thierer Road,,875
+Indiana,Bloomington,47405,Harbort,941 Anzinger Drive,,876
+Oregon,Salem,97306,Walton,5 Dennis Way,17,877
+Georgia,Gainesville,30506,Bluejay,91900 Forest Dale Park,53,878
+Pennsylvania,Wilkes Barre,18763,Debra,4402 Glacier Hill Road,55,879
+Georgia,Marietta,30061,Southridge,8 Becker Street,61,880
+California,Orange,92862,Stuart,8043 Park Meadow Place,17,881
+Texas,Lubbock,79452,Killdeer,81393 Cody Road,,882
+Florida,Jacksonville,32236,Milwaukee,36876 Main Plaza,33,883
+District of Columbia,Washington,20099,Vermont,341 7th Junction,,884
+Texas,Amarillo,79116,Transport,4057 American Ash Lane,13,885
+California,Fullerton,92640,Columbus,623 Orin Point,,886
+Louisiana,Monroe,71208,Bobwhite,60246 Corscot Terrace,72,887
+California,Oakland,94660,Rutledge,31 Fisk Crossing,28,888
+Ohio,Cincinnati,45249,Coolidge,80 Rigney Road,,889
+Alabama,Birmingham,35295,Sunnyside,43580 Mariners Cove Trail,,890
+South Carolina,Columbia,29220,Mallard,78730 Westport Pass,,891
+Texas,El Paso,88553,Kropf,31 Pond Plaza,13,892
+Alaska,Anchorage,99522,Mandrake,883 Bunting Junction,,893
+California,Glendale,91210,Golf,1336 Grim Point,,894
+Florida,Boca Raton,33487,Montana,6766 Meadow Vale Center,,895
+Texas,Houston,77030,Hooker,5 Loftsgordon Terrace,,896
+Florida,Tampa,33610,Miller,79 Springview Way,53,897
+Washington,Tacoma,98411,Hoepker,587 Express Park,45,898
+Texas,Mesquite,75185,Nancy,14490 Marquette Way,,899
+Nevada,Henderson,89074,Pond,0801 Kingsford Drive,18,900
+Alaska,Anchorage,99599,Riverside,3967 Vera Lane,,901
+California,Glendale,91205,Rockefeller,5434 Atwood Court,,902
+Texas,Houston,77250,Straubel,719 Oriole Hill,96,903
+North Carolina,Raleigh,27610,Parkside,41271 David Parkway,,904
+Oklahoma,Edmond,73034,Myrtle,247 Delladonna Circle,,905
+Louisiana,Baton Rouge,70815,Arapahoe,48 Bellgrove Trail,,906
+Pennsylvania,Wilkes Barre,18763,Darwin,20 Jay Crossing,,907
+Tennessee,Chattanooga,37410,Harper,337 Elgar Junction,34,908
+Washington,Everett,98206,Roth,07 Pearson Pass,,909
+Tennessee,Memphis,38119,Kropf,8559 Magdeline Hill,,910
+New York,New York City,10270,Summer Ridge,673 Village Park,41,911
+Massachusetts,Newton,02162,Red Cloud,5415 Mesta Road,,912
+Florida,Winter Haven,33884,Northfield,11 Pepper Wood Circle,7,913
+District of Columbia,Washington,20244,Shopko,9 Meadow Ridge Place,,914
+Texas,Amarillo,79159,Towne,78 Larry Terrace,,915
+Florida,Vero Beach,32969,Drewry,62 Browning Plaza,,916
+New York,Brooklyn,11236,Union,93635 Homewood Court,,917
+New York,White Plains,10606,Barnett,92948 Wayridge Parkway,,918
+Florida,Naples,34114,5th,34 Rockefeller Trail,28,919
+Florida,Fort Lauderdale,33310,Melody,90550 East Lane,,920
+Missouri,Kansas City,64125,Surrey,3281 Golf Course Court,55,921
+West Virginia,Charleston,25356,Gateway,9683 Moland Plaza,,922
+New York,New York City,10039,Lakeland,8 Sherman Center,14,923
+Oklahoma,Oklahoma City,73152,Canary,2 Barnett Circle,,924
+Pennsylvania,New Castle,16107,Prairie Rose,4723 Aberg Terrace,15,925
+Nevada,Carson City,89706,Carioca,92 Katie Hill,,926
+Massachusetts,Springfield,01152,Hoard,467 Roth Drive,,927
+North Carolina,Charlotte,28263,Westend,722 Golf Center,,928
+Florida,Tampa,33610,Emmet,14360 4th Avenue,,929
+California,Sacramento,94237,Hollow Ridge,62 Artisan Parkway,84,930
+Maryland,Hyattsville,20784,Hauk,2074 Comanche Road,,931
+Arkansas,Little Rock,72209,Prairie Rose,249 Loomis Trail,,932
+South Carolina,Greenville,29615,Manitowish,90 Northland Court,,933
+Texas,San Antonio,78225,Bunting,58236 Nobel Plaza,88,934
+Texas,Austin,78764,Stoughton,3 Meadow Vale Center,32,935
+Alabama,Birmingham,35290,Dixon,767 Warrior Parkway,,936
+Oklahoma,Oklahoma City,73147,Huxley,9127 Hudson Circle,81,937
+Georgia,Athens,30610,Main,9 Eagan Parkway,,938
+Utah,Salt Lake City,84115,Gulseth,6 Raven Alley,,939
+New York,New York City,10099,Dawn,535 Talmadge Alley,63,940
+Illinois,Chicago,60652,Bowman,40 Grayhawk Drive,24,941
+Texas,Houston,77223,Walton,7 Mandrake Park,,942
+Florida,Fort Lauderdale,33305,Delladonna,6 Luster Point,,943
+California,San Jose,95138,Logan,067 Mendota Drive,97,944
+Tennessee,Nashville,37240,Corry,17248 Sutherland Court,,945
+Florida,Melbourne,32941,Roxbury,7984 Morrow Terrace,56,946
+Texas,Irving,75062,School,6 Manitowish Road,35,947
+District of Columbia,Washington,20591,New Castle,4 Elmside Alley,,948
+Ohio,Dayton,45408,Dawn,71 West Pass,,949
+Vermont,Montpelier,05609,Dixon,10 Waxwing Circle,,950
+Oregon,Portland,97211,Bashford,7890 Warbler Court,,951
+Virginia,Virginia Beach,23471,Corscot,90719 Merchant Lane,,952
+California,Los Angeles,90189,Reinke,7010 Everett Drive,,953
+Michigan,Midland,48670,Goodland,73929 Onsgard Avenue,,954
+Georgia,Marietta,30066,Hazelcrest,60088 Havey Parkway,,955
+California,Sacramento,94230,Dixon,06 Reinke Street,,956
+New York,New Hyde Park,11044,Texas,4780 Magdeline Terrace,,957
+Texas,Fort Worth,76178,Kingsford,746 Dawn Trail,,958
+Texas,Beaumont,77713,Chive,0438 Meadow Ridge Alley,,959
+Wisconsin,Green Bay,54305,Erie,9481 Hermina Circle,,960
+Florida,Delray Beach,33448,Sherman,8789 Arizona Court,42,961
+Louisiana,Shreveport,71115,Canary,9973 Ridgeview Terrace,,962
+Kansas,Wichita,67236,Mcguire,16391 Reinke Drive,82,963
+Alabama,Birmingham,35210,Ridgeview,6 Chive Lane,6,964
+Texas,Dallas,75323,Bowman,920 Sheridan Alley,,965
+Alabama,Birmingham,35285,Oneill,6152 Holy Cross Hill,,966
+Illinois,Schaumburg,60193,Springview,21 4th Way,99,967
+Alabama,Huntsville,35810,Oak,34 Sachs Lane,,968
+Ohio,Cleveland,44185,Pearson,07 Golf View Place,,969
+North Carolina,Charlotte,28215,Everett,3532 Gateway Crossing,,970
+Hawaii,Honolulu,96845,Havey,7653 Bunker Hill Plaza,40,971
+Florida,Tampa,33605,Warner,0 Quincy Road,,972
+North Dakota,Grand Forks,58207,Westridge,626 Hauk Point,,973
+Missouri,Independence,64054,Del Mar,5430 Utah Circle,,974
+Minnesota,Duluth,55811,Northview,74859 Sugar Point,,975
+Texas,El Paso,79955,Lawn,61 Becker Avenue,,976
+California,Sunnyvale,94089,Fallview,681 5th Court,,977
+Iowa,Des Moines,50335,Meadow Vale,12 Randy Avenue,80,978
+Michigan,Detroit,48211,Warrior,488 Elka Parkway,,979
+Connecticut,Norwalk,06859,Wayridge,9 Elgar Pass,37,980
+Florida,Fort Lauderdale,33305,Mallard,314 Clove Pass,,981
+Delaware,Newark,19725,Grim,1 Scoville Trail,,982
+California,Oakland,94605,6th,9135 Bartillon Way,,983
+New York,New York City,10292,Dexter,2070 Center Crossing,78,984
+California,Simi Valley,93094,Oak,25093 Ludington Court,60,985
+Texas,Houston,77206,Pennsylvania,7964 Redwing Lane,,986
+New York,Buffalo,14233,Dayton,883 Barnett Place,32,987
+New York,New York City,10120,Derek,237 Lawn Pass,,988
+Nevada,Las Vegas,89120,Thierer,512 Green Avenue,,989
+Ohio,Dayton,45432,Sage,104 Ronald Regan Crossing,92,990
+Utah,Ogden,84403,Mitchell,818 Pawling Junction,77,991
+California,San Diego,92145,Pennsylvania,3322 5th Alley,,992
+California,San Jose,95173,Butterfield,5 Grover Circle,,993
+Virginia,Reston,20195,Myrtle,5 Rigney Plaza,,994
+California,San Francisco,94126,Eagle Crest,0 Merrick Junction,44,995
+Nevada,Las Vegas,89115,Debra,5743 Hovde Point,,996
+California,San Francisco,94121,Vermont,7 Dapin Circle,,997
+Tennessee,Johnson City,37605,Schiller,6 Springview Center,,998
+South Carolina,Greenville,29605,Mcbride,09 Maple Hill,,999
+Oklahoma,Oklahoma City,73197,Butterfield,8 Charing Cross Pass,,1000
