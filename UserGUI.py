@@ -3,7 +3,6 @@ import PackageDatabase as db
 
 
 class GUI:
-    role_defined = False
     new = False
     role = ""
     id = ""
