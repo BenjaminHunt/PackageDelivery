@@ -70,7 +70,7 @@ class GUI:
             elif db.login(input):
                 self.id = input
                 self.role = db.get_role(self.id)
-                self.terminal_write("You have successfully been logged in. Use \"help\" for available commands")
+                self.terminal_write("You have successfully been logged in.\nUse \"help\" for available commands.")
             else:
                 self.terminal_write("'{}' is not a valid ID.".format(input))
                 self.terminal_write("Please enter your ID, or \"new\" if you are a new user.")
