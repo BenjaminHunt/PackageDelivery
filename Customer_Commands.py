@@ -14,21 +14,25 @@ def place_order(id, type, weight, source_addr, destination_addr): # TODO: Addres
 
 
 def accept_charge(payment_type):
-    return "Charge of " + str(active_charge) + " accepted"
+    valid = True # Was this command valid/successful?
+    return valid, "Charge of " + str(active_charge) + " accepted"
 
 
 def list_orders(id):
+    valid = True # Was this command valid/successful?
     packagesOut = pd.execute_command("SELECT packageID, cost FROM package WHERE sender={}".format(id))
     packagesIn = pd.execute_command("SELECT packageID, cost FROM package WHERE receiver={}".format(id))
-    return packagesOut, packagesIn
+    return valid, packagesOut, packagesIn
 
 
 def track_package(tracking_number):
+    valid = True # Was this command valid/successful?
     locationID = pd.execute_command("SELECT locationID FROM log WHERE trackingnumber={}".format(tracking_number))
     location = pd.execute_command("SELECT * FROM location WHERE locationID={}".format(locationID))
-    return location
+    return valid, location
 
 
 def bill_status(packageID):
+    valid = True # Was this command valid/successful?
     total = pd.execute_command("SELECT cost FROM package WHERE packageID={}".format(packageID))
-    return "Bill total: " + str(total)
+    return valid, "Bill total: " + str(total)
