@@ -95,7 +95,7 @@ def parse_and_execute(text, id, role):
 
 def admin_PAE(text):
     if text == "help":
-        return "Type anything but help and it will be executed as raw SQL"
+        return "Type anything but help, logout or role and it will be executed as raw SQL"
     return format(admin.execute_admin_command(text))
 
 
@@ -139,6 +139,8 @@ def cust_PAE(id, array):
                     "listorders: list active packages, in and out going\n\t" \
                     "trackpackage <tracking_number>: track location of package by tracking number\n\t" \
                     "billstatus <packageID>: get the status of your bill\n\t" \
+                    "logout: log out\n\t" \
+                    "role: display your role\n\t" \
                     "help: this menu"
     return response
 
@@ -182,6 +184,8 @@ def employee_PAE(id, array):
                    "markintransit <package> <vehicle>: mark a package in transit\n\t" \
                    "markasdelivered <package>: mark a package as delivered\n\t" \
                    "changeexpecteddelivery <package> <date>: change expected delivery time for package\n\t" \
+                   "logout: log out\n\t" \
+                   "role: display your role\n\t" \
                    "help: this menu"
     return response
 
