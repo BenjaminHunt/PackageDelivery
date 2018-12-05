@@ -141,14 +141,16 @@ def new(role):
 
 def execute_command(command):
     value = []
-    cursor.execute(command)
-    if command[0] != "I":
-        value = cursor.fetchall()
-    else:
-        connection.commit()
-    return value
-
-
+    try:
+        cursor.execute(command)
+        if command[0] != "I":
+            value = cursor.fetchall()
+        else:
+            connection.commit()
+        return value
+    except:
+        connection.rollback()
+        return "Invalid SQL"
 
 
 def parse_and_execute(text, id, role):
