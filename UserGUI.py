@@ -59,7 +59,7 @@ class GUI:
                 self.role = input
                 self.id = db.new(self.role)
                 self.terminal_write("Your account has been created. You are logged in with the ID: {}. "
-                                    "Use \"help\" for available commands".format(self.id))
+                                    "\nUse \"help\" for available commands.".format(self.id))
             else:
                 self.terminal_write("\"{}\" is not a valid role.".format(input))
                 self.terminal_write("What is your role?")
