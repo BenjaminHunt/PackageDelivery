@@ -23,7 +23,7 @@ class GUI:
         self.entry = Entry(root)
         enter = Button(root, text="Enter", command=self.submit)
 
-        self.output.grid(row=0, column=0, columnspan=3, padx=10, sticky=E + W)
+        self.output.grid(row=0, column=0, columnspan=3, padx=10, sticky=N+S+E+W)
         self.entry.grid(row=1, column=1, padx=0, pady=10, sticky=E + W)
         scroll.grid(row=0, column=3, padx=5, pady=10, sticky=N + S)
         enter.grid(row=1, column=2, columnspan=2, padx=10, pady=10, sticky=E+W)
