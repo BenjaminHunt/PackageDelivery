@@ -11,7 +11,8 @@ def list_packages():
 
 def update_hold_loc(package, location):
     valid = True
-    result = pd.execute_command("UPDATE package SET location={} WHERE id={}".format(location, package))
+    logid = pd.execute_command("SELECT MAX(logid) FROM log")
+    result = pd.execute_command("INSERT INTO log VALUES({}, {}, {},  ")
     if result == "Invalid SQL":
         valid = False
     return valid
@@ -25,17 +26,10 @@ def mark_in_transit(package, vehicle):
     return valid
 
 
-def mark_as_delivered(package):
+def mark_as_delivered(trackingnumber, date):
+    date = date[0] + " " +  date[1]
     valid = True
-    result = pd.execute_command("UPDATE package SET delivered=TRUE WHERE id={}".format(package))
-    if result == "Invalid SQL":
-        valid = False
-    return valid
-
-
-def change_expected_delivery(package, date):
-    valid = True
-    result = pd.execute_command("UPDATE package SET expected_delivery={} WHERE id={}".format(date, package))
+    result = pd.execute_command("UPDATE entry SET deliveredtime='{}' WHERE trackingnumber={}".format(date, trackingnumber))
     if result == "Invalid SQL":
         valid = False
     return valid

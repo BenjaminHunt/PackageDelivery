@@ -4,12 +4,14 @@ import PackageDatabase as pd
 active_c = 0
 
 
-def place_order(id, type, weight, source_addr, destination_addr): # TODO: Address needs to be standardized somehow.
+def place_order(id, type, weight, destination_addr): # TODO: Address needs to be standardized somehow.
     valid = True # Was this command valid/successful?
-    cost_for_delivery = weight * 51/100
+    cost_for_delivery = int(weight) * 51/100
     last_id = pd.execute_command("SELECT MAX(id) FROM package")
-    result = pd.execute_command(("INSERT INTO package VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)",
-                       (last_id[0][0]+1, id, None, cost_for_delivery, type, "medium", "false", "false", weight, 2)))
+    receiver_id = pd.execute_command("SELECT id FROM address WHERE state='{}' AND zip={} AND city='{}'"
+                                     .format(destination_addr[4], destination_addr[5], destination_addr[3]))
+    result = pd.execute_command(("INSERT INTO package VALUES ({}, {}, {}, {}, '{}', '{}', '{}', '{}', {}, {})"
+                                 .format(1, id, receiver_id[0][0], cost_for_delivery, type, "medium", "false", "false", weight, 2)))
     if result == "Invalid SQL":
         valid = False
     return valid, cost_for_delivery
@@ -18,7 +20,7 @@ def place_order(id, type, weight, source_addr, destination_addr): # TODO: Addres
 def accept_charge(id):
     valid = True # Was this command valid/successful?
     #  TODO: need query here to get users payment type
-    payment_type = pd.execute_command("SELECT payment_type FROM customers WHERE id={}".format(id))
+    payment_type = pd.execute_command("SELECT payment_type FROM person WHERE id={}".format(id))
     if payment_type == "Invalid SQL":
         valid = False
     if active_c != 0:
@@ -39,10 +41,10 @@ def list_orders(id):
 def track_package(tracking_number):
     valid = True # Was this command valid/successful?
     locationID = pd.execute_command("SELECT locationID FROM log WHERE trackingnumber={}".format(tracking_number))
-    location = pd.execute_command("SELECT * FROM location WHERE locationID={}".format(locationID))
-    if locationID or location == "Invalid SQL":
+    location = pd.execute_command("SELECT * FROM location WHERE locationID={}".format(locationID[0][0]))
+    if locationID == "Invalid SQL" or location == "Invalid SQL":
         valid = False
-    return valid, location
+    return valid, location[0][1]
 
 
 def bill_status(packageID):
@@ -51,3 +53,9 @@ def bill_status(packageID):
     if total == "Invalid SQL":
         valid = False
     return valid, "Bill total: " + str(total)
+
+def main():
+    place_order()
+
+if __name__ == "__main__":
+    main()

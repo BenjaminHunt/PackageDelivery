@@ -17,18 +17,90 @@ cursor = connection.cursor()
 
 
 def main():
-    #with open("Person.csv") as line:
+    #with open("data/Person.csv") as line:
         #writer = csv.reader(line)
         #for row in writer:
-            #i = row[0].strip()
-            #FirstName = row[1].strip()
-            #MiddleName = row[2].strip()
-            #LastName = row[3].strip()
-            #payment = "paypal"
-            #balance = 44.00
-            #cursor.execute("SELECT * FROM person WHERE id=%s",i)
-            #value = cursor.fetchall()
-            #print(value)
+            #i = row[3].strip()
+            #FirstName = row[0].strip()
+            #MiddleName = row[1].strip()
+            #LastName = row[2].strip()
+            #payment = row[4].strip()
+            #balance = row[5].strip()
+            #if balance == '':
+                #balance = None
+            #cursor.execute("INSERT INTO person VALUES(%s, %s, %s, %s, %s, %s)",
+                           #(i,FirstName, MiddleName, LastName, payment, balance))
+
+    #with open("data/address.csv") as line:
+        #writer = csv.reader(line)
+        #for row in writer:
+            #i = row[6].strip()
+            #state = row[0].strip()
+            #city = row[1].strip()
+            #zip = row[2].strip()
+            #street = row[3].strip()
+            #street_num = row[4].strip()
+            #Apt_num = row[5]
+            #cursor.execute("INSERT INTO address VALUES(%s, %s, %s, %s, %s, %s, %s)",
+                        #(i, state, city, zip, street, street_num, Apt_num))
+
+    #with open("data/Location.csv") as line:
+        #writer = csv.reader(line)
+        #for row in writer:
+            #location_id = row[0].strip()
+            #type = row[1].strip()
+            #cursor.execute("INSERT INTO location VALUES(%s, %s)",(location_id,type))
+
+    #with open("data/MOCK_DATA.csv") as line:
+        #writer = csv.reader(line)
+        #for row in writer:
+            #packageid = row[0].strip()
+            #sender = row[1].strip()
+            #receiver = row[2].strip()
+            #if receiver == '':
+                #receiver = None
+            #cost = row[3].strip()
+            #type = row[4].strip()
+            #priority = row[5].strip()
+            #ishazard = row[6].strip()
+            #if ishazard == '':
+                #ishazard = 'false'
+            #isinternational = row[7].strip()
+            #if isinternational == '':
+                #isinternational = 'false'
+            #weight = row[9].strip()
+            #if weight == '':
+                #weight = 0.00
+            #value = row[10].strip()
+            #if value == '':
+                #value = 0
+            #cursor.execute("INSERT INTO package VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)",
+                           #(packageid, sender, receiver, cost, type, priority, ishazard, isinternational, weight, value))
+    #connection.commit()
+
+    #with open("data/order.csv") as line:
+        #writer = csv.reader(line)
+        #for row in writer:
+            #trackingnumber = row[0].strip()
+            #packageid = row[1].strip()
+            #ordertime = row[2].strip()
+            #fullfilledtime = row[3].strip()
+            #shippertime = row[4].strip()
+            #deliveredtime = row[5].strip()
+            #cursor.execute("INSERT INTO entry VALUES(%s, %s, %s, %s, %s, %s)",
+                           #(trackingnumber,packageid, ordertime, fullfilledtime, shippertime, deliveredtime))
+    #connection.commit()
+
+    #with open("data/log.csv") as line:
+        #writer = csv.reader(line)
+        #for row in writer:
+            #log_id = row[0].strip()
+            #timestamp = row[1].strip()
+            #event = row[2].strip()
+            #status = row[3].strip()
+            #location_id = row[4].strip()
+            #cursor.execute("INSERT INTO log VALUES(%s, %s, %s, %s, %s, %s)",
+                        #(log_id, location_id, log_id, timestamp, event, status))
 
     connection.commit()
     cursor.close()
@@ -47,7 +119,7 @@ def login(id):
 def get_role(id):
     if int(id) == 0:
         return "admin"
-    elif int(id) > 9000:
+    elif int(id) >= 9000:
         return "employee"
     return "customer"
 
@@ -68,14 +140,15 @@ def new(role):
 
 
 def execute_command(command):
-    print("db file: " + command)
-    try:
-        cursor.execute(command)
+    value = []
+    cursor.execute(command)
+    if command[0] != "I":
         value = cursor.fetchall()
-        return value
-    except:
-        connection.rollback()
-        return "Invalid SQL"
+    else:
+        connection.commit()
+    return value
+
+
 
 
 def parse_and_execute(text, id, role):
@@ -102,7 +175,7 @@ def admin_PAE(text):
 def cust_PAE(id, array):
     response = "\"{}\" is not a supported command.".format(array[0])
     if array[0] == "placeorder":  # placeorder <type> <weight> <source_add> <destination_add>
-        valid, cost = customer.place_order(id, array[1], array[2], array[3], array[4])  # TODO: INVALID SYNTAX/PARAMETERS RESPONSE
+        valid, cost = customer.place_order(id, array[1], array[2], array[3:])  # TODO: INVALID SYNTAX/PARAMETERS RESPONSE
         if valid:
             response = "Order placed. The cost is ${}.".format(cost)
         else:
@@ -134,7 +207,7 @@ def cust_PAE(id, array):
             response = "Invalid syntax."
     elif array[0] == "help":
         response = "Available commands:\n\t" \
-                   "placeorder <type> <weight> <source_add> <destination_add>: place an order\n\t" \
+                   "placeorder <type> <weight> <destination_add>: place an order\n\t" \
                     "acceptcharge: accept the charge associated with package, using your payment method\n\t" \
                     "listorders: list active packages, in and out going\n\t" \
                     "trackpackage <tracking_number>: track location of package by tracking number\n\t" \
@@ -166,15 +239,9 @@ def employee_PAE(id, array):
         else:
             response = "Invalid syntax."
     elif array[0] == "markasdelivered":
-        valid = employee.mark_as_delivered(array[1])
+        valid = employee.mark_as_delivered(array[1], array[2:])
         if valid:
             response = "Package" + array[1] + " marked as delivered"
-        else:
-            response = "Invalid syntax."
-    elif array[0] == "changeexpecteddelivery":
-        valid = employee.change_expected_delivery(array[1], array[2])
-        if valid:
-            response = "Package" + array[1] + " delivery date changed to " + array[2]
         else:
             response = "Invalid syntax."
     elif array[0] == "help":
@@ -182,8 +249,7 @@ def employee_PAE(id, array):
                    "listpackages: list active packages\n\t" \
                    "updateholdloc <package> <location>: update holding location\n\t" \
                    "markintransit <package> <vehicle>: mark a package in transit\n\t" \
-                   "markasdelivered <package>: mark a package as delivered\n\t" \
-                   "changeexpecteddelivery <package> <date>: change expected delivery time for package\n\t" \
+                   "markasdelivered <tracking number> <time>: mark a package as delivered\n\t" \
                    "logout: log out\n\t" \
                    "role: display your role\n\t" \
                    "help: this menu"
