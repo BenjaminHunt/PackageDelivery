@@ -156,6 +156,7 @@ def execute_command(command):
 def parse_and_execute(text, id, role):
     response = "RESPONSE"
     array = text.split()
+    array[0] = array[0].lower()  # DO FOR ALL ELEMENTS IN ARRAY ??????
     print(array)
 
     if role == "admin":
