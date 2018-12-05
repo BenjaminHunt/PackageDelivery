@@ -143,7 +143,7 @@ def execute_command(command):
     value = []
     try:
         cursor.execute(command)
-        if command[0] != "I":
+        if command[0] != "I" and command[0] != 'U':
             value = cursor.fetchall()
         else:
             connection.commit()
@@ -156,7 +156,6 @@ def execute_command(command):
 def parse_and_execute(text, id, role):
     response = "RESPONSE"
     array = text.split()
-    array[0] = array[0].lower()  # DO FOR ALL ELEMENTS IN ARRAY ??????
     print(array)
 
     if role == "admin":
@@ -224,7 +223,7 @@ def cust_PAE(id, array):
 def employee_PAE(id, array):
     response = "\"{}\" is not a supported command.".format(array[0])
     if array[0] == "listpackages":
-        valid, packages = employee.list_packages()
+        valid, packages = employee.list_packages(array[1])
         if valid:
             response = "Packages:\n{}".format(packages)
         else:
@@ -249,7 +248,7 @@ def employee_PAE(id, array):
             response = "Invalid syntax."
     elif array[0] == "help":
         response = "Available commands:\n\t" \
-                   "listpackages: list active packages\n\t" \
+                   "listpackages: <limit> list active packages\n\t" \
                    "updateholdloc <package> <location>: update holding location\n\t" \
                    "markintransit <package> <vehicle>: mark a package in transit\n\t" \
                    "markasdelivered <tracking number> <time>: mark a package as delivered\n\t" \

@@ -1,9 +1,9 @@
 import PackageDatabase as pd
 
 
-def list_packages():
+def list_packages(limit):
     valid = True
-    result = pd.execute_command("SELECT * FROM package")
+    result = pd.execute_command("SELECT * FROM package LIMIT {}".format(limit))
     if result == "Invalid SQL":
         valid = False
     return valid, result
