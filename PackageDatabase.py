@@ -1,9 +1,9 @@
 """
 Title: packageDatabase
 Team: notorious40s
-Description: This is the backend for the sql server that will be inserting the data
-             into to the appropriate tables. As of now I only insert into one table
-             but the logic for the rest of the tables will be very similar.
+Description: This is the backend program that connects to our database for insertion of data. This program will also
+            execute raw SQL across the database depending on what the parser deems to be the appropriate command to be
+            passed to it.
 """
 
 import psycopg2 as post
@@ -15,7 +15,9 @@ import Employee_Commands as employee
 connection = post.connect(host="reddwarf.cs.rit.edu", dbname='nwv4110', user='nwv4110', password='weix8shahcah6aiVee2A')
 cursor = connection.cursor()
 
-
+"""
+Main function primarily used to insert data into database using csv reader.
+"""
 def main():
     #with open("data/Person.csv") as line:
         #writer = csv.reader(line)
@@ -106,7 +108,9 @@ def main():
     cursor.close()
     connection.close()
 
-
+"""
+Queries the database for the id entered and returns whether that id is a valid id or not.
+"""
 def login(id):
     value = execute_command(("SELECT * FROM person WHERE ID={}".format(id)))
     if value and value != "Invalid SQL":
@@ -115,7 +119,9 @@ def login(id):
         return False
 
 
-# TODO: Determine role of user
+"""
+Function for grabbing the role of the user currently logged in.
+"""
 def get_role(id):
     if int(id) == 0:
         return "admin"
@@ -124,7 +130,9 @@ def get_role(id):
     return "customer"
 
 
-# TODO: Generate new user with role, and other required information
+"""
+Function for returning an id for a new role for a user not in the database.
+"""
 def new(role):
     if role == "customer":
         last_id = execute_command("SELECT MAX(Id) FROM person WHERE id<9000")
@@ -138,21 +146,21 @@ def new(role):
     else:
         return 0   # RETURN NEW ADMIN
 
-
+"""
+Function for executing SQL commands to the database.
+"""
 def execute_command(command):
     value = []
-    try:
-        cursor.execute(command)
-        if command[0] != "I" and command[0] != 'U':
-            value = cursor.fetchall()
-        else:
-            connection.commit()
-        return value
-    except:
-        connection.rollback()
-        return "Invalid SQL"
+    cursor.execute(command)
+    if command[0] != "I" and command[0] != 'U':
+        value = cursor.fetchall()
+    else:
+        connection.commit()
+    return value
 
-
+"""
+Function for parsing the text entered in the command-line interface based upon role of the current user logged in.
+"""
 def parse_and_execute(text, id, role):
     response = "RESPONSE"
     array = text.split()
@@ -167,13 +175,17 @@ def parse_and_execute(text, id, role):
 
     return response
 
-
+"""
+Parsing function for admin role
+"""
 def admin_PAE(text):
     if text == "help":
         return "Type anything but help, logout or role and it will be executed as raw SQL"
     return format(admin.execute_admin_command(text))
 
-
+"""
+Parsing function for customer role
+"""
 def cust_PAE(id, array):
     response = "\"{}\" is not a supported command.".format(array[0])
     if array[0] == "placeorder":  # placeorder <type> <weight> <source_add> <destination_add>
@@ -219,7 +231,9 @@ def cust_PAE(id, array):
                     "help: this menu"
     return response
 
-
+"""
+Parsing function for employee_role
+"""
 def employee_PAE(id, array):
     response = "\"{}\" is not a supported command.".format(array[0])
     if array[0] == "listpackages":
@@ -241,7 +255,7 @@ def employee_PAE(id, array):
         else:
             response = "Invalid syntax."
     elif array[0] == "markasdelivered":
-        valid = employee.mark_as_delivered(array[1], array[2:])
+        valid = employee.mark_as_delivered(array[1])
         if valid:
             response = "Package" + array[1] + " marked as delivered"
         else:
@@ -251,7 +265,7 @@ def employee_PAE(id, array):
                    "listpackages: <limit> list active packages\n\t" \
                    "updateholdloc <package> <location>: update holding location\n\t" \
                    "markintransit <package> <vehicle>: mark a package in transit\n\t" \
-                   "markasdelivered <tracking number> <time>: mark a package as delivered\n\t" \
+                   "markasdelivered <tracking number>: mark a package as delivered at current time\n\t" \
                    "logout: log out\n\t" \
                    "role: display your role\n\t" \
                    "help: this menu"
